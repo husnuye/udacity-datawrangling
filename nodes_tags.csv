@@ -1,0 +1,1047 @@
+id,key,value,type
+14071252,source,PGS,regular
+14071539,source,PGS,regular
+14075213,source,PGS,regular
+14082906,source,PGS,regular
+14088372,source,PGS,regular
+14089961,source,PGS,regular
+14090929,source,PGS,regular
+14091507,source,PGS,regular
+14091507,created_by,almien_coastlines,regular
+14188126,amenity,place_of_worship,regular
+17322514,created_by,JOSM,regular
+20964203,created_by,JOSM,regular
+21015283,created_by,JOSM,regular
+21093822,created_by,JOSM,regular
+21269147,created_by,JOSM,regular
+21307981,created_by,JOSM,regular
+21397971,created_by,JOSM,regular
+21449074,created_by,JOSM,regular
+24563626,source,survey,regular
+24563626,highway,traffic_signals,regular
+24938119,highway,traffic_signals,regular
+25233365,created_by,JOSM,regular
+25305506,created_by,JOSM,regular
+25316448,created_by,JOSM,regular
+25338642,created_by,JOSM,regular
+25339566,created_by,JOSM,regular
+25552165,created_by,JOSM,regular
+25884528,created_by,JOSM,regular
+25892673,created_by,JOSM,regular
+26123841,created_by,JOSM,regular
+26266594,created_by,JOSM,regular
+26292047,foot,yes,regular
+26292047,barrier,cycle_barrier,regular
+26292047,bicycle,yes,regular
+26353568,created_by,JOSM,regular
+26544125,created_by,JOSM,regular
+26705914,created_by,JOSM,regular
+26849321,created_by,JOSM,regular
+27394254,highway,traffic_signals,regular
+27419737,name,3345,regular
+27419737,amenity,restaurant,regular
+27419737,postal_code,L1 4JN,regular
+27427918,created_by,JOSM,regular
+27473421,created_by,JOSM,regular
+27616030,created_by,JOSM,regular
+27625579,created_by,JOSM,regular
+27736097,created_by,JOSM,regular
+28804423,created_by,JOSM,regular
+29001431,created_by,JOSM,regular
+29004376,name,Laburnum Court,regular
+29004376,created_by,JOSM,regular
+29004376,postal_code,L8 9XH,regular
+31059883,name,Knotty Ash,regular
+31059883,source,NPE,regular
+31059883,railway,station_site,regular
+31834975,name,Greasby,regular
+31834975,is_in,"Wirral, Merseyside, England, UK",regular
+31834975,place,village,regular
+31834975,source,npe,regular
+31834975,created_by,Potlatch 0.5a,regular
+57057642,created_by,JOSM,regular
+59956000,created_by,JOSM,regular
+60166241,created_by,JOSM,regular
+60269326,traffic_calming,bump,regular
+60839081,created_by,JOSM,regular
+61694118,created_by,JOSM,regular
+61842960,name,Childwall Valley Methodist Church,regular
+61842960,amenity,place_of_worship,regular
+61842960,religion,christian,regular
+61842960,denomination,methodist,regular
+64774398,created_by,JOSM,regular
+83353686,created_by,JOSM,regular
+94179646,created_by,JOSM,regular
+105644988,created_by,JOSM,regular
+105759618,created_by,JOSM,regular
+105781028,created_by,JOSM,regular
+105797423,created_by,JOSM,regular
+105807993,created_by,JOSM,regular
+107331729,created_by,JOSM,regular
+107897311,created_by,JOSM,regular
+107917625,created_by,JOSM,regular
+110375885,created_by,JOSM,regular
+110612185,created_by,JOSM,regular
+111793729,created_by,JOSM,regular
+112703504,created_by,JOSM,regular
+116147346,created_by,JOSM,regular
+119838488,name,The Railway Inn,regular
+119838488,amenity,pub,regular
+119838488,created_by,Potlatch 0.5a,regular
+122091307,created_by,JOSM,regular
+152294709,highway,mini_roundabout,regular
+157740784,created_by,JOSM,regular
+207607338,created_by,JOSM,regular
+245010596,ref,L15 487,regular
+245010596,amenity,post_box,regular
+247381353,name,Sisters of Charity of Our Lady of Evron,regular
+247381353,amenity,nursing_home,regular
+247381353,created_by,JOSM,regular
+247386386,name,Travellers' Court,regular
+247386386,created_by,JOSM,regular
+247601755,created_by,JOSM,regular
+250042809,created_by,JOSM,regular
+252204373,created_by,JOSM,regular
+253798645,created_by,JOSM,regular
+256829248,created_by,JOSM,regular
+262412510,name,Banquet House Chinese Take Away,regular
+262412510,amenity,fast_food,regular
+262412510,cuisine,chinese,regular
+262417220,name,Salisbury Court,regular
+262417220,note,flats,regular
+262417220,created_by,Potlatch 0.8c,regular
+276792016,highway,turning_circle,regular
+281814300,created_by,JOSM,regular
+290482707,created_by,JOSM,regular
+290488740,created_by,JOSM,regular
+290491057,created_by,JOSM,regular
+290627834,created_by,JOSM,regular
+297574265,power,tower,regular
+310248259,highway,turning_circle,regular
+310935560,created_by,Merkaartor 0.13,regular
+321486896,created_by,Merkaartor 0.13,regular
+322614526,created_by,Merkaartor 0.13,regular
+322941654,created_by,Merkaartor 0.13,regular
+338825172,source,yahoo,regular
+340560384,highway,mini_roundabout,regular
+340560384,direction,clockwise,regular
+343486418,amenity,post_box,regular
+343960664,power,tower,regular
+344603035,power,tower,regular
+348123415,foot,yes,regular
+348123415,horse,no,regular
+348123415,access,permissive,regular
+348123415,barrier,gate,regular
+348123415,bicycle,yes,regular
+348123415,motorcar,yes,regular
+348123415,motorcycle,yes,regular
+348176019,ref,L3 212,regular
+348176019,amenity,post_box,regular
+348176019,royal_cypher,EIIR,regular
+348176019,type,pillar,post_box
+348176019,design,double_type_g,post_box
+348176019,apertures,2,post_box
+358297658,highway,turning_circle,regular
+361453779,highway,turning_circle,regular
+417002606,name,Homebase,regular
+417002606,shop,doityourself,regular
+429946766,source,yahoo,regular
+454871105,source,bing,regular
+454871105,highway,mini_roundabout,regular
+454871105,direction,clockwise,regular
+457823130,barrier,bollard,regular
+458714874,highway,traffic_signals,regular
+459974403,note,with permission by email 2009.08.09,regular
+459974403,source,Friends of Rake Lane Cemetery,regular
+459974403,website,http://www.wallaseycemetery.co.uk/Cemetery%20Plan.htm,regular
+459974403,housenumber,6C,addr
+490058110,highway,turning_circle,regular
+491581360,name,Pacific Road Arts Centre,regular
+491581360,tourism,attraction,regular
+502506920,name,Shops,regular
+502506920,source,naptan_import,regular
+502506920,highway,bus_stop,regular
+502506920,alt_name,Overpool Post Office;Overpool Post Office;Overpool Shops,regular
+502506920,naptan:Street,Overpool Road,regular
+502506920,naptan:Bearing,N,regular
+502506920,naptan:AtcoCode,0610EP1095,regular
+502506920,naptan:Crossing,Seymour Drive,regular
+502506920,naptan:Landmark,Overpool Post Office,regular
+502506920,verified,no,naptan
+502506920,naptan:Indicator,o/s,regular
+502506920,naptan:CommonName,Shops,regular
+502506920,naptan:NaptanCode,chwawgm,regular
+502506920,naptan:AltCommonName,Overpool Post Office;Overpool Shops,regular
+502506920,naptan:ShortCommonName,Shops,regular
+502508114,name,Red Gates,regular
+502508114,source,naptan_import,regular
+502508114,highway,bus_stop,regular
+502508114,naptan:Street,Liverpool Road,regular
+502508114,naptan:Bearing,NE,regular
+502508114,naptan:AtcoCode,0610EP1368,regular
+502508114,naptan:Landmark,Red Gates,regular
+502508114,verified,no,naptan
+502508114,naptan:Indicator,o/s,regular
+502508114,naptan:CommonName,Red Gates,regular
+502508114,naptan:NaptanCode,chwjpdt,regular
+502508114,naptan:ShortCommonName,Red Gates,regular
+533843908,name,Old Lane/opp 78b,regular
+533843908,source,naptan_import,regular
+533843908,highway,bus_stop,regular
+533843908,naptan:Notes,No Notes,regular
+533843908,naptan:Street,Old Lane,regular
+533843908,naptan:Bearing,E,regular
+533843908,naptan:AtcoCode,2800S17013A,regular
+533843908,naptan:Landmark,Opp 78b,regular
+533843908,verified,no,naptan
+533843908,naptan:Indicator,Old Lane/opp 78b,regular
+533843908,naptan:CommonName,Old Lane/opp 78b,regular
+533843908,naptan:NaptanCode,merajmjm,regular
+533843908,naptan:ShortCommonName,Old Ln/opp 78b,regular
+533844923,name,Bedford Rd/rock Ferry Station,regular
+533844923,source,naptan_import,regular
+533844923,highway,bus_stop,regular
+533844923,naptan:Notes,No Notes,regular
+533844923,naptan:Street,Bedford Road,regular
+533844923,naptan:Bearing,E,regular
+533844923,naptan:AtcoCode,2800S20042A,regular
+533844923,naptan:Landmark,O/s Rock Station P/h Opp Rock Ferry Station,regular
+533844923,verified,no,naptan
+533844923,naptan:Indicator,Bedford Road/rock Ferry Stn,regular
+533844923,naptan:CommonName,Bedford Rd/rock Ferry Station,regular
+533844923,naptan:NaptanCode,merajwtm,regular
+533844923,naptan:ShortCommonName,Bford Rd/rk Fry St,regular
+533846080,name,BOROUGH ROAD/WHETSTONE LANE,regular
+533846080,source,naptan_import,regular
+533846080,highway,bus_stop,regular
+533846080,naptan:Notes,No Notes,regular
+533846080,naptan:Street,BOROUGH ROAD,regular
+533846080,naptan:Bearing,W,regular
+533846080,naptan:AtcoCode,2800S22011D,regular
+533846080,naptan:Landmark,OPP MULTI-STOREY CAR PARK,regular
+533846080,verified,no,naptan
+533846080,naptan:Indicator,BOROUGH ROAD/WHETSTONE LANE 2 OF 3,regular
+533846080,naptan:CommonName,BOROUGH ROAD/WHETSTONE LANE,regular
+533846080,naptan:NaptanCode,mergjwpg,regular
+533846080,naptan:ShortCommonName,Borough Road,regular
+533846588,name,POULTON ROAD/ILCHESTER ROAD,regular
+533846588,source,naptan_import,regular
+533846588,highway,bus_stop,regular
+533846588,naptan:Notes,No Notes,regular
+533846588,naptan:Street,POULTON ROAD,regular
+533846588,naptan:Bearing,E,regular
+533846588,naptan:AtcoCode,2800S21029C,regular
+533846588,naptan:Landmark,O/S 40,regular
+533846588,verified,no,naptan
+533846588,naptan:Indicator,POULTON ROAD/LLOYDS CORNER,regular
+533846588,naptan:CommonName,POULTON ROAD/ILCHESTER ROAD,regular
+533846588,naptan:NaptanCode,meramgjp,regular
+533846588,naptan:ShortCommonName,P'Lton Rd/Ilcstr Rd,regular
+533847076,name,RENDELL ST/CORPORATION RD,regular
+533847076,source,naptan_import,regular
+533847076,highway,bus_stop,regular
+533847076,naptan:Notes,No Notes,regular
+533847076,naptan:Street,RENDELL ST,regular
+533847076,naptan:Bearing,NE,regular
+533847076,naptan:AtcoCode,2800S22018A,regular
+533847076,naptan:Landmark,END MARCUS STREET OPP OLD DOCK ENTRANCE TO TUNN,regular
+533847076,verified,no,naptan
+533847076,naptan:Indicator,RENDELL ST/CORPORATION ROAD,regular
+533847076,naptan:CommonName,RENDELL ST/CORPORATION RD,regular
+533847076,naptan:NaptanCode,meramtmt,regular
+533847076,naptan:ShortCommonName,Corporation Rd,regular
+533847606,name,GROVE RD/WALLASEY STATION,regular
+533847606,source,naptan_import,regular
+533847606,highway,bus_stop,regular
+533847606,naptan:Notes,No Notes,regular
+533847606,naptan:Street,GROVE ROAD,regular
+533847606,naptan:Bearing,E,regular
+533847606,naptan:AtcoCode,2800S23018B,regular
+533847606,naptan:Landmark,O/S GROVE MANSION,regular
+533847606,verified,no,naptan
+533847606,naptan:Indicator,GROVE ROAD/WALLASEY VILLAGE,regular
+533847606,naptan:CommonName,GROVE RD/WALLASEY STATION,regular
+533847606,naptan:NaptanCode,merapama,regular
+533847606,naptan:ShortCommonName,Grove Rd/Pk Way,regular
+533848198,name,EARLSTON RD/WALLASEY LIBRARY,regular
+533848198,source,naptan_import,regular
+533848198,highway,bus_stop,regular
+533848198,naptan:Notes,No Notes,regular
+533848198,naptan:Street,EARLSTON ROAD,regular
+533848198,naptan:Bearing,SW,regular
+533848198,naptan:AtcoCode,2800S23074C,regular
+533848198,naptan:Landmark,ADJ LIBRARY,regular
+533848198,verified,no,naptan
+533848198,naptan:Indicator,EARLSTON ROAD OPP KIRKWAY,regular
+533848198,naptan:CommonName,EARLSTON RD/WALLASEY LIBRARY,regular
+533848198,naptan:NaptanCode,merapgda,regular
+533848198,naptan:ShortCommonName,Wallasey Library,regular
+533848781,name,WHALEY LANE/THINGWALL ROAD,regular
+533848781,source,naptan_import,regular
+533848781,highway,bus_stop,regular
+533848781,naptan:Notes,No Notes,regular
+533848781,naptan:Street,WHALEY LANE,regular
+533848781,naptan:Bearing,SE,regular
+533848781,naptan:AtcoCode,2800S26062B,regular
+533848781,naptan:Landmark,O/S 13,regular
+533848781,verified,no,naptan
+533848781,naptan:Indicator,WHALEY LANE/THINGWALL ROAD,regular
+533848781,naptan:CommonName,WHALEY LANE/THINGWALL ROAD,regular
+533848781,naptan:NaptanCode,meratgdg,regular
+533848781,naptan:ShortCommonName,Barker Rd,regular
+533849605,name,NEW BRIGHTON/KINGS PARADE STOP D,regular
+533849605,source,naptan_import,regular
+533849605,highway,bus_stop,regular
+533849605,naptan:Notes,No Notes,regular
+533849605,naptan:Street,KINGS PARADE STOP D,regular
+533849605,naptan:Bearing,W,regular
+533849605,naptan:AtcoCode,2800S23075D,regular
+533849605,naptan:Landmark,NR ROWSON STREET,regular
+533849605,verified,no,naptan
+533849605,naptan:Indicator,KINGS PARADE STOP D,regular
+533849605,naptan:CommonName,NEW BRIGHTON/KINGS PARADE STOP D,regular
+533849605,naptan:NaptanCode,merapgdm,regular
+533849605,naptan:ShortCommonName,Kings Parade stnd D,regular
+533850100,name,HOYLAKE ROAD/REEDS LANE/FENDER WAY,regular
+533850100,source,naptan_import,regular
+533850100,highway,bus_stop,regular
+533850100,naptan:Notes,No Notes,regular
+533850100,naptan:Street,HOYLAKE ROAD,regular
+533850100,naptan:Bearing,SW,regular
+533850100,naptan:AtcoCode,2800S25023B,regular
+533850100,naptan:Landmark,H'lake Rd/REEDS LN,regular
+533850100,verified,no,naptan
+533850100,naptan:Indicator,HOYLAKE ROAD/REEDS LANE/FENDER WAY,regular
+533850100,naptan:CommonName,HOYLAKE ROAD/REEDS LANE/FENDER WAY,regular
+533850100,naptan:NaptanCode,merapmap,regular
+533850100,naptan:ShortCommonName,H'Lake Rd/Reeds Ln,regular
+533850598,name,FENDER WAY/BIDSTON GREEN DRIVE,regular
+533850598,source,naptan_import,regular
+533850598,highway,bus_stop,regular
+533850598,naptan:Notes,No Notes,regular
+533850598,naptan:Street,FENDER WAY,regular
+533850598,naptan:Bearing,S,regular
+533850598,naptan:AtcoCode,2800S25073B,regular
+533850598,naptan:Landmark,CORNER BIDSTON GREEN DRIVE,regular
+533850598,verified,no,naptan
+533850598,naptan:Indicator,FENDER WAY,regular
+533850598,naptan:CommonName,FENDER WAY/BIDSTON GREEN DRIVE,regular
+533850598,naptan:NaptanCode,merapwag,regular
+533850598,naptan:ShortCommonName,Bidston Green Dr,regular
+533851356,name,WARRINGTON RD/SCHOOL LN,regular
+533851356,source,naptan_import,regular
+533851356,highway,bus_stop,regular
+533851356,naptan:Notes,No Notes,regular
+533851356,naptan:Street,WARRINGTON ROAD,regular
+533851356,naptan:Bearing,N,regular
+533851356,naptan:AtcoCode,2800S14039A,regular
+533851356,naptan:Landmark,O/S 826,regular
+533851356,verified,no,naptan
+533851356,naptan:Indicator,WARRINGTON ROAD/SCHOOL LANE,regular
+533851356,naptan:CommonName,WARRINGTON RD/SCHOOL LN,regular
+533851356,naptan:NaptanCode,meragptw,regular
+533851356,naptan:ShortCommonName,St Barts School,regular
+533851886,name,SPITAL ROAD,regular
+533851886,source,naptan_import,regular
+533851886,highway,bus_stop,regular
+533851886,naptan:Notes,No Notes,regular
+533851886,naptan:Street,SPITAL ROAD,regular
+533851886,naptan:Bearing,W,regular
+533851886,naptan:AtcoCode,2800S27079A,regular
+533851886,naptan:Landmark,O/S 32,regular
+533851886,verified,no,naptan
+533851886,naptan:Indicator,SPITAL ROAD,regular
+533851886,naptan:CommonName,SPITAL ROAD,regular
+533851886,naptan:NaptanCode,meratpaw,regular
+533851886,naptan:ShortCommonName,Spital Rd/Blair Pk,regular
+533852399,name,MONTGOMERY HILL/BIRCH HEYS,regular
+533852399,source,naptan_import,regular
+533852399,highway,bus_stop,regular
+533852399,naptan:Notes,No Notes,regular
+533852399,naptan:Street,MONTGOMERY HILL,regular
+533852399,naptan:Bearing,SW,regular
+533852399,naptan:AtcoCode,2800S31032A,regular
+533852399,naptan:Landmark,CORNER BIRCH HEYS NR HALL COTTAGES,regular
+533852399,verified,no,naptan
+533852399,naptan:Indicator,MONTGOMERY HILL,regular
+533852399,naptan:CommonName,MONTGOMERY HILL/BIRCH HEYS,regular
+533852399,naptan:NaptanCode,mergmdpw,regular
+533852399,naptan:ShortCommonName,Montgomery Hill,regular
+533853319,name,MILL PARK DRIVE/THE RAKE,regular
+533853319,source,naptan_import,regular
+533853319,highway,bus_stop,regular
+533853319,naptan:Notes,No Notes,regular
+533853319,naptan:Street,MILL PARK DRIVE,regular
+533853319,naptan:Bearing,NE,regular
+533853319,naptan:AtcoCode,2800S28006B,regular
+533853319,naptan:Landmark,CORNER KINGSLEY AVENUE O/S THE RAKE PH,regular
+533853319,verified,no,naptan
+533853319,naptan:Indicator,MILL PARK DRIVE/CLIFTON AVENUE,regular
+533853319,naptan:CommonName,MILL PARK DRIVE/THE RAKE,regular
+533853319,naptan:NaptanCode,meratwap,regular
+533853319,naptan:ShortCommonName,Mill Pk Dr/Rake,regular
+533853876,name,MILLBROOK LN/CROCKETTS WALK,regular
+533853876,source,naptan_import,regular
+533853876,highway,bus_stop,regular
+533853876,naptan:Notes,No Notes,regular
+533853876,naptan:Street,MILLBROOK LANE,regular
+533853876,naptan:Bearing,N,regular
+533853876,naptan:AtcoCode,2800S15008B,regular
+533853876,naptan:Landmark,O/S 61,regular
+533853876,verified,no,naptan
+533853876,naptan:Indicator,MILLBROOK LANE/CROCKETTS WALK,regular
+533853876,naptan:CommonName,MILLBROOK LN/CROCKETTS WALK,regular
+533853876,naptan:NaptanCode,meragtwa,regular
+533853876,naptan:ShortCommonName,Crocketts Walk,regular
+533854515,name,OAKFIELD ROAD/HEYES STREET,regular
+533854515,source,naptan_import,regular
+533854515,highway,bus_stop,regular
+533854515,naptan:Notes,No Notes,regular
+533854515,naptan:Street,OAKFIELD ROAD,regular
+533854515,naptan:Bearing,NW,regular
+533854515,naptan:AtcoCode,2800S40108A,regular
+533854515,naptan:Landmark,CORNER HEYES STREET CLOSE TO THIRLMERE ROAD,regular
+533854515,verified,no,naptan
+533854515,naptan:Indicator,OAKFIELD ROAD,regular
+533854515,naptan:CommonName,OAKFIELD ROAD/HEYES STREET,regular
+533854515,naptan:NaptanCode,merdamjd,regular
+533854515,naptan:PlusbusZoneRef,LVRPLCH,regular
+533854515,naptan:ShortCommonName,The Oakfield,regular
+533854845,name,DERBY ROAD/BANKFIELD STREET,regular
+533854845,source,naptan_import,regular
+533854845,highway,bus_stop,regular
+533854845,naptan:Notes,No Notes,regular
+533854845,naptan:Street,DERBY ROAD,regular
+533854845,naptan:Bearing,S,regular
+533854845,naptan:AtcoCode,2800S40004A,regular
+533854845,naptan:Landmark,CORNER FORGE STREET O/S SHOP 60,regular
+533854845,verified,no,naptan
+533854845,naptan:Indicator,DERBY ROAD,regular
+533854845,naptan:CommonName,DERBY ROAD/BANKFIELD STREET,regular
+533854845,naptan:NaptanCode,merawpmt,regular
+533854845,naptan:PlusbusZoneRef,LVRPLCH,regular
+533854845,naptan:ShortCommonName,Derby Rd/Bankfld St,regular
+533855110,name,HEYWORTH STREET/ST DOMINGO ROAD,regular
+533855110,source,naptan_import,regular
+533855110,highway,bus_stop,regular
+533855110,naptan:Notes,No Notes,regular
+533855110,naptan:Street,HEYWORTH STREET,regular
+533855110,naptan:Bearing,N,regular
+533855110,naptan:AtcoCode,2800S40051B,regular
+533855110,naptan:Landmark,O/S ST GEORGES PRIMARY SCHOOL NEAR CHURCH,regular
+533855110,verified,no,naptan
+533855110,naptan:Indicator,HEYWORTH STREET/ST DOMINGO ROAD,regular
+533855110,naptan:CommonName,HEYWORTH STREET/ST DOMINGO ROAD,regular
+533855110,naptan:NaptanCode,merdadpm,regular
+533855110,naptan:PlusbusZoneRef,LVRPLCH,regular
+533855110,naptan:ShortCommonName,St Georges Prim Sch,regular
+533855427,name,ST JAMES STREET/NORFOLK STREET,regular
+533855427,source,naptan_import,regular
+533855427,highway,bus_stop,regular
+533855427,naptan:Notes,No Notes,regular
+533855427,naptan:Street,ST JAMES STREET,regular
+533855427,naptan:Bearing,NW,regular
+533855427,naptan:AtcoCode,2800S41018A,regular
+533855427,naptan:Landmark,NRLY OPP ST VINCENT DE PAUL CHURCH,regular
+533855427,verified,no,naptan
+533855427,naptan:Indicator,ST JAMES STREET/PARK LANE,regular
+533855427,naptan:CommonName,ST JAMES STREET/NORFOLK STREET,regular
+533855427,naptan:NaptanCode,merdatgt,regular
+533855427,naptan:PlusbusZoneRef,LVRPLCH,regular
+533855427,naptan:ShortCommonName,Norfolk St,regular
+533855816,name,PRINCES PARK GATES,regular
+533855816,source,naptan_import,regular
+533855816,highway,bus_stop,regular
+533855816,naptan:Notes,No Notes,regular
+533855816,naptan:Street,PRINCES PARK GATES,regular
+533855816,naptan:Bearing,NW,regular
+533855816,naptan:AtcoCode,2800S41057B,regular
+533855816,naptan:Landmark,O/S 154,regular
+533855816,verified,no,naptan
+533855816,naptan:Indicator,PRINCES PARK GATES,regular
+533855816,naptan:CommonName,PRINCES PARK GATES,regular
+533855816,naptan:NaptanCode,merdgama,regular
+533855816,naptan:PlusbusZoneRef,LVRPLCH,regular
+533855816,naptan:ShortCommonName,Princes Park Gates,regular
+533856088,name,NETHERFIELD ROAD NORTH/FLATS,regular
+533856088,source,naptan_import,regular
+533856088,highway,bus_stop,regular
+533856088,naptan:Notes,No Notes,regular
+533856088,naptan:Street,NETHERFIELD ROAD NORTH,regular
+533856088,naptan:Bearing,N,regular
+533856088,naptan:AtcoCode,2800S40087B,regular
+533856088,naptan:Landmark,O/S EDINBURGH TOWERS MULTI STOREY FLATS,regular
+533856088,verified,no,naptan
+533856088,naptan:Indicator,NETHERFIELD ROAD NORTH,regular
+533856088,naptan:CommonName,NETHERFIELD ROAD NORTH/FLATS,regular
+533856088,naptan:NaptanCode,merdajpg,regular
+533856088,naptan:PlusbusZoneRef,LVRPLCH,regular
+533856088,naptan:ShortCommonName,Netherfld Rd N/Flat,regular
+533856270,name,WAVERTREE AVENUE/RATHBONE ROAD,regular
+533856270,source,naptan_import,regular
+533856270,highway,bus_stop,regular
+533856270,naptan:Notes,No Notes,regular
+533856270,naptan:Street,WAVERTREE AVENUE,regular
+533856270,naptan:Bearing,W,regular
+533856270,naptan:AtcoCode,2800S41115C,regular
+533856270,naptan:Landmark,W'TREE AV/RATHBNE RD,regular
+533856270,verified,no,naptan
+533856270,naptan:Indicator,WAVERTREE AVENUE/RATHBONE ROAD,regular
+533856270,naptan:CommonName,WAVERTREE AVENUE/RATHBONE ROAD,regular
+533856270,naptan:NaptanCode,merdgmgp,regular
+533856270,naptan:PlusbusZoneRef,LVRPLCH,regular
+533856270,naptan:ShortCommonName,Wavertree Tech Park,regular
+533856506,name,CROWN ST/ORPHAN ST,regular
+533856506,source,naptan_import,regular
+533856506,highway,bus_stop,regular
+533856506,naptan:Notes,No Notes,regular
+533856506,naptan:Street,CROWN STREET,regular
+533856506,naptan:Bearing,NW,regular
+533856506,naptan:AtcoCode,2800S41218A,regular
+533856506,naptan:Landmark,O/S 219,regular
+533856506,verified,no,naptan
+533856506,naptan:Indicator,CROWN STREET/ORPHAN STREET,regular
+533856506,naptan:CommonName,CROWN ST/ORPHAN ST,regular
+533856506,naptan:NaptanCode,merdgtjp,regular
+533856506,naptan:PlusbusZoneRef,LVRPLCH,regular
+533856506,naptan:ShortCommonName,Crown St/Orphan St,regular
+533856710,name,RENSHAW ST/BROWNLOW HILL/SG,regular
+533856710,source,naptan_import,regular
+533856710,highway,bus_stop,regular
+533856710,naptan:Notes,No Notes,regular
+533856710,naptan:Street,RENSHAW STREET,regular
+533856710,naptan:Bearing,NW,regular
+533856710,naptan:AtcoCode,2800S42037A,regular
+533856710,naptan:Landmark,O/S LEWIS'S SHELTER NEAREST LIME STREET,regular
+533856710,verified,no,naptan
+533856710,naptan:Indicator,RENSHAW STREET/BROWNLOW HILL/SG,regular
+533856710,naptan:CommonName,RENSHAW ST/BROWNLOW HILL/SG,regular
+533856710,naptan:NaptanCode,merdjajd,regular
+533856710,naptan:PlusbusZoneRef,LVRPLCH,regular
+533856710,naptan:ShortCommonName,Lewis's,regular
+533856892,name,CHESTER ROAD/GAYTON LANE,regular
+533856892,source,naptan_import,regular
+533856892,highway,bus_stop,regular
+533856892,naptan:Notes,No Notes,regular
+533856892,naptan:Street,CHESTER ROAD,regular
+533856892,naptan:Bearing,SE,regular
+533856892,naptan:AtcoCode,2800S29020B,regular
+533856892,naptan:Landmark,OPP GAYTON LANE,regular
+533856892,verified,no,naptan
+533856892,naptan:Indicator,CHESTER ROAD/TELEGRAPH ROAD,regular
+533856892,naptan:CommonName,CHESTER ROAD/GAYTON LANE,regular
+533856892,naptan:NaptanCode,merawdtd,regular
+533856892,naptan:ShortCommonName,gayotn Ln,regular
+533857057,name,WALTON HALL AVENUE/SCARISBRICK ROAD,regular
+533857057,source,naptan_import,regular
+533857057,highway,bus_stop,regular
+533857057,naptan:Notes,No Notes,regular
+533857057,naptan:Street,WALTON HALL AVENUE,regular
+533857057,naptan:Bearing,SW,regular
+533857057,naptan:AtcoCode,2800S46042A,regular
+533857057,naptan:Landmark,CORNER SCARISBRICK ROAD NR RAILWAY BRIDGE,regular
+533857057,verified,no,naptan
+533857057,naptan:Indicator,WALTON HALL AVENUE/EAST LANCS ROAD,regular
+533857057,naptan:CommonName,WALTON HALL AVENUE/SCARISBRICK ROAD,regular
+533857057,naptan:NaptanCode,merdpdmg,regular
+533857057,naptan:PlusbusZoneRef,LVRPLCH,regular
+533857057,naptan:ShortCommonName,Scarisbrick Rd,regular
+533857207,name,CROXTETH COUNTY COMP SCHOOL,regular
+533857207,source,naptan_import,regular
+533857207,highway,bus_stop,regular
+533857207,naptan:Notes,No Notes,regular
+533857207,naptan:Street,CROXTETH COUNTY COMP SCHOOL,regular
+533857207,naptan:Bearing,NW,regular
+533857207,naptan:AtcoCode,2800S46092B,regular
+533857207,naptan:Landmark,OPP INFANT SCHOOL NR STONEBRIDGE CRESCENT,regular
+533857207,verified,no,naptan
+533857207,naptan:Indicator,CROXTETH COUNTY COMP SCHOOL,regular
+533857207,naptan:CommonName,CROXTETH COUNTY COMP SCHOOL,regular
+533857207,naptan:NaptanCode,merdpjgw,regular
+533857207,naptan:PlusbusZoneRef,LVRPLCH,regular
+533857207,naptan:ShortCommonName,Croxteth Comp Sch,regular
+533857352,name,Stanley Road/merton Road,regular
+533857352,source,naptan_import,regular
+533857352,highway,bus_stop,regular
+533857352,naptan:Notes,No Notes,regular
+533857352,naptan:Street,Stanley Road,regular
+533857352,naptan:Bearing,S,regular
+533857352,naptan:AtcoCode,2800S47027C,regular
+533857352,naptan:Landmark,Corner Park Street O/s Solicitors Office 202,regular
+533857352,verified,no,naptan
+533857352,naptan:Indicator,Stanley Road/merton Road,regular
+533857352,naptan:CommonName,Stanley Road/merton Road,regular
+533857352,naptan:NaptanCode,merdptdm,regular
+533857352,naptan:PlusbusZoneRef,LVRPLCH,regular
+533857352,naptan:ShortCommonName,Merton Rd,regular
+533857551,name,MENLOVE AVE/WYNDCOTTE RD,regular
+533857551,source,naptan_import,regular
+533857551,highway,bus_stop,regular
+533857551,naptan:Notes,No Notes,regular
+533857551,naptan:Street,MENLOVE AVENUE,regular
+533857551,naptan:Bearing,W,regular
+533857551,naptan:AtcoCode,2800S43022C,regular
+533857551,naptan:Landmark,OPP 15,regular
+533857551,verified,no,naptan
+533857551,naptan:Indicator,MENLOVE AVENUE/ALLERTON ROAD,regular
+533857551,naptan:CommonName,MENLOVE AVE/WYNDCOTTE RD,regular
+533857551,naptan:NaptanCode,merdjgtd,regular
+533857551,naptan:PlusbusZoneRef,LVRPLCH,regular
+533857551,naptan:ShortCommonName,Wyndcote Rd,regular
+533857771,name,HALEWOOD RD/MACKETTS LN/ENGLISH ROSE,regular
+533857771,source,naptan_import,regular
+533857771,highway,bus_stop,regular
+533857771,naptan:Notes,No Notes,regular
+533857771,naptan:Street,HALEWOOD ROAD,regular
+533857771,naptan:Bearing,N,regular
+533857771,naptan:AtcoCode,2800S43062C,regular
+533857771,naptan:Landmark,O/S 202,regular
+533857771,verified,no,naptan
+533857771,naptan:Indicator,HALEWOOD ROAD/MACKETTS LANE/ENGLISH ROSE,regular
+533857771,naptan:CommonName,HALEWOOD RD/MACKETTS LN/ENGLISH ROSE,regular
+533857771,naptan:NaptanCode,merdjptj,regular
+533857771,naptan:PlusbusZoneRef,LVRPLCH,regular
+533857771,naptan:ShortCommonName,English Rose,regular
+533858097,name,FINCH LANE/FINCHAM ROAD,regular
+533858097,source,naptan_import,regular
+533858097,highway,bus_stop,regular
+533858097,naptan:Notes,No Notes,regular
+533858097,naptan:Street,FINCH LANE,regular
+533858097,naptan:Bearing,SW,regular
+533858097,naptan:AtcoCode,2800S44033B,regular
+533858097,naptan:Landmark,O/S 162 CORNER FINCHAM ROAD,regular
+533858097,verified,no,naptan
+533858097,naptan:Indicator,FINCH LANE/LIVERPOOL ROAD,regular
+533858097,naptan:CommonName,FINCH LANE/FINCHAM ROAD,regular
+533858097,naptan:NaptanCode,mergmjpt,regular
+533858097,naptan:PlusbusZoneRef,LVRPLCH,regular
+533858097,naptan:ShortCommonName,Finch Ln,regular
+533858343,name,WESTERN AVENUE/WESTWICK PLACE,regular
+533858343,source,naptan_import,regular
+533858343,highway,bus_stop,regular
+533858343,naptan:Notes,No Notes,regular
+533858343,naptan:Street,WESTERN AVENUE,regular
+533858343,naptan:Bearing,W,regular
+533858343,naptan:AtcoCode,2800S44088A,regular
+533858343,naptan:Landmark,CORNER WESTWICK PLACE NR THE DOVECOT PH,regular
+533858343,verified,no,naptan
+533858343,naptan:Indicator,WESTERN AVENUE/PAGE MOSS LANE,regular
+533858343,naptan:CommonName,WESTERN AVENUE/WESTWICK PLACE,regular
+533858343,naptan:NaptanCode,merdmptg,regular
+533858343,naptan:PlusbusZoneRef,LVRPLCH,regular
+533858343,naptan:ShortCommonName,Windsor Rd,regular
+533858606,name,BRIDLE ROAD/NETHERTON IND ESTATE,regular
+533858606,source,naptan_import,regular
+533858606,highway,bus_stop,regular
+533858606,naptan:Notes,No Notes,regular
+533858606,naptan:Street,BRIDLE ROAD,regular
+533858606,naptan:Bearing,SW,regular
+533858606,naptan:AtcoCode,2800S47064A,regular
+533858606,naptan:Landmark,OPP MIDLAND BANK COMPUTER CENTRE,regular
+533858606,verified,no,naptan
+533858606,naptan:Indicator,BRIDLE ROAD/AINTREE ROAD,regular
+533858606,naptan:CommonName,BRIDLE ROAD/NETHERTON IND ESTATE,regular
+533858606,naptan:NaptanCode,merdpwtm,regular
+533858606,naptan:PlusbusZoneRef,LVRPLCH,regular
+533858606,naptan:ShortCommonName,Bridle Way,regular
+533858948,name,HARRIS DRIVE/ORRELL ROAD,regular
+533858948,source,naptan_import,regular
+533858948,highway,bus_stop,regular
+533858948,naptan:Notes,No Notes,regular
+533858948,naptan:Street,HARRIS DRIVE,regular
+533858948,naptan:Bearing,NE,regular
+533858948,naptan:AtcoCode,2800S47122A,regular
+533858948,naptan:Landmark,OPP 108 O/S SIR ROBERT BALLAMINE SCHOOL AND CH,regular
+533858948,verified,no,naptan
+533858948,naptan:Indicator,HARRIS DRIVE/ORRELL ROAD,regular
+533858948,naptan:CommonName,HARRIS DRIVE/ORRELL ROAD,regular
+533858948,naptan:NaptanCode,merdtdtw,regular
+533858948,naptan:PlusbusZoneRef,LVRPLCH,regular
+533858948,naptan:ShortCommonName,Harris Dr/Orrell Rd,regular
+533859534,name,UTTING AVENUE/BROADWAY,regular
+533859534,source,naptan_import,regular
+533859534,highway,bus_stop,regular
+533859534,naptan:Notes,No Notes,regular
+533859534,naptan:Street,UTTING AVENUE,regular
+533859534,naptan:Bearing,E,regular
+533859534,naptan:AtcoCode,2800S46001D,regular
+533859534,naptan:Landmark,O/S PUBLIC TOILETS,regular
+533859534,verified,no,naptan
+533859534,naptan:Indicator,UTTING AVENUE/TOWNSEND AVENUE/BROADWAY,regular
+533859534,naptan:CommonName,UTTING AVENUE/BROADWAY,regular
+533859534,naptan:NaptanCode,merdmwjm,regular
+533859534,naptan:PlusbusZoneRef,LVRPLCH,regular
+533859534,naptan:ShortCommonName,Utting Av/Broadway,regular
+533860150,name,NAYLORSFIELD DRIVE/SOUTHBROOK ROAD,regular
+533860150,source,naptan_import,regular
+533860150,highway,bus_stop,regular
+533860150,naptan:Notes,No Notes,regular
+533860150,naptan:Street,NAYLORSFIELD DRIVE,regular
+533860150,naptan:Bearing,NE,regular
+533860150,naptan:AtcoCode,2800S50012B,regular
+533860150,naptan:Landmark,OPP SOUTHBROOK ROAD,regular
+533860150,verified,no,naptan
+533860150,naptan:Indicator,NAYLORSFIELD DRIVE/SOUTHBROOK ROAD,regular
+533860150,naptan:CommonName,NAYLORSFIELD DRIVE/SOUTHBROOK ROAD,regular
+533860150,naptan:NaptanCode,merdtwgw,regular
+533860150,naptan:PlusbusZoneRef,LVRPLCH,regular
+533860150,naptan:ShortCommonName,Southbrook Rd,regular
+533860414,name,MATHER AVENUE/HEATH ROAD,regular
+533860414,source,naptan_import,regular
+533860414,highway,bus_stop,regular
+533860414,naptan:Notes,No Notes,regular
+533860414,naptan:Street,MATHER AVENUE,regular
+533860414,naptan:Bearing,SE,regular
+533860414,naptan:AtcoCode,2800S43104B,regular
+533860414,naptan:Landmark,O/S ST BERNADETTES R.C. CHURCH,regular
+533860414,verified,no,naptan
+533860414,naptan:Indicator,MATHER AVENUE/HEATH ROAD,regular
+533860414,naptan:CommonName,MATHER AVENUE/HEATH ROAD,regular
+533860414,naptan:NaptanCode,merdjwja,regular
+533860414,naptan:PlusbusZoneRef,LVRPLCH,regular
+533860414,naptan:ShortCommonName,Mather Av/Heath Rd,regular
+533860608,name,HEADBOLT LANE/PINGWOOD LANE,regular
+533860608,source,naptan_import,regular
+533860608,highway,bus_stop,regular
+533860608,naptan:Notes,No Notes,regular
+533860608,naptan:Street,HEADBOLT LANE,regular
+533860608,naptan:Bearing,SW,regular
+533860608,naptan:AtcoCode,2800S52006B,regular
+533860608,naptan:Landmark,OPP LANGTON ROAD,regular
+533860608,verified,no,naptan
+533860608,naptan:Indicator,HEADBOLT LANE/PINGWOOD LANE,regular
+533860608,naptan:CommonName,HEADBOLT LANE/PINGWOOD LANE,regular
+533860608,naptan:NaptanCode,merdwpad,regular
+533860608,naptan:PlusbusZoneRef,LVRPLCH,regular
+533860608,naptan:ShortCommonName,Southcroft,regular
+533860758,name,KNOWSLEY LANE/RADWAY ROAD,regular
+533860758,source,naptan_import,regular
+533860758,highway,bus_stop,regular
+533860758,naptan:Notes,No Notes,regular
+533860758,naptan:Street,KNOWSLEY LANE,regular
+533860758,naptan:Bearing,W,regular
+533860758,naptan:AtcoCode,2800S51010A,regular
+533860758,naptan:Landmark,O/S 95,regular
+533860758,verified,no,naptan
+533860758,naptan:Indicator,KNOWSLEY LANE/RADWAY ROAD,regular
+533860758,naptan:CommonName,KNOWSLEY LANE/RADWAY ROAD,regular
+533860758,naptan:NaptanCode,merdwdgj,regular
+533860758,naptan:PlusbusZoneRef,LVRPLCH,regular
+533860758,naptan:ShortCommonName,Radway Rd,regular
+533860889,name,POTTERY LANE/GREENES ROAD,regular
+533860889,source,naptan_import,regular
+533860889,highway,bus_stop,regular
+533860889,naptan:Notes,No Notes,regular
+533860889,naptan:Street,POTTERY LANE,regular
+533860889,naptan:Bearing,E,regular
+533860889,naptan:AtcoCode,2800S51061B,regular
+533860889,naptan:Landmark,OPP DOULTON CLOSE BETWEEN 66/68,regular
+533860889,verified,no,naptan
+533860889,naptan:Indicator,POTTERY LANE/GREENES ROAD,regular
+533860889,naptan:CommonName,POTTERY LANE/GREENES ROAD,regular
+533860889,naptan:NaptanCode,merdwjaw,regular
+533860889,naptan:PlusbusZoneRef,LVRPLCH,regular
+533860889,naptan:ShortCommonName,Pottery Ln,regular
+533861108,name,BIGDALE DRIVE/QUARRYSIDE DRIVE,regular
+533861108,source,naptan_import,regular
+533861108,highway,bus_stop,regular
+533861108,naptan:Notes,No Notes,regular
+533861108,naptan:Street,BIGDALE DRIVE,regular
+533861108,naptan:Bearing,N,regular
+533861108,naptan:AtcoCode,2800S52065B,regular
+533861108,naptan:Landmark,O/S 49 OPP ST MARIE'S SCHOOL,regular
+533861108,verified,no,naptan
+533861108,naptan:Indicator,BIGDALE DRIVE/QUARRYSIDE DRIVE,regular
+533861108,naptan:CommonName,BIGDALE DRIVE/QUARRYSIDE DRIVE,regular
+533861108,naptan:NaptanCode,mergadgd,regular
+533861108,naptan:PlusbusZoneRef,LVRPLCH,regular
+533861108,naptan:ShortCommonName,St Maries RC Sch,regular
+533861345,name,EASTERN AVE/ALDERWOOD AVE,regular
+533861345,source,naptan_import,regular
+533861345,highway,bus_stop,regular
+533861345,naptan:Notes,No Notes,regular
+533861345,naptan:Street,EASTERN AVENUE,regular
+533861345,naptan:Bearing,S,regular
+533861345,naptan:AtcoCode,2800S48011B,regular
+533861345,naptan:Landmark,O/S 71,regular
+533861345,verified,no,naptan
+533861345,naptan:Indicator,EASTERN AVENUE/ALDERWOOD AVENUE,regular
+533861345,naptan:CommonName,EASTERN AVE/ALDERWOOD AVE,regular
+533861345,naptan:NaptanCode,merdtgwm,regular
+533861345,naptan:PlusbusZoneRef,LVRPLCH,regular
+533861345,naptan:ShortCommonName,Alderwood Av,regular
+533861624,name,HALEBANK ROAD/LOWER ROAD,regular
+533861624,source,naptan_import,regular
+533861624,highway,bus_stop,regular
+533861624,naptan:Notes,No Notes,regular
+533861624,naptan:Street,HALEBANK ROAD,regular
+533861624,naptan:Bearing,NW,regular
+533861624,naptan:AtcoCode,2800S48064A,regular
+533861624,naptan:Landmark,OPP COTTAGE 2 LABURNUM COTTAGES,regular
+533861624,verified,no,naptan
+533861624,naptan:Indicator,HALEBANK ROAD/LOWER ROAD,regular
+533861624,naptan:CommonName,HALEBANK ROAD/LOWER ROAD,regular
+533861624,naptan:NaptanCode,mergmptm,regular
+533861624,naptan:PlusbusZoneRef,HALTON,regular
+533861624,naptan:ShortCommonName,Halebank Rd,regular
+533861817,name,SAUNDERS AVENUE/CROSS LANE,regular
+533861817,source,naptan_import,regular
+533861817,highway,bus_stop,regular
+533861817,naptan:Notes,No Notes,regular
+533861817,naptan:Street,SAUNDERS AVENUE,regular
+533861817,naptan:Bearing,E,regular
+533861817,naptan:AtcoCode,2800S51124A,regular
+533861817,naptan:Landmark,NR 1,regular
+533861817,verified,no,naptan
+533861817,naptan:Indicator,SAUNDERS AVENUE/CROSS LANE,regular
+533861817,naptan:CommonName,SAUNDERS AVENUE/CROSS LANE,regular
+533861817,naptan:NaptanCode,merdwmpm,regular
+533861817,naptan:PlusbusZoneRef,LVRPLCH,regular
+533861817,naptan:ShortCommonName,Cross Ln,regular
+533861983,name,MOOR LANE/MOOR DRIVE,regular
+533861983,source,naptan_import,regular
+533861983,highway,bus_stop,regular
+533861983,naptan:Notes,No Notes,regular
+533861983,naptan:Street,MOOR LANE,regular
+533861983,naptan:Bearing,W,regular
+533861983,naptan:AtcoCode,2800S54038A,regular
+533861983,naptan:Landmark,O/S 108 NR PARK AVENUE,regular
+533861983,verified,no,naptan
+533861983,naptan:Indicator,MOOR LANE/THE NORTHERN ROAD,regular
+533861983,naptan:CommonName,MOOR LANE/MOOR DRIVE,regular
+533861983,naptan:NaptanCode,mergapmp,regular
+533861983,naptan:PlusbusZoneRef,LVRPLCH,regular
+533861983,naptan:ShortCommonName,Moor Ln/Moor Dr,regular
+533862381,name,OKELL DRIVE/LYDIATE LANE/CHURCH ROAD,regular
+533862381,source,naptan_import,regular
+533862381,highway,bus_stop,regular
+533862381,naptan:Notes,No Notes,regular
+533862381,naptan:Street,OKELL DRIVE,regular
+533862381,naptan:Bearing,SW,regular
+533862381,naptan:AtcoCode,2800S48165B,regular
+533862381,naptan:Landmark,OPP WOODBRIDGE AVENUE,regular
+533862381,verified,no,naptan
+533862381,naptan:Indicator,OKELL DRIVE/LYDIATE LANE/CHURCH ROAD,regular
+533862381,naptan:CommonName,OKELL DRIVE/LYDIATE LANE/CHURCH ROAD,regular
+533862381,naptan:NaptanCode,merdtpjd,regular
+533862381,naptan:PlusbusZoneRef,LVRPLCH,regular
+533862381,naptan:ShortCommonName,Okell Dr/Lydiate Ln,regular
+533862877,name,OLD HOUSE LANE/SPRING GARDENS,regular
+533862877,source,naptan_import,regular
+533862877,highway,bus_stop,regular
+533862877,naptan:Notes,No Notes,regular
+533862877,naptan:Street,HALL LANE,regular
+533862877,naptan:Bearing,SW,regular
+533862877,naptan:AtcoCode,2800S55049B,regular
+533862877,naptan:Landmark,NR DAISY MOUNT (CUL DE SAC),regular
+533862877,verified,no,naptan
+533862877,naptan:Indicator,HALL LANE,regular
+533862877,naptan:CommonName,OLD HOUSE LANE/SPRING GARDENS,regular
+533862877,naptan:NaptanCode,mergawpg,regular
+533862877,naptan:PlusbusZoneRef,LVRPLCH,regular
+533862877,naptan:ShortCommonName,Tailors Ln,regular
+533863746,name,CRANK RD/GREYHOUSE FARM,regular
+533863746,source,naptan_import,regular
+533863746,highway,bus_stop,regular
+533863746,naptan:Notes,No Notes,regular
+533863746,naptan:Street,CRANK ROAD,regular
+533863746,naptan:Bearing,S,regular
+533863746,naptan:AtcoCode,2800S17037A,regular
+533863746,naptan:Landmark,NEXT GREY HOUSE FARM,regular
+533863746,verified,no,naptan
+533863746,naptan:Indicator,CRANK ROAD,regular
+533863746,naptan:CommonName,CRANK RD/GREYHOUSE FARM,regular
+533863746,naptan:NaptanCode,merajpga,regular
+533863746,naptan:ShortCommonName,Crank Rd/Greyhse Fm,regular
+534090105,name,Willows,regular
+534090105,amenity,pub,regular
+534090105,name,undefined,source
+542242275,name,Twelfth Man,regular
+542242275,source,NaPTAN,regular
+542242275,amenity,pub,regular
+673979746,name,The Quarter,regular
+673979746,amenity,restaurant,regular
+673979746,id,497725,fhrs
+877076032,amenity,parking,regular
+950600377,traffic_calming,hump,regular
+964074397,amenity,restaurant,regular
+968923854,name,The Spellow,regular
+968923854,amenity,pub,regular
+1260661371,name,Cronton Sixth Form College,regular
+1260661371,amenity,school,regular
+1556401445,source,US NGA Pub. 114. 2011-05-26.,regular
+1556401445,name,No. 2,seamark
+1556401445,type,light_minor,seamark
+1556401445,light:colour,white,seamark
+1556401445,light:height,6,seamark
+1556401445,light:character,Fl,seamark
+1556401445,light:reference,A 4952.6,seamark
+1635334629,name,Tesco Express - Rossmore Road,regular
+1635334629,shop,convenience,regular
+1662493783,source,Bing,regular
+1662493783,highway,traffic_signals,regular
+1662586557,source,Bing,regular
+1662586557,highway,traffic_signals,regular
+1664233197,highway,traffic_signals,regular
+1668401752,highway,traffic_signals,regular
+1668401752,traffic_signals,signal,regular
+1668503211,amenity,post_box,regular
+1678429430,foot,yes,regular
+1678429430,barrier,bollard,regular
+1678429430,bicycle,yes,regular
+1679683229,source,Bing,regular
+1679683229,cycleway,asl,regular
+1722140950,amenity,bench,regular
+1775578840,name,Bien Hair and Beauty,regular
+1775578840,shop,hairdresser,regular
+1777366314,highway,crossing,regular
+1777366314,crossing,zebra,regular
+1883475054,name,Funfair,regular
+1883475054,tourism,theme_park,regular
+2004776361,highway,turning_circle,regular
+2042739207,name,Chandlers,regular
+2042739207,shop,doityourself,regular
+2042739207,source,local_knowledge,regular
+2092795693,highway,traffic_signals,regular
+2093862397,name,Woodchurch Sports Centre,regular
+2093862397,leisure,sports_centre,regular
+2096943442,source,survey,regular
+2096943442,barrier,kissing_gate,regular
+2197946986,name,58 Mabb Lane,regular
+2197946986,building,yes,regular
+2223218967,power,tower,regular
+2246836513,power,pole,regular
+2248008065,power,pole,regular
+2264896525,amenity,cafe,regular
+2264896525,name,Espresso,regular
+2264896525,wheelchair,yes,toilets
+2264896525,wheelchair,yes,regular
+2428148589,name,Burnell's News & Wine,regular
+2428148589,shop,newsagent,regular
+2497020521,amenity,post_box,regular
+2497316043,noexit,yes,regular
+2497316043,source,bing,regular
+2560631219,power,pole,regular
+2560631219,source,Bing,regular
+2587332685,source,local_knowledge,regular
+2587332685,highway,crossing,regular
+2587332685,crossing,traffic_signals,regular
+2608827623,name,Lobster Pot,regular
+2608827623,phone,+44 (0)151 707 9726,regular
+2608827623,amenity,fast_food,regular
+2608827623,cuisine,fish_and_chips,regular
+2608827623,website,http://www.lobsterpot-liverpool.com,regular
+2608827623,city,Liverpool,addr
+2608827623,street,Whitechapel,addr
+2608827623,country,GB,addr
+2608827623,postcode,Invalid Zip Code,addr
+2608827623,housenumber,20-22,addr
+2616357144,amenity,atm,regular
+2616357144,operator,Lloyds,regular
+2624855871,name,The Sunbed Studio,regular
+2624855871,shop,tanning,regular
+2650290512,natural,tree,regular
+2650290903,natural,tree,regular
+2700274322,natural,tree,regular
+2731459405,natural,tree,regular
+2781831583,natural,tree,regular
+2781833019,natural,tree,regular
+2837913650,bicycle,yes,regular
+2837913650,crossing,toucan,regular
+2837913650,highway,crossing,regular
+2837913650,kerb,lowered,regular
+2837913650,tactile_paving,yes,regular
+2893725125,foot,yes,regular
+2893725125,barrier,gate,regular
+2893725125,bicycle,yes,regular
+2901114001,barrier,gate,regular
+2919210901,natural,tree,regular
+2919249011,natural,tree,regular
+2931178929,natural,tree,regular
+2931179429,natural,tree,regular
+3168097619,source,survey,regular
+3168097619,amenity,post_box,regular
+3325606740,highway,turning_circle,regular
+3328166991,natural,tree,regular
+3348381392,man_made,tower,regular
+3348381392,type,communication,tower
+3489766369,amenity,post_box,regular
+3662102872,highway,traffic_signals,regular
+3773305197,city,Liverpool,addr
+3773305197,housename,Dobbies Garden Centre,addr
+3773305197,postcode,Invalid Zip Code,addr
+3773305197,street,Speke Hall Road,addr
+3773305197,name,Bexleys Butchers,regular
+3773305197,opening_hours,Mo-Sa 09:00-17:30,regular
+3773305197,operator,Bexleys Butchers & Catering,regular
+3773305197,phone,+44 151 486 0663,regular
+3773305197,shop,butcher,regular
+3773305197,website,http://www.bexleys.co.uk/,regular
+3773305197,wheelchair,yes,regular
+3897901772,natural,tree,regular
+3897901772,leaf_type,broadleaved,regular
+3897901772,leaf_cycle,deciduous,regular
+3914585546,railway,crossing,regular
+4094317865,natural,tree,regular
+4112993340,highway,crossing,regular
+4112993340,crossing,pelican,regular
+4178651343,source,interpolation,regular
+4178651343,street,Valentia Road,addr
+4178651343,housenumber,15,addr
+4232307107,name,Pizza Express,regular
+4232307107,source,survey,regular
+4232307107,amenity,restaurant,regular
+4232307107,cuisine,pizza,regular
+4232307107,id,692453,fhrs
+4232307107,street,Marine Point,addr
+4232307107,addr,FHRS Open Data,source
+4232307107,postcode,CH45 2PB,addr
+4232307107,housenumber,8,addr
+4242790161,name,Wirral Dog Groomers,regular
+4242790161,shop,pet_grooming,regular
+4242790161,source,survye,regular
+4264674874,label,WATC,regular
+4264674874,manhole,telecom,regular
+4264674874,operator,WATC,regular
+4315091920,name,Care Launderette,regular
+4315091920,shop,laundry,regular
+4317498624,highway,crossing,regular
+4339439296,name,A Passage to India,regular
+4339439296,amenity,restaurant,regular
+4339439296,cuisine,indian,regular
+4339439497,name,tsb,regular
+4339439497,amenity,bank,regular
+4365067977,name,Bexley's,regular
+4365067977,shop,butcher,regular
+4419379121,natural,tree,regular
+4419379621,natural,tree,regular
+4466481862,barrier,bollard,regular
+4466869545,natural,tree,regular
+4470101777,highway,street_lamp,regular
+4470101777,lamp_type,electric,regular
+4501431558,amenity,bicycle_parking,regular
+4513699624,name,Blackburne House,regular
+4513699624,office,educational_institution,regular
+4513699624,website,http://www.blackburnehouse.co.uk/,regular
+4513699624,city,Liverpool,addr
+4513699624,street,Blackburne Place,addr
+4513699624,postcode,Invalid Zip Code,addr
+4513699624,housename,Blackburne House,addr
+4523366082,name,Blue Mango,regular
+4523366082,amenity,restaurant,regular
+4523366082,cuisine,indian,regular
+4559967089,natural,tree,regular
+4648751440,natural,tree,regular
+4665431552,natural,tree,regular
+4665882465,natural,tree,regular
+4693322534,natural,tree,regular
+4693428142,natural,tree,regular
+4693434737,amenity,fast_food,regular
+4693434737,name,Luke's Chippy,regular
+4693454196,natural,tree,regular
+4713198200,amenity,pub,regular
+4713198200,name,The Commercial,regular
+4726166404,highway,turning_circle,regular
+4801852875,natural,tree,regular
+4874202826,traffic_calming,bump,regular
+4970482253,traffic_calming,cushion,regular

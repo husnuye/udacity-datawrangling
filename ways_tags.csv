@@ -1,0 +1,5611 @@
+id,key,value,type
+2988590,name,Worcester Street,regular
+2988590,highway,residential,regular
+4000304,name,New School Lane,regular
+4000304,highway,unclassified,regular
+4005559,name,Childwall Court,regular
+4005559,highway,residential,regular
+4005559,created_by,JOSM,regular
+4037833,lit,yes,regular
+4037833,name,Harthill Road,regular
+4037833,lanes,1,regular
+4037833,highway,residential,regular
+4037833,postal_code,L18,regular
+4047386,foot,yes,regular
+4047386,horse,yes,regular
+4047386,lanes,1,regular
+4047386,oneway,yes,regular
+4047386,bicycle,yes,regular
+4047386,highway,tertiary,regular
+4047386,surface,asphalt,regular
+4047386,junction,roundabout,regular
+4047386,maxspeed,30 mph,regular
+4047386,postal_code,L17,regular
+4085172,name,Blundell Street,regular
+4085172,highway,unclassified,regular
+4085172,postal_code,L1,regular
+4215745,ref,B5173,regular
+4215745,name,Holt Road,regular
+4215745,highway,secondary,regular
+4237101,name,Childwall Priory Road,regular
+4237101,lanes,1,regular
+4237101,highway,tertiary,regular
+4237101,postal_code,L16,regular
+4241013,highway,tertiary,regular
+4241013,name,Childwall Abbey Road,regular
+4241013,oneway,yes,regular
+4248287,name,Hillside Court,regular
+4248287,highway,residential,regular
+4248287,postal_code,L25,regular
+4261124,name,Doe Park Courtyard,regular
+4261124,highway,residential,regular
+4261124,created_by,JOSM,regular
+4261124,postal_code,L25,regular
+4288834,ref,A561,regular
+4288834,name,Speke Road,regular
+4288834,oneway,yes,regular
+4288834,highway,trunk,regular
+4288834,maxspeed,40 mph,regular
+4288834,old_name,Dodds Lane,regular
+4288834,postal_code,L24,regular
+4314013,name,Dinesen Road,regular
+4314013,highway,unclassified,regular
+4314013,postal_code,L19,regular
+4330638,name,Calthorpe Street,regular
+4330638,highway,residential,regular
+4330638,postal_code,L19,regular
+4335494,name,Cranwell Walk,regular
+4335494,highway,footway,regular
+4335494,created_by,JOSM,regular
+4361196,name,Elmsfield Close,regular
+4361196,highway,residential,regular
+4361196,created_by,JOSM,regular
+4361196,postal_code,L25,regular
+4377451,name,Holmefield Avenue,regular
+4377451,highway,residential,regular
+4377451,postal_code,L19,regular
+4400800,name,Wallcroft,regular
+4400800,highway,residential,regular
+4400800,created_by,JOSM,regular
+4412655,name,Sutton Avenue,regular
+4412655,highway,residential,regular
+4418909,name,Breezehill Road,regular
+4418909,highway,residential,regular
+4433505,highway,footway,regular
+4433505,created_by,JOSM,regular
+4471543,name,Stowe Close,regular
+4471543,highway,residential,regular
+4471543,postal_code,L25,regular
+4480334,name,Moss Grove,regular
+4480334,highway,residential,regular
+4480334,postal_code,L8,regular
+4488366,leisure,common,regular
+4519939,highway,service,regular
+4519939,created_by,JOSM,regular
+4540706,name,Turner's View,regular
+4540706,highway,residential,regular
+4575096,highway,tertiary,regular
+4575096,name,Browns Lane,regular
+4575096,name,Brown's Lane,not
+4614786,name,Colindale Road,regular
+4614786,highway,residential,regular
+4614786,postal_code,L16,regular
+4711819,lit,yes,regular
+4711819,name,Speke Hall Road,regular
+4711819,lanes,2,regular
+4711819,oneway,yes,regular
+4711819,highway,tertiary,regular
+4711819,postal_code,L24,regular
+4830210,name,Newsham Park,regular
+4830210,source,"npe, landsat",regular
+4830210,leisure,park,regular
+4901238,name,Christleton Drive,regular
+4901238,highway,residential,regular
+4901238,created_by,JOSM,regular
+4990652,highway,service,regular
+4990652,created_by,JOSM,regular
+4990652,postal_code,L18,regular
+5012840,landuse,residential,regular
+5012840,created_by,Potlatch 0.8,regular
+5077819,foot,no,regular
+5077819,horse,no,regular
+5077819,oneway,yes,regular
+5077819,bicycle,no,regular
+5077819,highway,motorway_link,regular
+5077819,operator,Merseyside Integrated Transport Authority,regular
+5132372,building,yes,regular
+5132372,created_by,Potlatch alpha,regular
+7798777,highway,footway,regular
+7798777,created_by,JOSM,regular
+8028836,name,Hale Street,regular
+8028836,highway,residential,regular
+8028836,created_by,Potlatch 0.10a,regular
+8048425,highway,service,regular
+8048425,created_by,Potlatch alpha,regular
+8663021,name,Wheathill Road,regular
+8663021,lanes,1,regular
+8663021,highway,unclassified,regular
+10102842,lit,yes,regular
+10102842,ref,B5171,regular
+10102842,name,Acrefield Road,regular
+10102842,lanes,1,regular
+10102842,highway,secondary,regular
+10102842,history,Retrieved from v1,regular
+10102842,postal_code,L25,regular
+10377796,admin_level,8,regular
+10377796,boundary,administrative,regular
+10377796,district,Sefton,left
+10377796,district,Liverpool,right
+10377796,source,OS_OpenData_BoundaryLine,regular
+11531421,name,Rector Road,regular
+11531421,highway,residential,regular
+11810627,name,Shaws Alley,regular
+11810627,highway,unclassified,regular
+11815875,name,Beach Bank,regular
+11815875,source,yahoo,regular
+11815875,highway,residential,regular
+11815875,surface,unpaved,regular
+11815875,abutters,residential,regular
+11815875,created_by,Potlatch 0.5d,regular
+11842690,name,Fox Street,regular
+11842690,highway,tertiary,regular
+11842690,postal_code,L3,regular
+11966986,name,Brighton Road,regular
+11966986,highway,residential,regular
+11966986,surface,paved,regular
+11966986,abutters,residential,regular
+12137662,name,Canterbury Way,regular
+12137662,highway,residential,regular
+12170618,name,Back Guildford Street,regular
+12170618,highway,residential,regular
+12170618,name,Back Guilford Street,not
+12170618,postal_code,L6,regular
+12336696,name,Landseer Road,regular
+12336696,highway,residential,regular
+12336696,postal_code,L5,regular
+12717200,name,Smithy Hill,regular
+12717200,highway,unclassified,regular
+12717200,ncn_ref,56,regular
+13038976,ref,A5056,regular
+13038976,name,Bankhall Street,regular
+13038976,highway,primary,regular
+13867929,name,Brabant Road,regular
+13867929,highway,unclassified,regular
+13867929,postal_code,L17,regular
+14332282,name,Queensbury Avenue,regular
+14332282,highway,residential,regular
+15080701,ref,B5422,regular
+15080701,name,Hawthorne Road,regular
+15080701,oneway,yes,regular
+15080701,highway,secondary,regular
+15741876,name,Pickop Street,regular
+15741876,highway,unclassified,regular
+15741876,postal_code,L3,regular
+16110268,lit,yes,regular
+16110268,name,Atlantic Way,regular
+16110268,oneway,no,regular
+16110268,highway,residential,regular
+19851301,name,Edith Road,regular
+19851301,access,private,regular
+19851301,oneway,no,regular
+19851301,highway,residential,regular
+22744283,name,Old Racecourse Road,regular
+22744283,highway,residential,regular
+22744283,name,OS OpenData StreetView,source
+22791981,building,yes,regular
+22791981,created_by,Potlatch 0.6c,regular
+22796437,name,Pighue Lane,regular
+22796437,oneway,yes,regular
+22796437,highway,unclassified,regular
+22796437,surface,paved,regular
+22796437,postal_code,L13,regular
+22796843,highway,residential,regular
+22796843,name,Crossley Drive,regular
+22796843,postal_code,L15,regular
+22796843,surface,paved,regular
+22946340,foot,yes,regular
+22946340,highway,footway,regular
+22946340,created_by,Potlatch 0.7,regular
+22972206,name,Ashover Avenue,regular
+22972206,highway,residential,regular
+22972206,postal_code,L14,regular
+23146591,name,Galbraith Close,regular
+23146591,highway,residential,regular
+23146591,surface,paved,regular
+23146591,created_by,Potlatch 0.7b,regular
+23146591,postal_code,L17,regular
+23299792,highway,unclassified,regular
+23299792,created_by,JOSM,regular
+23333201,landuse,farmland,regular
+23546580,highway,service,regular
+23546580,created_by,Potlatch 0.8a,regular
+23605220,name,Prestwood Road,regular
+23605220,highway,residential,regular
+23605220,postal_code,L14,regular
+23717312,name,Derwent Road West,regular
+23717312,highway,residential,regular
+23717312,postal_code,L13,regular
+24269389,name,Highgate Street,regular
+24269389,highway,residential,regular
+24269389,postal_code,L7,regular
+24656532,created_by,Potlatch 0.9c,regular
+24657152,highway,residential,regular
+24657152,name,Critchley Way,regular
+24657152,name,OS OpenData StreetView,source
+24940336,highway,trunk,regular
+24940336,area,10,highways_england
+24940336,lit,yes,regular
+24940336,maxspeed,40 mph,regular
+24940336,name,Northway,regular
+24940336,oneway,yes,regular
+24940336,operator,Highways England,regular
+24940336,ref,A59,regular
+25374478,highway,residential,regular
+25374478,created_by,Potlatch 0.9c,regular
+25375183,name,Moorbridge Close,regular
+25375183,highway,residential,regular
+25375183,name,OS OpenData StreetView,source
+25395436,name,Hexham Close,regular
+25395436,highway,residential,regular
+25395436,created_by,Potlatch 0.10f,regular
+25397348,name,Mellor Close,regular
+25397348,highway,residential,regular
+25397348,name,OS OpenData StreetView,source
+25511805,name,Broadway Avenue,regular
+25511805,highway,unclassified,regular
+25691659,landuse,farmland,regular
+25750987,lit,yes,regular
+25750987,name,Moses Street,regular
+25750987,highway,residential,regular
+25750987,surface,paved,regular
+25750987,maxspeed,20 mph,regular
+25750987,postal_code,L8,regular
+25884804,name,Windsor Road,regular
+25884804,highway,residential,regular
+25884804,name,OS OpenData StreetView,source
+25926255,name,Greenleas Close,regular
+25926255,highway,unclassified,regular
+25968978,name,Brookthorpe Close,regular
+25968978,highway,residential,regular
+25999060,name,Baker Way,regular
+25999060,highway,residential,regular
+26002282,name,Lightwood Street,regular
+26002282,highway,residential,regular
+26040230,name,Tobin Street,regular
+26040230,highway,unclassified,regular
+26150281,name,Veryan Close,regular
+26150281,highway,residential,regular
+26150281,name,OS OpenData StreetView,source
+26169142,name,Redbourne Avenue,regular
+26169142,highway,residential,regular
+26169142,name,OS OpenData StreetView,source
+26178475,highway,unclassified,regular
+26178475,name,Coburg Wharf,regular
+26178475,ncn_ref,56,regular
+26178475,source,bing,regular
+26178475,name,OS OpenData Locator,source
+26299288,name,Quarry Close,regular
+26299288,highway,residential,regular
+26299288,postal_code,L13,regular
+26501805,name,Lang Lane South,regular
+26501805,highway,residential,regular
+26503602,source,yahoo,regular
+26503602,highway,residential,regular
+26503602,created_by,JOSM,regular
+26539426,name,New Barnet,regular
+26539426,highway,residential,regular
+26539426,created_by,Potlatch 0.10f,regular
+26600079,name,Edgemoor Drive,regular
+26600079,highway,residential,regular
+26666983,highway,residential,regular
+26666983,source,yahoo,regular
+26810488,name,Hydes Brow,regular
+26810488,highway,unclassified,regular
+27101143,name,Carstairs Road,regular
+27101143,highway,residential,regular
+27276743,name,Hyslop Street,regular
+27276743,highway,residential,regular
+27276743,surface,paved,regular
+27276743,created_by,Potlatch 0.10b,regular
+27276743,postal_code,L8,regular
+27381585,name,Toxteth Street,regular
+27381585,highway,residential,regular
+27381585,surface,paved,regular
+27381585,created_by,Potlatch 0.10c,regular
+27381585,postal_code,L8,regular
+27838876,name,Vixen Grove,regular
+27838876,source,yahoo,regular
+27838876,highway,residential,regular
+27838876,name,OS_OpenData_Locator,source
+28009518,highway,residential,regular
+28248881,name,Oaklands Drive,regular
+28248881,highway,residential,regular
+28447637,highway,residential,regular
+28447637,name,Well Brow Road,regular
+28447637,postal_code,L4,regular
+28447637,name,OS OpenData StreetView,source
+28708566,foot,yes,regular
+28708566,bicycle,yes,regular
+28708566,highway,footway,regular
+28810168,name,Tideswell Close,regular
+28810168,highway,residential,regular
+28810168,surface,paved,regular
+28810168,postal_code,L7,regular
+28811263,highway,service,regular
+28811263,service,parking_aisle,regular
+29293502,highway,service,regular
+29293502,name,Mersey View Road,regular
+29293502,source,GPS survey,regular
+30201130,name,Linden Avenue,regular
+30201130,highway,residential,regular
+30325789,name,Madeley Close,regular
+30325789,source,Yahoo Aerial,regular
+30325789,highway,residential,regular
+30374090,name,Dovercliffe Road,regular
+30374090,oneway,yes,regular
+30374090,highway,residential,regular
+30374090,postal_code,L13,regular
+30634298,highway,service,regular
+30636213,name,Hollingbourne Road,regular
+30636213,highway,residential,regular
+30636213,name,OS OpenData StreetView,source
+30667900,name,Bankes Lane,regular
+30667900,highway,unclassified,regular
+30769727,foot,yes,regular
+30769727,highway,footway,regular
+30769727,created_by,Potlatch 0.10f,regular
+30793174,name,Cypress Gardens,regular
+30793174,highway,residential,regular
+30793174,created_by,Potlatch 0.10f,regular
+30794247,name,The Meadows,regular
+30794247,highway,residential,regular
+30794247,created_by,Potlatch 0.10f,regular
+30800032,power,line,regular
+30809296,highway,residential,regular
+30809296,name,Langbar,regular
+30809784,name,Higher Ashton,regular
+30809784,highway,residential,regular
+30809784,name,OS_OpenData_Locator,source
+30819826,name,Marshlands Road,regular
+30819826,source,Yahoo,regular
+30819826,highway,residential,regular
+30819826,name,OS OpenData StreetView,source
+30821034,name,Cronton Avenue,regular
+30821034,source,Yahoo,regular
+30821034,highway,residential,regular
+30821034,name,OS OpenData StreetView,source
+30822918,name,Kings Drive,regular
+30822918,source,Yahoo,regular
+30822918,highway,residential,regular
+30914772,landuse,farmland,regular
+30916987,natural,wood,regular
+30982636,name,Cunningham Drive,regular
+30982636,highway,residential,regular
+31002268,natural,wood,regular
+31164595,access,private,regular
+31164595,airside,yes,regular
+31164595,highway,track,regular
+31290450,name,Alderney Road,regular
+31290450,highway,residential,regular
+31290450,name,OS OpenData StreetView,source
+31291869,name,Grasmere Street,regular
+31291869,source,yahoo,regular
+31291869,highway,residential,regular
+31361259,name,Chandlers Court,regular
+31361259,highway,residential,regular
+31361259,name,OS_OpenData_Locator,source
+31435970,name,Meadow Lane,regular
+31435970,highway,residential,regular
+31435970,name,OS OpenData StreetView,source
+31468782,name,Sandfield Walk,regular
+31468782,highway,residential,regular
+31468782,name,OS_OpenData_Locator,source
+31470787,highway,residential,regular
+31470787,created_by,Potlatch 0.10f,regular
+31525852,name,Rosewell Court,regular
+31525852,highway,residential,regular
+31525852,name,OS_OpenData_Locator,source
+31563264,highway,residential,regular
+31563264,created_by,Potlatch 0.10f,regular
+31571230,name,Ely Avenue,regular
+31571230,source,Yahoo,regular
+31571230,highway,unclassified,regular
+31573796,name,Goodakers Meadow,regular
+31573796,source,Yahoo,regular
+31573796,highway,residential,regular
+31573796,name,Goodaker's Meadow,not
+31573796,name,OS_OpenData_Locator,source
+31616016,name,Grampian Avenue,regular
+31616016,source,Yahoo,regular
+31616016,highway,residential,regular
+31616016,name,OS OpenData Locator,source
+31617051,name,Mostyn Street,regular
+31617051,source,Yahoo,regular
+31617051,highway,residential,regular
+31617051,name,OS OpenData StreetView,source
+31774859,name,Friar Street,regular
+31774859,source,Yahoo,regular
+31774859,highway,residential,regular
+31774859,created_by,Potlatch 0.10f,regular
+31823234,name,Regal Drive,regular
+31823234,source,Yahoo,regular
+31823234,highway,residential,regular
+31823234,created_by,Potlatch 0.10f,regular
+31827801,name,Queens Road,regular
+31827801,source,Yahoo,regular
+31827801,highway,residential,regular
+31827801,created_by,Potlatch 0.10f,regular
+31965789,name,Lyon Close,regular
+31965789,source,Yahoo,regular
+31965789,highway,residential,regular
+31965789,created_by,Potlatch 0.10f,regular
+31975095,highway,residential,regular
+31975095,name,Leslie Road,regular
+31975095,source,Yahoo,regular
+31979874,name,Oakfield Close,regular
+31979874,source,Yahoo,regular
+31979874,highway,residential,regular
+31979874,created_by,Potlatch 0.10f,regular
+32233019,name,Halcombe Road,regular
+32233019,highway,residential,regular
+32233019,name,OS OpenData StreetView,source
+32243677,name,Thornbeck Close,regular
+32243677,highway,residential,regular
+32243677,name,OS_OpenData_Locator,source
+32244571,name,Midhurst Road,regular
+32244571,highway,residential,regular
+32244571,name,OS OpenData StreetView,source
+32255635,oneway,yes,regular
+32255635,highway,tertiary,regular
+32257183,highway,residential,regular
+32257183,created_by,Potlatch 0.10f,regular
+32479957,name,Dencourt Road,regular
+32479957,highway,residential,regular
+32479957,name,OS OpenData StreetView,source
+32500495,highway,residential,regular
+32500495,name,Galingale Road,regular
+32500495,name,OS_OpenData_Locator,source
+32550293,name,Dale Acre Drive,regular
+32550293,source,Yahoo,regular
+32550293,highway,residential,regular
+32550293,name,OS_OpenData_Locator,source
+32848189,name,South Bank Road,regular
+32848189,highway,residential,regular
+33040084,name,Oliver Lyme Road,regular
+33040084,highway,residential,regular
+33040084,name,OS_OpenData_Locator,source
+33824810,name,Pembroke Road,regular
+33824810,highway,residential,regular
+33824810,surface,paved,regular
+34545477,building,yes,regular
+35049962,name,Wildbrook Drive,regular
+35049962,source,Yahoo Aerial,regular
+35049962,highway,residential,regular
+35049962,name,OS OpenData StreetView,source
+35364429,landuse,retail,regular
+35396283,building,yes,regular
+35558814,name,Randall Drive,regular
+35558814,highway,residential,regular
+35564849,name,Amethyst Close,regular
+35564849,highway,residential,regular
+35578760,highway,footway,regular
+35591580,highway,residential,regular
+35591580,postal_code,L9,regular
+35840148,foot,yes,regular
+35840148,highway,footway,regular
+35840148,surface,unpaved,regular
+36335388,name,Crabtree Close,regular
+36335388,highway,residential,regular
+36947345,highway,footway,regular
+37391873,bridge,yes,regular
+37391873,highway,residential,regular
+37391873,layer,1,regular
+37391873,name,Sandforth Road,regular
+37391873,name,OS OpenData StreetView,source
+37558097,name,Alder Avenue,regular
+37558097,highway,residential,regular
+37558097,name,OS OpenData StreetView,source
+37698795,source,OS_OpenData_BoundaryLine,regular
+37698795,boundary,administrative,regular
+37698795,admin_level,6,regular
+37698795,district,Sefton,left
+37698795,district,Liverpool,right
+37834271,natural,wood,regular
+38151160,highway,footway,regular
+38427357,name,Woodside Way,regular
+38427357,highway,residential,regular
+38427357,name,OS_OpenData_Locator,source
+38428303,highway,residential,regular
+38428303,name,Atlanta Court,regular
+38428303,name,OS_OpenData_Locator,source
+38430941,highway,residential,regular
+38430941,name,Farrier Road,regular
+38430941,name,OS OpenData StreetView,source
+38476796,highway,residential,regular
+38476796,name,Salvia Way,regular
+38476796,name,Salvla Way,not
+38476796,name,OS OpenData StreetView,source
+38477590,building,yes,regular
+38523697,name,Grace Avenue,regular
+38523697,highway,residential,regular
+38523697,name,OS OpenData StreetView,source
+38562938,highway,service,regular
+38612567,name,Broomfield Gardens,regular
+38612567,highway,residential,regular
+38612567,name,OS_OpenData_Locator,source
+38615555,name,Lichfield Close,regular
+38615555,highway,residential,regular
+38615555,name,OS_OpenData_Locator,source
+38616317,building,yes,regular
+38657664,name,Gilroy Road,regular
+38657664,highway,residential,regular
+38657664,name,OS OpenData StreetView,source
+38658709,name,Houlding Street,regular
+38658709,highway,residential,regular
+38658709,name,OS_OpenData_Locator,source
+38662267,name,Burnand Street,regular
+38662267,highway,residential,regular
+38664920,name,Doon Close,regular
+38664920,highway,residential,regular
+38664920,name,OS OpenData StreetView,source
+38701658,name,Goodison Road,regular
+38701658,oneway,yes,regular
+38701658,highway,residential,regular
+38707492,name,Euston Street,regular
+38707492,oneway,yes,regular
+38707492,highway,residential,regular
+38707492,name,OS OpenData StreetView,source
+38748248,name,Highfield Road,regular
+38748248,highway,residential,regular
+38748248,name,OS OpenData StreetView,source
+38773771,source,Yahoo,regular
+38773771,highway,path,regular
+38859735,name,Birch Grove,regular
+38859735,highway,residential,regular
+38859735,name,OS_OpenData_Locator,source
+38861420,highway,residential,regular
+38861420,name,Dorset Road,regular
+38861420,name,OS OpenData StreetView,source
+39091341,name,West Derby Road,regular
+39091341,oneway,yes,regular
+39091341,source,Bing,regular
+39091341,highway,residential,regular
+39091341,postal_code,L13,regular
+39165984,source,yahoo,regular
+39165984,building,yes,regular
+39228036,name,Benson Close,regular
+39228036,source,Yahoo,regular
+39228036,highway,residential,regular
+39230135,name,Locker Park,regular
+39230135,source,Yahoo,regular
+39230135,highway,residential,regular
+39230135,name,OS OpenData StreetView,source
+39232442,name,Malmesbury Close,regular
+39232442,source,Yahoo,regular
+39232442,highway,residential,regular
+39269057,name,Lazonby Close,regular
+39269057,source,Yahoo,regular
+39269057,highway,residential,regular
+39269057,name,OS OpenData StreetView,source
+39269252,note,may be churchyard,regular
+39269252,source,Yahoo,regular
+39269252,landuse,cemetery,regular
+39270506,name,Elfet Street,regular
+39270506,source,Yahoo,regular
+39270506,highway,residential,regular
+39270506,maxspeed,30,regular
+39356235,barrier,wall,regular
+39356336,building,yes,regular
+39516240,name,Ackers Street,regular
+39516240,highway,residential,regular
+39516240,name,OS_OpenData_Locator,source
+39522709,highway,residential,regular
+39522709,name,Pottery Close,regular
+39522709,name,OS OpenData Locator,source
+40351584,name,Junction Road,regular
+40351584,highway,residential,regular
+40431175,natural,scrub,regular
+40525973,name,Whalley Road,regular
+40525973,highway,residential,regular
+40525973,name,OS OpenData Locator,source
+40652355,highway,residential,regular
+40870700,name,Warrington Street,regular
+40870700,highway,unclassified,regular
+40870700,name,OS OpenData StreetView,source
+40929622,name,Suncroft Road,regular
+40929622,highway,residential,regular
+41131163,bicycle,yes,regular
+41131163,highway,footway,regular
+41131163,surface,paved,regular
+41231778,building,yes,regular
+41246314,building,yes,regular
+41309784,foot,yes,regular
+41309784,highway,footway,regular
+41413812,landuse,farmyard,regular
+41446063,landuse,residential,regular
+41550382,name,Atlas Way,regular
+41550382,highway,residential,regular
+41643426,name,Delamere Close,regular
+41643426,highway,residential,regular
+41671852,name,Pipers End,regular
+41671852,highway,residential,regular
+41671852,name,Piper's End,not
+41777580,sport,athletics,regular
+41777580,leisure,pitch,regular
+41850116,name,Shetland Drive,regular
+41850116,highway,residential,regular
+42046389,name,Brainerd Street,regular
+42046389,highway,residential,regular
+42046389,postal_code,L13,regular
+42136339,building,yes,regular
+42196128,building,yes,regular
+42260338,building,yes,regular
+42336274,landuse,residential,regular
+42690396,name,Overchurch Road,regular
+42690396,source,Yahoo,regular
+42690396,highway,residential,regular
+42690396,name,NaPTAN,source
+42739167,name,Platform 4,regular
+42739167,gauge,1435,regular
+42739167,railway,rail,regular
+42739167,voltage,25000,regular
+42739167,maxspeed,15 mph,regular
+42739167,frequency,50,regular
+42739167,electrified,contact_line,regular
+43174987,name,Mulberry Road,regular
+43174987,source,Yahoo,regular
+43174987,highway,residential,regular
+43174987,name,OS_OpenData_Locator,source
+43520359,area,no,regular
+43520359,foot,yes,regular
+43520359,source,gpx,regular
+43520359,highway,footway,regular
+44172010,boat,no,regular
+44172010,name,Knowsley Brook,regular
+44172010,waterway,stream,regular
+47131532,name,Church Farm Court,regular
+47131532,highway,residential,regular
+49501258,highway,footway,regular
+50624826,name,The Seasons,regular
+50624826,highway,service,regular
+50624826,service,driveway,regular
+50938336,building,yes,regular
+50938336,street,Weston Road,addr
+50938336,housenumber,25,addr
+51246905,highway,service,regular
+51246905,service,driveway,regular
+53096797,name,Tatlock Street,regular
+53096797,highway,residential,regular
+55587112,source,Yahoo,regular
+55587112,building,railway,regular
+56060546,source,Yahoo,regular
+56060546,leisure,playground,regular
+59301113,building,yes,regular
+60198348,source,Yahoo,regular
+60198348,highway,residential,regular
+60262998,name,Moore Street,regular
+60262998,highway,residential,regular
+60262998,name,OS OpenData StreetView,source
+60923595,name,Montreal Road,regular
+60923595,highway,residential,regular
+60923595,name,OS OpenData StreetView,source
+67834957,highway,service,regular
+70039768,building,yes,regular
+70039768,street,South Parade,addr
+70039768,housenumber,21,addr
+70187504,housenumber,53,addr
+70187504,street,South Parade,addr
+70187504,building,yes,regular
+70187605,building,yes,regular
+70187605,street,Baker Road,addr
+70187605,housenumber,9,addr
+70189527,building,yes,regular
+70189527,street,Roscoe Crescent,addr
+70189527,housenumber,58,addr
+70189748,building,yes,regular
+70189748,street,Sandy Lane,addr
+70189748,housenumber,84,addr
+70204485,building,yes,regular
+70204485,street,Beaconsfield Road,addr
+70204485,housenumber,38,addr
+70204597,building,yes,regular
+70204597,street,Crofton Road,addr
+70204597,housenumber,82,addr
+73292810,carriageway_ref,B,regular
+73292810,highway,motorway,regular
+73292810,area,10,highways_england
+73292810,lanes,2,regular
+73292810,lit,yes,regular
+73292810,oneway,yes,regular
+73292810,operator,Highways England,regular
+73292810,ref,M53,regular
+76258321,building,yes,regular
+76258321,street,Duke Close,addr
+76258321,housenumber,29,addr
+76345646,building,yes,regular
+76345646,street,Suffolk Street,addr
+76345646,housenumber,23,addr
+76345756,building,yes,regular
+76345756,street,Cawdor Street,addr
+76345756,housenumber,19,addr
+76345899,building,yes,regular
+76345899,street,Collier Street,addr
+76345899,housenumber,9,addr
+77487109,name,Saint Peters CE Primary School,regular
+77487109,amenity,school,regular
+77487109,website,http://www.stpeters-heswall.wirral.sch.uk/,regular
+77487109,building,school,regular
+78548593,name,Poppy Close,regular
+78548593,source,Yahoo,regular
+78548593,highway,residential,regular
+78548593,name,OS OpenData Locator,source
+80400223,highway,unclassified,regular
+81049237,power,line,regular
+81049237,cables,3,regular
+81049237,voltage,132000,regular
+81422535,name,Caryl Street,regular
+81422535,layer,1,regular
+81422535,bridge,yes,regular
+81422535,highway,unclassified,regular
+81422535,surface,paved,regular
+81422535,postal_code,L8,regular
+82426877,foot,yes,regular
+82426877,highway,footway,regular
+83230554,name,Holly Street,regular
+83230554,highway,unclassified,regular
+83230554,name,OS_OpenData_Locator,source
+86123877,foot,yes,regular
+86123877,highway,footway,regular
+97348515,name,Hornby Street,regular
+97348515,oneway,yes,regular
+97348515,highway,residential,regular
+98696090,building,yes,regular
+98696090,street,Cameron Avenue,addr
+98696090,housenumber,32,addr
+98696190,building,yes,regular
+98696190,street,Hazel Avenue,addr
+98696190,housenumber,6,addr
+98845660,building,yes,regular
+98845660,street,Russell Road,addr
+98845660,housenumber,89,addr
+98898301,building,yes,regular
+98898301,street,Crofton Road,addr
+98898301,housenumber,30,addr
+99149559,building,yes,regular
+99149559,street,Penn Lane,addr
+99149559,housenumber,44,addr
+99149692,building,yes,regular
+99149692,street,Cynthia Road,addr
+99149692,housenumber,7,addr
+99361539,name,The Green,regular
+99361539,highway,residential,regular
+105025150,highway,footway,regular
+106474313,name,Birchen Road,regular
+106474313,highway,residential,regular
+106474313,name,OS_OpenData_Locator,source
+110379418,highway,cycleway,regular
+110379418,name,Path running though Hough Green Park,regular
+110379418,surface,unpaved,regular
+114250006,sport,soccer,regular
+114250006,leisure,pitch,regular
+114315091,foot,yes,regular
+114315091,horse,yes,regular
+114315091,layer,-1,regular
+114315091,tunnel,yes,regular
+114315091,highway,cycleway,regular
+115431041,name,Seacombe Promenade,regular
+115431041,highway,cycleway,regular
+115431041,ncn_ref,56,regular
+116737541,name,RVP Road,regular
+116737541,source,Yahoo,regular
+116737541,highway,service,regular
+118756813,source,bing,regular
+118756813,highway,footway,regular
+119155042,highway,footway,regular
+123304037,name,Mere Green,regular
+123304037,highway,residential,regular
+123304037,name,OS_OpenData_Locator,source
+124794916,highway,footway,regular
+131595232,building,yes,regular
+131595232,city,Heswall,addr
+131595232,street,Pipers Close,addr
+131595232,addr,Knowledge,source
+131595232,postcode,CH60 9LJ,addr
+131595232,building,Bing,source
+131595232,housenumber,1,addr
+132408871,building,yes,regular
+132408871,city,Heswall,addr
+132408871,street,Hatton Close,addr
+132408871,addr,Knowledge,source
+132408871,postcode,CH60 9HT,addr
+132408871,building,Bing,source
+132408871,housenumber,2,addr
+133044195,building,yes,regular
+133044195,city,Heswall,addr
+133044195,street,Teals Way,addr
+133044195,addr,Knowledge,source
+133044195,postcode,CH60 4RX,addr
+133044195,building,Bing,source
+133044195,housenumber,12,addr
+133463152,building,yes,regular
+133463152,city,Heswall,addr
+133463152,street,Pipers Lane,addr
+133463152,addr,Knowledge,source
+133463152,postcode,CH60 9HP,addr
+133463152,building,Bing,source
+133463152,housenumber,16,addr
+134037803,name,Mendell Close,regular
+134037803,source,Bing;ITO,regular
+134037803,highway,residential,regular
+138377541,bicycle,no,regular
+138377541,bridge,yes,regular
+138377541,highway,motorway,regular
+138377541,area,10,highways_england
+138377541,lanes,2,regular
+138377541,layer,1,regular
+138377541,oneway,yes,regular
+138377541,operator,Highways England,regular
+138377541,ref,M57,regular
+139216412,gauge,1435,regular
+139216412,layer,1,regular
+139216412,usage,main,regular
+139216412,bridge,yes,regular
+139216412,source,"npe, yahoo aerial imagery",regular
+139216412,railway,rail,regular
+139216412,voltage,25000,regular
+139216412,frequency,50,regular
+139216412,start_date,1830,regular
+139216412,electrified,contact_line,regular
+139216412,passenger_lines,2,regular
+139732931,highway,service,regular
+139732931,service,parking_aisle,regular
+140443069,name,Millers Way,regular
+140443069,highway,residential,regular
+140443069,street,Millers Close,addr
+141137619,name,Sherlock Lane,regular
+141137619,source,Yahoo,regular
+141137619,highway,residential,regular
+141137619,name,NaPTAN,source
+141801173,name,Brook Street East,regular
+141801173,highway,residential,regular
+142497714,name,Ivy Avenue,regular
+142497714,source,Bing,regular
+142497714,highway,residential,regular
+142497714,name,OS_OpenData_Locator,source
+143256794,highway,footway,regular
+143824870,building,yes,regular
+143824870,city,Heswall,addr
+143824870,street,Redstone Drive,addr
+143824870,addr,Knowledge,source
+143824870,postcode,CH60 9HH,addr
+143824870,building,Bing,source
+143824870,housenumber,6,addr
+145677220,name,Wirral International Business Park,regular
+145677220,landuse,industrial,regular
+147523672,name,Tarragon Close,regular
+147523672,highway,residential,regular
+147523672,name,OS_OpenData_Locator,source
+150702697,name,Rossmore Road Industrial Estate,regular
+150702697,landuse,industrial,regular
+151277006,building,yes,regular
+151277006,city,Heswall,addr
+151277006,street,Delavor Road,addr
+151277006,addr,Knowledge,source
+151277006,postcode,CH60 4RW,addr
+151277006,building,Bing,source
+151277006,housenumber,24,addr
+153353319,oneway,yes,regular
+153353319,source,Bing,regular
+153353319,highway,trunk,regular
+153353319,junction,roundabout,regular
+153753612,name,Mount Road,regular
+153753612,lanes,1,regular
+153753612,oneway,yes,regular
+153753612,source,bing,regular
+153753612,highway,tertiary,regular
+153753612,name,OS OpenData StreetView,source
+153762342,lit,yes,regular
+153762342,ref,A41,regular
+153762342,lanes,2,regular
+153762342,oneway,yes,regular
+153762342,highway,trunk,regular
+153762342,maxspeed,40 mph,regular
+153762342,motorroad,no,regular
+153790452,oneway,yes,regular
+153790452,highway,service,regular
+153836204,highway,service,regular
+153836204,service,alley,regular
+153956642,noe,yes,regular
+153956642,name,Bryanston Road,regular
+153956642,highway,residential,regular
+153956642,name,OS_OpenData_StreetView,source
+153988819,name,Coleridge Drive,regular
+153988819,source,bing,regular
+153988819,highway,residential,regular
+153988819,name,OS OpenData Locator,source
+154008445,name,Poets Corner,regular
+154008445,source,bing,regular
+154008445,highway,residential,regular
+154008445,name,OS_OpenData_Locator,source
+154013835,amenity,parking,regular
+154013835,parking,surface,regular
+154105497,name,Tyburn Road,regular
+154105497,highway,residential,regular
+154105497,name,OS_OpenData_Locator,source
+154145141,name,Cypress Croft,regular
+154145141,source,bing,regular
+154145141,highway,residential,regular
+154145141,name,OS_OpenData_Locator,source
+154155226,name,Morello Drive,regular
+154155226,source,bing,regular
+154155226,highway,residential,regular
+154155226,name,OS_OpenData_Locator,source
+154172978,amenity,parking,regular
+154172978,parking,surface,regular
+154236576,name,Barlow Avenue,regular
+154236576,source,bing,regular
+154236576,highway,residential,regular
+154236576,name,OS OpenData Locator,source
+154273846,name,Yew Tree Road,regular
+154273846,source,bing,regular
+154273846,highway,residential,regular
+154273846,name,OS OpenData Locator,source
+154360675,ref,A554,regular
+154360675,name,King's Parade,regular
+154360675,lanes,2,regular
+154360675,oneway,yes,regular
+154360675,source,bing,regular
+154360675,highway,primary,regular
+154360675,maxspeed,30 mph,regular
+154405639,name,Coniston Avenue,regular
+154405639,highway,residential,regular
+154405639,name,survey,source
+154454150,layer,1,regular
+154454150,bridge,yes,regular
+154454150,highway,service,regular
+154454150,service,alley,regular
+154477239,name,Grasmere Drive,regular
+154477239,source,bing,regular
+154477239,highway,residential,regular
+154477239,name,OS_OpenData_Locator,source
+154615607,name,Clifford Road,regular
+154615607,source,bing,regular
+154615607,highway,residential,regular
+154615607,name,OS_OpenData_Locator,source
+154726163,name,Alton Road,regular
+154726163,oneway,yes,regular
+154726163,highway,residential,regular
+154803438,highway,unclassified,regular
+154989060,name,Acrefield Road,regular
+154989060,source,bing,regular
+154989060,highway,residential,regular
+154989060,name,OS OpenData Locator,source
+155064573,name,Rock Close,regular
+155064573,highway,residential,regular
+155120925,name,Thackeray Close,regular
+155120925,source,bing,regular
+155120925,highway,residential,regular
+155120925,name,OS OpenData Locator,source
+155185422,highway,service,regular
+155185422,service,parking_aisle,regular
+155295042,name,West Waterloo Dock,regular
+155295042,source,bing,regular
+155295042,waterway,dock,regular
+155295042,name,OS OpenData StreetView,source
+155402772,lit,yes,regular
+155402772,ref,A59,regular
+155402772,name,Scotland Road,regular
+155402772,lanes,3,regular
+155402772,oneway,yes,regular
+155402772,highway,trunk,regular
+155402772,maxspeed,30 mph,regular
+155402772,name,NaPTAN,source
+155448017,name,Walton Breck Road,regular
+155448017,lanes,2,regular
+155448017,highway,tertiary,regular
+155682938,name,Orrell Road,regular
+155682938,lanes,2,regular
+155682938,highway,tertiary,regular
+155778043,building,yes,regular
+155923232,landuse,forest,regular
+156091129,source,OS_OpenData_StreetView,regular
+156091129,highway,residential,regular
+156167248,source,OS_OpenData_StreetView,regular
+156167248,highway,residential,regular
+156581361,natural,forest,regular
+156664479,building,house,regular
+156665899,building,house,regular
+156667020,building,house,regular
+156668437,building,house,regular
+156669407,building,house,regular
+156670617,building,house,regular
+156671516,building,house,regular
+156743940,building,yes,regular
+156744423,building,yes,regular
+156744796,building,yes,regular
+156745168,building,yes,regular
+156745803,building,yes,regular
+156750692,building,school,regular
+156912087,building,yes,regular
+156913256,building,yes,regular
+156914281,building,yes,regular
+156915127,building,yes,regular
+156916028,building,yes,regular
+157514652,name,Britannia Pavillion,regular
+157514652,building,yes,regular
+157514652,colour,#989984,roof
+157514652,colour,#AC8A6D,building
+157514652,levels,6,building
+157514652,material,brick,building
+157761741,natural,wood,regular
+157869651,highway,residential,regular
+157869651,motor_vehicle,no,regular
+157869651,name,Denham Close,regular
+160124569,area,no,regular
+160124569,source,gpx,regular
+160124569,highway,footway,regular
+165340310,foot,yes,regular
+165340310,horse,yes,regular
+165340310,source,GPS survey,regular
+165340310,bicycle,yes,regular
+165340310,highway,cycleway,regular
+165340310,surface,unpaved,regular
+166278038,source,GPS survey,regular
+166278038,highway,footway,regular
+169591748,name,Summerhill Drive,regular
+169591748,source,OS_OpenData_StreetView,regular
+169591748,highway,residential,regular
+172507221,highway,steps,regular
+176630087,building,yes,regular
+176630087,city,Heswall,addr
+176630087,street,Mostyn Avenue,addr
+176630087,addr,Knowledge,source
+176630087,postcode,CH60 9JX,addr
+176630087,building,Bing,source
+176630087,housenumber,17,addr
+180889866,name,Ward Street,regular
+180889866,highway,unclassified,regular
+181398496,building,house,regular
+181575829,building,industrial,regular
+183184490,name,Owen Road,regular
+183184490,source,OS_OpenData_StreetView,regular
+183184490,highway,unclassified,regular
+185100294,highway,service,regular
+187862229,name,Beaufort Close,regular
+187862229,source,bing,regular
+187862229,highway,residential,regular
+187862229,name,OS_OpenData_Locator,source
+188681173,highway,residential,regular
+188681173,name,Bishop Drive,regular
+188681173,name,OS_OpenData_Locator,source
+189385823,name,Conway Close,regular
+189385823,source,bing,regular
+189385823,highway,residential,regular
+189385823,name,OS_OpenData_Locator,source
+189565200,highway,residential,regular
+189565200,name,Imber Road,regular
+189565200,source,bing,regular
+189565200,name,OS_OpenData_Locator,source
+189758696,name,Roby Mount Avenue,regular
+189758696,source,bing,regular
+189758696,highway,residential,regular
+189758696,name,OS_OpenData_Locator,source
+190360066,highway,footway,regular
+191317010,highway,footway,regular
+192980384,name,Wharfedale Drive,regular
+192980384,source,bing,regular
+192980384,highway,residential,regular
+192980384,name,OS_OpenData_Locator,source
+194155915,name,The Lindens,regular
+194155915,source,bing,regular
+194155915,highway,residential,regular
+194155915,name,OS_OpenData_Locator,source
+194372416,name,Edgar Court,regular
+194372416,source,bing,regular
+194372416,highway,residential,regular
+194372416,name,OS_OpenData_Locator,source
+194610857,building,house,regular
+194610857,levels,2,building
+195774029,name,Imison Street,regular
+195774029,highway,residential,regular
+195774029,name,OS OpenData StreetView,source
+196970120,highway,service,regular
+196970120,service,parking_aisle,regular
+197022795,source,gps_trace,regular
+197022795,highway,footway,regular
+198456188,building,terrace,regular
+198456188,levels,2,building
+198456334,building,yes,regular
+199258045,source,bing,regular
+199258045,amenity,parking,regular
+199258045,parking,surface,regular
+199371426,access,unknown,regular
+199371426,source,bing,regular
+199371426,highway,service,regular
+199539514,highway,service,regular
+199569524,source,bing,regular
+199569524,highway,footway,regular
+199796251,foot,yes,regular
+199796251,highway,cycleway,regular
+200521402,source,bing,regular
+200521402,building,yes,regular
+201159885,source,bing,regular
+201159885,building,yes,regular
+201246681,gauge,1435,regular
+201246681,layer,-1,regular
+201246681,tunnel,yes,regular
+201246681,railway,rail,regular
+201246681,voltage,750,regular
+201246681,maxspeed,30 mph,regular
+201246681,frequency,0,regular
+201246681,electrified,rail,regular
+201504797,source,bing,regular
+201504797,building,yes,regular
+201644879,source,bing,regular
+201644879,landuse,farmland,regular
+202285802,source,bing,regular
+202285802,building,yes,regular
+202800390,source,bing,regular
+202800390,highway,track,regular
+203527066,source,bing,regular
+203527066,building,yes,regular
+203872575,source,bing,regular
+203872575,building,yes,regular
+203872575,street,Stanley Road,addr
+203872575,addr,survey,source
+203872575,housenumber,7,addr
+203943936,source,bing,regular
+203943936,landuse,residential,regular
+204280274,source,bing,regular
+204280274,landuse,residential,regular
+204576531,oneway,yes,regular
+204576531,highway,service,regular
+204775872,source,bing,regular
+204775872,building,yes,regular
+205066767,source,bing,regular
+205066767,building,yes,regular
+205652274,highway,service,regular
+205652274,service,alley,regular
+205717020,lit,no,regular
+205717020,highway,path,regular
+205717020,surface,sand,regular
+205717020,wheelchair,no,regular
+205941126,source,bing,regular
+205941126,building,yes,regular
+205941251,source,bing,regular
+205941251,building,yes,regular
+206280424,VCNAME,Cheshire,regular
+206280424,source,nbn_opendata,regular
+206280424,VCNUMBER,58,regular
+206280424,boundary,administrative,regular
+206280424,admin_level,5,regular
+206558356,bridge,yes,regular
+206558356,highway,motorway,regular
+206558356,area,10,highways_england
+206558356,lanes,2,regular
+206558356,layer,1,regular
+206558356,lit,yes,regular
+206558356,oneway,yes,regular
+206558356,operator,Highways England,regular
+206558356,ref,M58,regular
+206833930,source,bing,regular
+206833930,building,yes,regular
+206991147,source,bing,regular
+206991147,building,yes,regular
+207168297,highway,footway,regular
+207616364,highway,service,regular
+207616364,service,alley,regular
+207653900,source,bing,regular
+207653900,building,yes,regular
+208118399,source,bing,regular
+208118399,building,yes,regular
+208570126,highway,footway,regular
+208582514,building,yes,regular
+208614147,area,yes,regular
+208614147,highway,pedestrian,regular
+209211196,source,bing,regular
+209211196,building,yes,regular
+209394221,building,yes,regular
+210553206,source,bing,regular
+210553206,building,yes,regular
+210711674,source,bing,regular
+210711674,building,yes,regular
+210999920,name,Maltby Close,regular
+210999920,source,bing,regular
+210999920,highway,residential,regular
+210999920,name,OS_OpenData_Locator,source
+211015677,natural,wood,regular
+211051024,building,yes,regular
+211529989,name,Clay Lane,regular
+211529989,source,bing,regular
+211529989,highway,unclassified,regular
+211529989,name,OS_OpenData_Locator,source
+212424960,highway,service,regular
+212495023,highway,footway,regular
+213183984,building,yes,regular
+214443939,source,bing,regular
+214443939,building,yes,regular
+214818637,building,yes,regular
+214818637,street,Maryland Street,addr
+214818637,housenumber,10,addr
+215094589,name,Arrowe Hall,regular
+215094589,building,yes,regular
+216239148,source,Bing,regular
+216239148,highway,service,regular
+216239148,service,alley,regular
+217325683,name,Bowmore Way,regular
+217325683,highway,residential,regular
+217325683,name,OS_OpenData_Locator,source
+217394686,source,bing,regular
+217394686,building,yes,regular
+217394792,source,bing,regular
+217394792,building,yes,regular
+217781446,name,Downing Street,regular
+217781446,source,Bing,regular
+217781446,highway,residential,regular
+217781446,name,OS_OpenData_Locator,source
+217966411,name,Galemeade,regular
+217966411,source,Bing,regular
+217966411,highway,residential,regular
+217966411,name,OS_OpenData_Locator,source
+218341047,name,Gildarts Gardens,regular
+218341047,source,Bing,regular
+218341047,highway,residential,regular
+218341047,name,OS_OpenData_Locator,source
+218389048,ref,A5058,regular
+218389048,name,Queens Drive,regular
+218389048,oneway,-1,regular
+218389048,highway,trunk_link,regular
+218399340,barrier,wall,regular
+218614276,name,Fitzclarence Way,regular
+218614276,source,Bing,regular
+218614276,highway,unclassified,regular
+218614276,name,OS_OpenData_Locator,source
+218870933,highway,service,regular
+218870933,service,alley,regular
+218895461,name,Wellington Grove,regular
+218895461,source,Bing,regular
+218895461,highway,residential,regular
+218895461,name,OS_OpenData_Locator,source
+219019312,barrier,hedge,regular
+219641120,landuse,retail,regular
+221893844,building,yes,regular
+222172599,highway,service,regular
+222172599,service,parking_aisle,regular
+223278965,source,bing,regular
+223278965,building,yes,regular
+223867360,name,Heyes Drive,regular
+223867360,source,Yahoo,regular
+223867360,highway,residential,regular
+223867360,name,OS_OpenData_Locator,source
+231150740,building,house,regular
+231635404,building,house,regular
+231635404,street,Moorfields Avenue,addr
+231635404,postcode,CH43 9YU,addr
+231635404,levels,2,building
+231635404,housenumber,2,addr
+231635656,building,house,regular
+231635656,street,Pinedale Close,addr
+231635656,postcode,CH43 9JU,addr
+231635656,levels,2,building
+231635656,housenumber,8,addr
+231635926,building,house,regular
+231635926,street,Neville Close,addr
+231635926,postcode,CH43 9SZ,addr
+231635926,levels,2,building
+231635926,housenumber,6,addr
+231645710,building,house,regular
+231645710,levels,2,building
+231651423,source,bing,regular
+231651423,building,house,regular
+231651423,levels,2,building
+231669251,building,house,regular
+231669251,levels,2,building
+231805829,building,house,regular
+231805829,levels,2,building
+231806981,building,house,regular
+231806981,levels,2,building
+231863540,building,house,regular
+231863540,levels,2,building
+231863649,building,house,regular
+231863649,levels,2,building
+231863778,building,house,regular
+232025901,building,garage,regular
+232026023,building,house,regular
+232026023,levels,2,building
+232026125,building,house,regular
+232026125,levels,2,building
+232026237,building,garage,regular
+232026339,building,house,regular
+232026339,levels,2,building
+232026442,building,house,regular
+232026442,levels,2,building
+232026552,building,house,regular
+232026552,levels,2,building
+232026657,building,house,regular
+232026657,levels,2,building
+232026767,building,house,regular
+232026767,levels,2,building
+232026870,building,house,regular
+232026870,levels,2,building
+232026987,building,house,regular
+232026987,levels,2,building
+232027091,building,house,regular
+232027091,levels,2,building
+232027194,building,house,regular
+232027194,levels,2,building
+232027303,building,house,regular
+232027303,levels,2,building
+232027407,building,house,regular
+232027407,levels,2,building
+232027520,building,house,regular
+232027520,levels,2,building
+232046858,building,house,regular
+232046858,levels,2,building
+232046968,building,terrace,regular
+232046968,levels,2,building
+232047120,building,terrace,regular
+232047120,levels,2,building
+232047237,building,garage,regular
+232047344,building,terrace,regular
+232047344,levels,2,building
+232047463,building,house,regular
+232047463,levels,2,building
+232047576,building,house,regular
+232047576,levels,2,building
+232047688,building,house,regular
+232047688,levels,2,building
+232047797,building,house,regular
+232047797,levels,2,building
+232048011,building,house,regular
+232048011,levels,2,building
+232048213,building,terrace,regular
+232048213,levels,2,building
+232048395,building,house,regular
+232048395,levels,2,building
+232048581,building,terrace,regular
+232048581,levels,2,building
+232048832,building,house,regular
+232048832,levels,2,building
+232052860,building,house,regular
+232052860,levels,2,building
+232061030,building,house,regular
+232061030,levels,2,building
+232061214,building,house,regular
+232061214,levels,2,building
+232061349,building,house,regular
+232061349,levels,2,building
+232072728,building,house,regular
+232072728,levels,2,building
+232108560,building,house,regular
+232108560,city,Birkenhead,addr
+232108560,state,Merseyside,addr
+232108560,street,Bassenthwaite Avenue,addr
+232108560,country,GB,addr
+232108560,postcode,CH43 9RA,addr
+232108560,levels,2,building
+232108560,housenumber,20,addr
+232141425,building,terrace,regular
+232141425,levels,2,building
+232141699,building,garage,regular
+232141837,building,house,regular
+232141837,levels,2,building
+232155451,building,house,regular
+232155451,street,Ford Close,addr
+232155451,postcode,CH49 9AR,addr
+232155451,levels,2,building
+232155451,housenumber,3,addr
+232155591,building,house,regular
+232155591,levels,2,building
+232171467,building,house,regular
+232171467,levels,2,building
+232171592,building,house,regular
+232171592,levels,2,building
+232171701,building,house,regular
+232171701,levels,2,building
+232171801,building,house,regular
+232171801,levels,2,building
+232171963,building,house,regular
+232171963,levels,2,building
+232172085,building,house,regular
+232172085,levels,2,building
+232172186,building,house,regular
+232172186,levels,2,building
+232172297,natural,grassland,regular
+232178737,building,house,regular
+232178737,levels,2,building
+232178843,natural,wood,regular
+232186664,building,house,regular
+232186664,levels,2,building
+232189290,building,house,regular
+232189290,city,Prenton,addr
+232189290,state,Merseyside,addr
+232189290,street,Mendip Road,addr
+232189290,country,GB,addr
+232189290,postcode,CH42 8NS,addr
+232189290,levels,2,building
+232189290,housenumber,71,addr
+232350291,building,house,regular
+232350291,levels,2,building
+232350462,building,house,regular
+232350462,levels,2,building
+232350627,building,house,regular
+232350627,levels,2,building
+232409797,building,house,regular
+232409797,levels,2,building
+232420387,building,house,regular
+232420502,building,garage,regular
+232424502,building,house,regular
+232424502,levels,2,building
+232424608,building,house,regular
+232424608,levels,2,building
+232426419,building,house,regular
+232426419,levels,2,building
+232428586,building,house,regular
+232428586,levels,2,building
+232442093,building,house,regular
+232442093,levels,2,building
+232442196,building,house,regular
+232442196,levels,2,building
+232442297,building,house,regular
+232442297,levels,2,building
+232442409,building,house,regular
+232442409,levels,2,building
+232442517,building,house,regular
+232442517,levels,2,building
+232442640,building,house,regular
+232442640,levels,2,building
+232442742,building,house,regular
+232442742,levels,2,building
+232442877,building,house,regular
+232442877,levels,2,building
+232443043,building,house,regular
+232443043,levels,2,building
+232443174,building,house,regular
+232443174,levels,2,building
+232443306,building,house,regular
+232443306,levels,2,building
+232463013,building,house,regular
+232463013,levels,2,building
+232463197,building,house,regular
+232463197,levels,2,building
+232463357,building,house,regular
+232463357,levels,2,building
+232463536,building,house,regular
+232463536,levels,2,building
+232463712,building,house,regular
+232463712,levels,2,building
+232520209,building,school,regular
+232520309,building,house,regular
+232520309,levels,2,building
+232566522,building,house,regular
+232566522,levels,2,building
+232566691,building,house,regular
+232566691,levels,2,building
+232651752,building,house,regular
+232651752,levels,2,building
+232652170,building,house,regular
+232652170,levels,2,building
+232689407,building,house,regular
+232689407,city,Birkenhead,addr
+232689407,state,Merseyside,addr
+232689407,street,Elfet Street,addr
+232689407,country,GB,addr
+232689407,postcode,CH41 0BA,addr
+232689407,levels,2,building
+232689407,housenumber,15,addr
+232738859,building,house,regular
+232738859,levels,2,building
+232738992,building,house,regular
+232738992,levels,2,building
+232770650,building,house,regular
+232770650,levels,2,building
+232770817,building,house,regular
+232770817,levels,2,building
+232771007,building,house,regular
+232771007,levels,2,building
+232771160,building,house,regular
+232771160,levels,2,building
+232771358,building,house,regular
+232771358,levels,2,building
+232771513,building,house,regular
+232771513,levels,2,building
+232799577,building,house,regular
+232799577,levels,2,building
+232799692,building,house,regular
+232799692,levels,2,building
+232807706,building,yes,regular
+232807811,building,house,regular
+232807811,levels,2,building
+232807915,building,house,regular
+232807915,levels,2,building
+232808018,building,house,regular
+232808018,levels,2,building
+232862076,building,house,regular
+232862076,levels,2,building
+232862177,building,house,regular
+232862177,levels,2,building
+232862286,building,house,regular
+232862286,levels,2,building
+232882312,building,house,regular
+232882312,levels,2,building
+232882426,building,house,regular
+232985824,oneway,yes,regular
+232985824,highway,trunk_link,regular
+233136086,building,house,regular
+233136086,levels,2,building
+233265061,building,house,regular
+233265061,levels,2,building
+233552287,building,yes,regular
+233552392,building,house,regular
+233552392,levels,2,building
+233552565,source,bing,regular
+233552565,building,house,regular
+233552565,levels,2,building
+233552694,building,house,regular
+233552694,levels,2,building
+233557127,building,house,regular
+233557127,levels,2,building
+233557240,source,bing,regular
+233557240,building,house,regular
+233557240,levels,2,building
+233611245,building,house,regular
+233611245,levels,2,building
+233611358,building,tank,regular
+233611358,man_made,tank,regular
+233611481,building,tank,regular
+233627257,building,house,regular
+233627257,levels,2,building
+233627368,building,house,regular
+233627368,levels,2,building
+233627479,building,house,regular
+233627479,levels,2,building
+233627584,building,house,regular
+233627584,levels,2,building
+233627806,building,house,regular
+233627806,levels,2,building
+233628023,building,house,regular
+233628023,levels,2,building
+233628213,building,house,regular
+233628213,levels,2,building
+233628385,building,house,regular
+233628385,levels,2,building
+233628564,building,house,regular
+233628564,levels,2,building
+233628705,building,house,regular
+233628705,levels,2,building
+233628826,building,house,regular
+233628826,levels,2,building
+233628990,building,house,regular
+233628990,levels,2,building
+233658671,building,house,regular
+233658671,levels,2,building
+233658774,building,house,regular
+233658874,building,house,regular
+233658874,levels,2,building
+233658984,building,house,regular
+233659111,building,house,regular
+233659111,levels,2,building
+233659279,building,house,regular
+233659279,levels,2,building
+233659408,building,house,regular
+233659408,levels,2,building
+233659508,building,house,regular
+233659616,building,house,regular
+233659616,levels,2,building
+233667047,building,house,regular
+233667047,levels,2,building
+233667176,building,house,regular
+233667176,levels,2,building
+233667296,building,house,regular
+233667296,levels,2,building
+233705976,building,house,regular
+233705976,levels,2,building
+233706083,building,house,regular
+233706083,levels,2,building
+233737333,building,house,regular
+233737333,levels,2,building
+233737439,building,house,regular
+233737439,levels,2,building
+233737548,building,house,regular
+233737548,levels,2,building
+233741505,building,house,regular
+233746824,building,yes,regular
+233746992,natural,wood,regular
+233757030,building,yes,regular
+233757144,building,house,regular
+233757261,building,house,regular
+233757261,levels,2,building
+233762585,building,house,regular
+233762691,building,house,regular
+233762799,building,house,regular
+233905664,building,house,regular
+233905770,building,house,regular
+233905883,building,house,regular
+233905991,building,house,regular
+233906100,source,bing,regular
+233906100,building,house,regular
+233906208,building,house,regular
+233906317,building,house,regular
+233906456,source,bing,regular
+233906456,building,house,regular
+233906641,building,house,regular
+233906765,building,house,regular
+233906909,building,house,regular
+233907020,source,bing,regular
+233907020,building,house,regular
+233907129,building,house,regular
+233907239,building,garage,regular
+233907351,building,house,regular
+233907458,building,house,regular
+233907576,natural,wood,regular
+233939358,highway,service,regular
+233939358,service,alley,regular
+234008800,building,house,regular
+234008901,building,house,regular
+234009003,building,house,regular
+234009104,building,house,regular
+234009208,building,yes,regular
+234009328,building,school,regular
+234032303,building,house,regular
+234032479,building,house,regular
+234032672,building,house,regular
+234032863,building,house,regular
+234033104,source,bing,regular
+234033104,building,house,regular
+234102088,source,bing,regular
+234102088,building,house,regular
+234102088,city,Birkenhead,addr
+234102088,state,Merseyside,addr
+234102088,street,Raffles Road,addr
+234102088,country,GB,addr
+234102088,postcode,CH42 0HJ,addr
+234102088,housenumber,111,addr
+234102213,building,house,regular
+234102337,building,house,regular
+234102483,building,house,regular
+234102635,source,bing,regular
+234102635,building,house,regular
+234102762,source,bing,regular
+234102762,building,house,regular
+234102762,city,Birkenhead,addr
+234102762,state,Merseyside,addr
+234102762,street,Larch Road,addr
+234102762,country,GB,addr
+234102762,postcode,CH42 0JG,addr
+234102762,housenumber,51,addr
+234102886,source,bing,regular
+234102886,building,house,regular
+234108436,source,bing,regular
+234108436,building,house,regular
+234144764,source,bing,regular
+234144764,building,house,regular
+234144872,source,bing,regular
+234144872,building,house,regular
+234144974,source,bing,regular
+234144974,building,house,regular
+234145078,source,bing,regular
+234145078,building,house,regular
+234145179,building,garage,regular
+234145281,source,bing,regular
+234145281,building,house,regular
+234145464,source,bing,regular
+234145464,building,house,regular
+234145638,building,apartments,regular
+234145740,source,bing,regular
+234145740,building,house,regular
+234145850,source,bing,regular
+234145850,building,house,regular
+234145969,source,bing,regular
+234145969,building,house,regular
+234153824,source,bing,regular
+234153824,building,house,regular
+234153968,source,bing,regular
+234153968,building,house,regular
+234154117,source,bing,regular
+234154117,building,house,regular
+234154225,source,bing,regular
+234154225,building,house,regular
+234154333,source,bing,regular
+234154333,building,house,regular
+234154440,source,bing,regular
+234154440,building,house,regular
+234168554,source,bing,regular
+234168554,building,house,regular
+234168744,building,house,regular
+234257086,source,bing,regular
+234257086,building,house,regular
+234257269,source,bing,regular
+234257269,building,house,regular
+234257400,source,bing,regular
+234257400,building,house,regular
+234257534,source,bing,regular
+234257534,building,house,regular
+234257676,source,bing,regular
+234257676,building,house,regular
+234257812,source,bing,regular
+234257812,building,house,regular
+234314637,source,bing,regular
+234314637,building,garages,regular
+234314757,source,bing,regular
+234314757,building,house,regular
+234314897,source,bing,regular
+234314897,building,house,regular
+234314997,source,bing,regular
+234314997,building,house,regular
+234315097,source,bing,regular
+234315097,building,house,regular
+234315243,source,bing,regular
+234315243,building,house,regular
+234315343,source,bing,regular
+234315343,building,house,regular
+234315482,source,bing,regular
+234315482,building,house,regular
+234315584,source,bing,regular
+234315584,building,yes,regular
+234315684,source,bing,regular
+234315684,building,house,regular
+234315784,source,bing,regular
+234315784,building,house,regular
+234315888,source,bing,regular
+234315888,building,house,regular
+234402726,building,commercial,regular
+234402868,source,bing,regular
+234402868,building,house,regular
+234402985,source,bing,regular
+234402985,building,house,regular
+234403087,source,bing,regular
+234403087,building,house,regular
+234403188,source,bing,regular
+234403188,building,house,regular
+234403288,source,bing,regular
+234403288,building,house,regular
+234403403,source,bing,regular
+234403403,building,house,regular
+234403503,source,bing,regular
+234403503,building,house,regular
+234403603,source,bing,regular
+234403603,building,house,regular
+234403736,source,bing,regular
+234403736,building,house,regular
+234403852,source,bing,regular
+234403852,building,house,regular
+234403955,source,bing,regular
+234403955,building,house,regular
+234404057,source,bing,regular
+234404057,building,house,regular
+234404157,source,bing,regular
+234404157,building,house,regular
+234404277,source,bing,regular
+234404277,building,house,regular
+234404395,source,bing,regular
+234404395,building,house,regular
+234404495,source,bing,regular
+234404495,building,house,regular
+234423758,landuse,farmland,regular
+234423758,natural,grassland,regular
+234521627,source,bing,regular
+234521627,building,house,regular
+234521727,source,bing,regular
+234521727,building,house,regular
+234521832,source,bing,regular
+234521832,building,house,regular
+234521938,source,bing,regular
+234521938,building,house,regular
+234522038,source,bing,regular
+234522038,building,house,regular
+234522138,source,bing,regular
+234522138,building,house,regular
+234522238,source,bing,regular
+234522238,building,house,regular
+234573477,name,St Anne's Catholic Church,regular
+234573477,source,bing,regular
+234573477,amenity,place_of_worship,regular
+234573477,building,church,regular
+234573477,religion,christian,regular
+234573602,source,bing,regular
+234573602,building,house,regular
+234573710,source,bing,regular
+234573710,building,house,regular
+234573833,source,bing,regular
+234573833,building,house,regular
+234573961,source,bing,regular
+234573961,building,house,regular
+234574073,source,bing,regular
+234574073,building,house,regular
+234574209,source,bing,regular
+234574209,building,house,regular
+234574332,source,bing,regular
+234574332,building,house,regular
+234578368,source,bing,regular
+234578368,building,house,regular
+234600517,source,bing,regular
+234600517,building,house,regular
+234600749,source,bing,regular
+234600749,building,house,regular
+234600989,source,bing,regular
+234600989,building,house,regular
+234601200,source,bing,regular
+234601200,building,house,regular
+234601419,source,bing,regular
+234601419,building,house,regular
+234601638,source,bing,regular
+234601638,building,house,regular
+234601866,source,bing,regular
+234601866,building,house,regular
+234602074,source,bing,regular
+234602074,building,house,regular
+234602290,source,bing,regular
+234602290,building,house,regular
+234602520,source,bing,regular
+234602520,building,house,regular
+234602759,source,bing,regular
+234602759,building,house,regular
+234714879,source,bing,regular
+234714879,building,house,regular
+234715010,source,bing,regular
+234715010,building,house,regular
+234715189,source,bing,regular
+234715189,building,house,regular
+234715311,source,bing,regular
+234715311,building,house,regular
+234725969,source,bing,regular
+234725969,building,house,regular
+234726136,source,bing,regular
+234726136,building,house,regular
+234773826,source,bing,regular
+234773826,building,house,regular
+234773931,source,bing,regular
+234773931,building,house,regular
+234774039,source,bing,regular
+234774039,building,house,regular
+234774193,source,bing,regular
+234774193,building,house,regular
+234774299,source,bing,regular
+234774299,building,house,regular
+234868131,source,NPE,regular
+234868131,highway,steps,regular
+235154613,source,bing,regular
+235154613,building,house,regular
+235154715,source,bing,regular
+235154715,building,house,regular
+235154823,source,bing,regular
+235154823,building,house,regular
+235205118,source,bing,regular
+235205118,building,house,regular
+235205221,source,bing,regular
+235205221,building,house,regular
+235216650,source,bing,regular
+235216650,building,garage,regular
+235219769,source,bing,regular
+235219769,building,house,regular
+235255487,source,bing,regular
+235255487,building,apartments,regular
+235259766,source,bing,regular
+235259766,building,house,regular
+235299937,source,bing,regular
+235299937,building,industrial,regular
+235341926,source,bing,regular
+235341926,building,house,regular
+235341926,city,Birkenhead,addr
+235341926,state,Merseyside,addr
+235341926,street,Anson Mews,addr
+235341926,country,GB,addr
+235341926,postcode,CH43 7SX,addr
+235341926,levels,2,building
+235341926,housenumber,1,addr
+235359071,source,bing,regular
+235359071,building,house,regular
+235364231,source,bing,regular
+235364231,building,house,regular
+235447854,source,bing,regular
+235447854,building,house,regular
+235448137,source,bing,regular
+235448137,building,house,regular
+235448341,building,house,regular
+235448537,source,bing,regular
+235448537,building,house,regular
+235448719,source,bing,regular
+235448719,building,house,regular
+235449055,source,bing,regular
+235449055,building,garage,regular
+235449288,source,bing,regular
+235449288,building,house,regular
+235449547,natural,wood,regular
+235492533,source,bing,regular
+235492533,building,industrial,regular
+235492645,source,bing,regular
+235492645,building,house,regular
+235492766,source,bing,regular
+235492766,building,house,regular
+235492912,source,bing,regular
+235492912,building,house,regular
+235493018,source,bing,regular
+235493018,building,house,regular
+235493135,source,bing,regular
+235493135,building,industrial,regular
+235493256,natural,scrub,regular
+235505451,source,bing,regular
+235505451,building,house,regular
+235505580,source,bing,regular
+235505580,building,house,regular
+235505739,source,bing,regular
+235505739,building,house,regular
+235505878,source,bing,regular
+235505878,building,house,regular
+235510187,source,bing,regular
+235510187,building,industrial,regular
+235592874,source,bing,regular
+235592874,building,house,regular
+235592977,source,bing,regular
+235592977,building,house,regular
+235593082,source,bing,regular
+235593082,building,house,regular
+235593201,natural,scrub,regular
+235605642,source,bing,regular
+235605642,building,house,regular
+235637939,source,bing,regular
+235637939,building,house,regular
+235638107,source,bing,regular
+235638107,building,apartments,regular
+235638237,source,bing,regular
+235638237,building,retail,regular
+235792659,source,bing,regular
+235792659,building,house,regular
+235792764,source,bing,regular
+235792764,building,house,regular
+235792864,source,bing,regular
+235792864,building,house,regular
+235814730,natural,scrub,regular
+235852778,source,bing,regular
+235852778,building,house,regular
+235852879,source,bing,regular
+235852879,building,house,regular
+235853026,source,bing,regular
+235853026,building,house,regular
+235858105,natural,scrub,regular
+235980411,source,bing,regular
+235980411,building,house,regular
+235980547,source,bing,regular
+235980547,building,house,regular
+235980720,source,bing,regular
+235980720,building,house,regular
+235980820,source,bing,regular
+235980820,building,house,regular
+235980946,source,bing,regular
+235980946,building,house,regular
+235981046,source,bing,regular
+235981046,building,house,regular
+235981164,source,bing,regular
+235981164,building,house,regular
+235981264,source,bing,regular
+235981264,building,house,regular
+235981366,source,bing,regular
+235981366,building,house,regular
+235981473,source,bing,regular
+235981473,building,apartments,regular
+235981574,source,bing,regular
+235981574,building,house,regular
+235981683,source,bing,regular
+235981683,building,house,regular
+235981789,source,bing,regular
+235981789,building,house,regular
+235981892,source,bing,regular
+235981892,building,house,regular
+235982003,source,bing,regular
+235982003,building,house,regular
+235982106,highway,service,regular
+235982106,service,alley,regular
+235982215,natural,grassland,regular
+235987622,source,bing,regular
+235987622,building,house,regular
+235987724,source,bing,regular
+235987724,building,house,regular
+235987827,source,bing,regular
+235987827,building,house,regular
+236010161,source,bing,regular
+236010161,building,house,regular
+236010320,building,retail,regular
+236048340,bicycle,yes,regular
+236048340,foot,yes,regular
+236048340,highway,cycleway,regular
+236086355,source,bing,regular
+236086355,building,house,regular
+236086457,source,bing,regular
+236086457,building,house,regular
+236125836,source,bing,regular
+236125836,building,house,regular
+236125941,source,bing,regular
+236125941,building,house,regular
+236126070,source,bing,regular
+236126070,building,house,regular
+236126170,source,bing,regular
+236126170,building,house,regular
+236126270,source,bing,regular
+236126270,building,house,regular
+236126372,source,bing,regular
+236126372,building,house,regular
+236126475,source,bing,regular
+236126475,building,house,regular
+236126588,source,bing,regular
+236126588,building,house,regular
+236126715,source,bing,regular
+236126715,building,house,regular
+236126815,source,bing,regular
+236126815,building,house,regular
+236126916,source,bing,regular
+236126916,building,retail,regular
+236127028,source,bing,regular
+236127028,building,house,regular
+236127148,natural,grassland,regular
+236135664,source,survey,regular
+236135664,building,house,regular
+236135664,street,Richmond Street,addr
+236135664,geometry,bing,source
+236135664,housenumber,5,addr
+236169607,source,extapolation,regular
+236169607,building,house,regular
+236169607,street,Tollemache Street,addr
+236169607,geometry,bing,source
+236169607,housenumber,9,addr
+236169708,source,bing,regular
+236169708,building,house,regular
+236169811,source,bing,regular
+236169811,building,house,regular
+236259205,source,bing,regular
+236259205,building,house,regular
+236259308,source,bing,regular
+236259308,building,garage,regular
+236259413,source,bing,regular
+236259413,building,house,regular
+236288300,source,bing,regular
+236288300,building,house,regular
+236288401,source,bing,regular
+236288401,building,house,regular
+236288512,source,bing,regular
+236288512,building,house,regular
+236288633,source,bing,regular
+236288633,building,house,regular
+236288736,source,bing,regular
+236288736,building,house,regular
+236288847,source,bing,regular
+236288847,building,house,regular
+236288992,source,bing,regular
+236288992,building,house,regular
+236289096,source,bing,regular
+236289096,building,house,regular
+236289225,source,bing,regular
+236289225,building,house,regular
+236324583,source,bing,regular
+236324583,building,house,regular
+236324698,source,bing,regular
+236324698,building,house,regular
+236324816,source,bing,regular
+236324816,building,house,regular
+236367692,source,bing,regular
+236367692,building,house,regular
+236367792,source,bing,regular
+236367792,building,house,regular
+236367900,source,bing,regular
+236367900,building,house,regular
+236368003,source,bing,regular
+236368003,building,house,regular
+236399523,source,bing,regular
+236399523,building,house,regular
+236399623,source,bing,regular
+236399623,building,house,regular
+236521698,source,bing,regular
+236521698,building,house,regular
+236521812,source,bing,regular
+236521812,building,house,regular
+236521919,source,bing,regular
+236521919,building,house,regular
+236522032,amenity,parking,regular
+236522032,surface,asphalt,regular
+236547779,source,bing,regular
+236547779,building,house,regular
+236547884,source,bing,regular
+236547884,building,house,regular
+236547984,source,bing,regular
+236547984,building,house,regular
+236548137,source,bing,regular
+236548137,building,house,regular
+236548263,source,bing,regular
+236548263,building,house,regular
+236548365,source,bing,regular
+236548365,building,house,regular
+236548466,source,bing,regular
+236548466,building,house,regular
+236548591,building,industrial,regular
+236548591,man_made,storage_tank,regular
+236548725,source,bing,regular
+236548725,building,house,regular
+236548883,natural,grassland,regular
+236560619,building,house,regular
+236560619,levels,2,building
+236560720,source,bing,regular
+236560720,building,house,regular
+236573975,highway,footway,regular
+236579622,source,bing,regular
+236579622,building,house,regular
+236579751,natural,water,regular
+236590601,source,bing,regular
+236590601,building,house,regular
+236590705,source,bing,regular
+236590705,building,house,regular
+236590805,source,bing,regular
+236590805,building,house,regular
+236590911,source,bing,regular
+236590911,building,house,regular
+236591020,source,bing,regular
+236591020,building,house,regular
+236591121,source,bing,regular
+236591121,building,house,regular
+236591226,source,bing,regular
+236591226,building,house,regular
+236591328,source,bing,regular
+236591328,building,house,regular
+236591430,source,bing,regular
+236591430,building,house,regular
+236591530,natural,grassland,regular
+236684525,source,bing,regular
+236684525,building,house,regular
+236684626,source,bing,regular
+236684626,building,house,regular
+236684730,source,bing,regular
+236684730,building,retail,regular
+236750901,source,bing,regular
+236750901,building,house,regular
+236751111,source,bing,regular
+236751111,building,house,regular
+236751315,source,bing,regular
+236751315,building,house,regular
+236751516,source,bing,regular
+236751516,building,house,regular
+236751725,source,bing,regular
+236751725,building,house,regular
+236751883,source,bing,regular
+236751883,building,house,regular
+236751988,natural,wood,regular
+236762094,source,bing,regular
+236762094,building,house,regular
+236762196,source,bing,regular
+236762196,building,house,regular
+236762299,source,bing,regular
+236762299,building,house,regular
+236762399,source,bing,regular
+236762399,building,house,regular
+236762499,source,bing,regular
+236762499,building,house,regular
+236762599,source,bing,regular
+236762599,building,house,regular
+236772404,source,bing,regular
+236772404,building,house,regular
+236772530,source,bing,regular
+236772530,building,house,regular
+236772647,source,bing,regular
+236772647,building,house,regular
+236772752,source,bing,regular
+236772752,building,house,regular
+236772858,source,bing,regular
+236772858,building,house,regular
+236772975,source,bing,regular
+236772975,building,house,regular
+236773075,source,bing,regular
+236773075,building,house,regular
+236773202,highway,unclassified,regular
+236777182,source,bing,regular
+236777182,building,house,regular
+236784262,source,bing,regular
+236784262,building,garage,regular
+236784373,source,bing,regular
+236784373,building,house,regular
+236786895,source,bing,regular
+236786895,building,house,regular
+236816148,source,bing,regular
+236816148,building,house,regular
+236816251,source,bing,regular
+236816251,building,house,regular
+236817398,natural,grassland,regular
+236829929,source,bing,regular
+236829929,building,house,regular
+236868550,source,bing,regular
+236868550,building,house,regular
+236868656,source,bing,regular
+236868656,building,house,regular
+236868794,source,bing,regular
+236868794,building,house,regular
+236868896,source,bing,regular
+236868896,building,house,regular
+236869016,source,bing,regular
+236869016,building,house,regular
+236869119,natural,grassland,regular
+236965288,source,bing,regular
+236965288,building,house,regular
+236965389,source,bing,regular
+236965389,building,house,regular
+236965509,source,bing,regular
+236965509,building,garage,regular
+236965617,source,bing,regular
+236965617,building,house,regular
+236965718,source,bing,regular
+236965718,building,house,regular
+236965818,source,bing,regular
+236965818,building,house,regular
+236965918,source,bing,regular
+236965918,building,house,regular
+236966019,source,bing,regular
+236966019,building,house,regular
+236966119,source,bing,regular
+236966119,building,house,regular
+237003084,building,apartments,regular
+237029206,source,bing,regular
+237029206,amenity,parking,regular
+237029206,parking,surface,regular
+237073967,source,bing,regular
+237073967,building,house,regular
+237074069,source,bing,regular
+237074069,building,house,regular
+237074169,source,bing,regular
+237074169,building,house,regular
+237074169,street,Manor Road,addr
+237074169,addr,FHRS Open Data,source
+237074169,housenumber,39,addr
+237074269,source,bing,regular
+237074269,building,house,regular
+237088953,source,bing,regular
+237088953,building,house,regular
+237089132,source,bing,regular
+237089132,building,house,regular
+237089249,source,bing,regular
+237089249,building,house,regular
+237089351,source,bing,regular
+237089351,building,garage,regular
+237157142,building,residential,regular
+237157142,street,Gladstone Road,addr
+237157142,housenumber,6,addr
+237189245,source,bing,regular
+237189245,building,house,regular
+237189393,source,bing,regular
+237189393,building,house,regular
+237205653,source,bing,regular
+237205653,building,house,regular
+237205763,source,bing,regular
+237205763,building,house,regular
+237289078,source,bing,regular
+237289078,building,house,regular
+237289078,street,Sandfield Road,addr
+237289078,postcode,CH49 7LZ,addr
+237289078,housenumber,12,addr
+237289239,natural,grassland,regular
+237335521,source,bing,regular
+237335521,building,house,regular
+237335623,source,bing,regular
+237335623,building,house,regular
+237335723,source,bing,regular
+237335723,building,house,regular
+237335825,source,bing,regular
+237335825,building,house,regular
+237362114,source,bing,regular
+237362114,building,house,regular
+237362238,source,bing,regular
+237362238,building,house,regular
+237362349,source,bing,regular
+237362349,building,house,regular
+237362468,source,bing,regular
+237362468,building,house,regular
+237362574,source,bing,regular
+237362574,building,garage,regular
+237362675,source,bing,regular
+237362675,building,house,regular
+237362779,source,bing,regular
+237362779,building,house,regular
+237362879,source,bing,regular
+237362879,building,house,regular
+237363031,source,bing,regular
+237363031,building,house,regular
+237363190,source,bing,regular
+237363190,building,house,regular
+237363357,source,bing,regular
+237363357,building,house,regular
+237363478,source,bing,regular
+237363478,building,house,regular
+237363581,source,bing,regular
+237363581,building,house,regular
+237363687,source,bing,regular
+237363687,building,house,regular
+237363795,source,bing,regular
+237363795,building,house,regular
+237363900,source,bing,regular
+237363900,building,house,regular
+237364074,source,bing,regular
+237364074,building,house,regular
+237364212,source,bing,regular
+237364212,building,house,regular
+237364317,source,bing,regular
+237364317,building,house,regular
+237374852,source,bing,regular
+237374852,building,house,regular
+237374953,source,bing,regular
+237374953,building,house,regular
+237375078,source,bing,regular
+237375078,building,house,regular
+237375241,source,bing,regular
+237375241,building,house,regular
+237375361,source,bing,regular
+237375361,building,house,regular
+237420423,source,survey,regular
+237420423,building,house,regular
+237420423,street,Langdale Road,addr
+237420423,postcode,CH45 0LT,addr
+237420423,geometry,bing,source
+237420423,postcode,Land Registry Prices Paid Open Data,source
+237420423,housenumber,28,addr
+237420529,source,bing,regular
+237420529,building,garage,regular
+237420643,source,bing,regular
+237420643,building,house,regular
+237420755,source,interpolation;naptan,regular
+237420755,building,house,regular
+237420755,street,Hose Side Road,addr
+237420755,geometry,Bing,source
+237420755,housenumber,25,addr
+237420856,source,bing,regular
+237420856,building,house,regular
+237420958,source,bing,regular
+237420958,building,house,regular
+237421060,source,bing,regular
+237421060,building,house,regular
+237421161,source,bing,regular
+237421161,building,house,regular
+237421266,source,bing,regular
+237421266,building,house,regular
+237421367,source,bing,regular
+237421367,building,house,regular
+237421480,source,bing,regular
+237421480,building,house,regular
+237421606,source,bing,regular
+237421606,building,house,regular
+237425346,source,bing,regular
+237425346,building,house,regular
+237489202,source,bing,regular
+237489202,building,house,regular
+237489302,source,bing,regular
+237489302,building,house,regular
+237489427,source,bing,regular
+237489427,building,house,regular
+237489529,source,bing,regular
+237489529,building,house,regular
+237489634,source,bing,regular
+237489634,building,house,regular
+237493015,source,bing,regular
+237493015,building,house,regular
+237493116,source,bing,regular
+237493116,building,house,regular
+237493216,source,bing,regular
+237493216,building,house,regular
+237493316,source,bing,regular
+237493316,building,house,regular
+237638628,building,yes,regular
+237638735,source,bing,regular
+237638735,building,house,regular
+237688454,source,bing,regular
+237688454,building,house,regular
+237688566,source,bing,regular
+237688566,building,house,regular
+237688668,source,bing,regular
+237688668,building,house,regular
+237688797,source,bing,regular
+237688797,building,house,regular
+237688897,source,bing,regular
+237688897,building,house,regular
+237689000,source,bing,regular
+237689000,building,house,regular
+237776261,source,bing,regular
+237776261,building,house,regular
+237776367,source,bing,regular
+237776367,building,house,regular
+238782845,name,North Dock,regular
+238782845,waterway,dock,regular
+239163066,source,bing,regular
+239163066,building,house,regular
+239163183,source,bing,regular
+239163183,building,house,regular
+239163285,source,bing,regular
+239163285,building,house,regular
+239163451,highway,service,regular
+239163451,service,alley,regular
+239281275,source,bing,regular
+239281275,building,house,regular
+239281375,source,bing,regular
+239281375,building,house,regular
+239281475,source,bing,regular
+239281475,building,house,regular
+239281575,source,bing,regular
+239281575,building,house,regular
+239281677,source,bing,regular
+239281677,building,house,regular
+239439417,source,bing,regular
+239439417,building,house,regular
+239439524,source,bing,regular
+239439524,building,house,regular
+239439624,source,bing,regular
+239439624,building,house,regular
+239439725,source,bing,regular
+239439725,building,house,regular
+239439865,source,bing,regular
+239439865,building,house,regular
+239439967,building,apartments,regular
+240132836,source,bing,regular
+240132836,building,house,regular
+240132938,source,bing,regular
+240132938,building,house,regular
+240133038,source,bing,regular
+240133038,building,house,regular
+240133146,source,bing,regular
+240133146,building,house,regular
+240133249,source,bing,regular
+240133249,building,house,regular
+240133352,source,bing,regular
+240133352,building,house,regular
+240133475,source,bing,regular
+240133475,building,house,regular
+240133582,source,bing,regular
+240133582,building,house,regular
+240133702,source,bing,regular
+240133702,building,house,regular
+240133803,source,bing,regular
+240133803,building,house,regular
+240133926,source,bing,regular
+240133926,building,house,regular
+240134067,source,bing,regular
+240134067,building,house,regular
+240134167,source,bing,regular
+240134167,building,house,regular
+240134298,source,bing,regular
+240134298,building,house,regular
+240134398,source,bing,regular
+240134398,building,house,regular
+240134515,source,bing,regular
+240134515,building,house,regular
+240134619,source,bing,regular
+240134619,building,house,regular
+240134720,name,Farmers Arms,regular
+240134720,source,local_knowledge,regular
+240134720,id,394721,fhrs
+240134720,building,pub,regular
+240134720,street,Wallasey Village,addr
+240134720,addr,FHRS Open Data,source
+240134720,postcode,CH45 3LG,addr
+240134720,geometry,Bing,source
+240134720,housenumber,225,addr
+240134820,source,bing,regular
+240134820,building,house,regular
+240134970,source,bing,regular
+240134970,building,house,regular
+240135125,source,bing,regular
+240135125,building,house,regular
+240138389,source,bing,regular
+240138389,building,house,regular
+240138492,source,bing,regular
+240138492,building,house,regular
+240138595,source,bing,regular
+240138595,building,house,regular
+240159641,source,bing,regular
+240159641,building,industrial,regular
+240159800,source,bing,regular
+240159800,building,house,regular
+240159917,source,bing,regular
+240159917,building,house,regular
+240160047,source,bing,regular
+240160047,building,residential,regular
+240160188,source,bing,regular
+240160188,building,house,regular
+240160293,source,bing,regular
+240160293,building,house,regular
+240160469,source,bing,regular
+240160469,building,house,regular
+240160573,source,bing,regular
+240160573,building,house,regular
+240160705,source,bing,regular
+240160705,building,house,regular
+240160839,source,bing,regular
+240160839,building,house,regular
+240160939,natural,grassland,regular
+240165590,natural,scrub,regular
+240181725,source,bing,regular
+240181725,building,house,regular
+240181825,source,bing,regular
+240181825,building,house,regular
+240344950,source,bing,regular
+240344950,building,house,regular
+240345050,source,bing,regular
+240345050,building,house,regular
+240345153,source,bing,regular
+240345153,building,house,regular
+240345256,amenity,parking,regular
+240379191,source,bing,regular
+240379191,building,house,regular
+240379292,source,bing,regular
+240379292,building,house,regular
+240379398,source,bing,regular
+240379398,building,house,regular
+240379506,source,bing,regular
+240379506,building,house,regular
+240379621,source,bing,regular
+240379621,building,house,regular
+240379730,source,bing,regular
+240379730,building,house,regular
+240379837,source,bing,regular
+240379837,building,house,regular
+240379945,source,bing,regular
+240379945,building,house,regular
+240380050,amenity,parking,regular
+240470843,source,bing,regular
+240470843,building,garage,regular
+240471021,source,bing,regular
+240471021,building,house,regular
+240471242,natural,grassland,regular
+240539445,source,bing,regular
+240539445,building,garage,regular
+240539546,source,bing,regular
+240539546,building,house,regular
+240539647,source,bing,regular
+240539647,building,house,regular
+241123753,source,bing,regular
+241123753,building,house,regular
+241123862,source,bing,regular
+241123862,building,house,regular
+241123964,source,bing,regular
+241123964,building,house,regular
+241124067,source,bing,regular
+241124067,building,house,regular
+241124168,source,bing,regular
+241124168,building,house,regular
+241124271,source,bing,regular
+241124271,building,house,regular
+241124373,source,bing,regular
+241124373,building,garage,regular
+241124497,highway,service,regular
+242184039,source,bing,regular
+242184039,building,house,regular
+242184140,source,bing,regular
+242184140,building,house,regular
+242184277,source,bing,regular
+242184277,building,house,regular
+242205656,source,bing,regular
+242205656,building,house,regular
+242218142,source,bing,regular
+242218142,building,pub,regular
+242218336,source,bing,regular
+242218336,building,house,regular
+242218539,source,bing,regular
+242218539,building,house,regular
+242218733,source,bing,regular
+242218733,building,house,regular
+242218924,source,bing,regular
+242218924,building,house,regular
+242219149,source,bing,regular
+242219149,building,house,regular
+242219359,source,bing,regular
+242219359,building,house,regular
+242219581,natural,grassland,regular
+242227696,source,bing,regular
+242227696,building,house,regular
+242227805,source,bing,regular
+242227805,building,house,regular
+242318019,source,bing,regular
+242318019,building,house,regular
+242318121,source,bing,regular
+242318121,building,house,regular
+242318223,source,bing,regular
+242318223,building,apartments,regular
+242571436,source,bing,regular
+242571436,building,house,regular
+242571539,source,bing,regular
+242571539,building,house,regular
+242571666,source,bing,regular
+242571666,building,house,regular
+242571812,source,bing,regular
+242571812,building,house,regular
+242571921,source,bing,regular
+242571921,building,house,regular
+243070997,building,residential,regular
+243070997,building,Bing,source
+244463440,building,house,regular
+244463440,city,"Runcorn, Cheshire",addr
+244463440,street,Saint Paul's Close,addr
+244463440,postcode,Invalid Zip Code,addr
+244463440,housenumber,8,addr
+245109199,source,bing,regular
+245109199,building,house,regular
+245109300,source,bing,regular
+245109300,building,house,regular
+245109450,source,bing,regular
+245109450,building,house,regular
+245117055,source,bing,regular
+245117055,building,house,regular
+245117156,source,bing,regular
+245117156,building,house,regular
+245120920,building,house,regular
+245120920,levels,2,building
+245121021,building,house,regular
+245121021,levels,2,building
+245122902,building,house,regular
+245311167,source,bing,regular
+245311167,building,house,regular
+245441138,building,yes,regular
+247195099,source,bing,regular
+247195099,building,garage,regular
+247195202,source,bing,regular
+247195202,building,house,regular
+247397004,source,bing,regular
+247397004,building,house,regular
+247397104,source,bing,regular
+247397104,building,house,regular
+247397204,source,bing,regular
+247397204,building,apartments,regular
+247397304,natural,grassland,regular
+247631608,source,bing,regular
+247631608,building,garage,regular
+247631816,natural,grassland,regular
+247643756,source,bing,regular
+247643756,building,house,regular
+247838319,source,bing,regular
+247838319,building,garage,regular
+247848416,source,bing,regular
+247848416,building,house,regular
+247848518,source,bing,regular
+247848518,building,house,regular
+247901670,name,COOP Car Park,regular
+247901670,amenity,parking,regular
+247901783,source,bing,regular
+247901783,building,house,regular
+247901919,source,bing,regular
+247901919,building,house,regular
+247902024,source,bing,regular
+247902024,building,house,regular
+247902125,source,bing,regular
+247902125,building,garage,regular
+247902314,source,bing,regular
+247902314,building,house,regular
+247902437,source,bing,regular
+247902437,building,house,regular
+247902608,source,bing,regular
+247902608,building,house,regular
+247902741,source,bing,regular
+247902741,building,house,regular
+247902845,source,bing,regular
+247902845,building,house,regular
+247902947,source,bing,regular
+247902947,building,house,regular
+247903050,source,bing,regular
+247903050,building,house,regular
+247903152,source,bing,regular
+247903152,building,house,regular
+247903260,source,bing,regular
+247903260,building,house,regular
+247903402,source,bing,regular
+247903402,building,retail,regular
+247903512,highway,unclassified,regular
+248361145,source,bing,regular
+248361145,building,farm,regular
+248364671,source,bing,regular
+248364671,building,house,regular
+248427160,source,bing,regular
+248427160,building,house,regular
+248427280,source,bing,regular
+248427280,building,house,regular
+248427383,source,bing,regular
+248427383,building,house,regular
+248431641,source,bing,regular
+248431641,building,house,regular
+248431811,source,bing,regular
+248431811,building,house,regular
+248469440,source,bing,regular
+248469440,building,farm,regular
+248477552,source,bing,regular
+248477552,building,house,regular
+248587923,source,bing,regular
+248587923,building,garage,regular
+248588155,source,bing,regular
+248588155,building,house,regular
+248588370,source,bing,regular
+248588370,building,house,regular
+248588570,source,bing,regular
+248588570,building,house,regular
+248629317,source,bing,regular
+248629317,building,house,regular
+248629471,source,bing,regular
+248629471,building,house,regular
+248629669,source,bing,regular
+248629669,building,house,regular
+248629816,source,bing,regular
+248629816,building,house,regular
+248629928,natural,wood,regular
+248661678,source,bing,regular
+248661678,building,house,regular
+248661792,source,bing,regular
+248661792,building,garage,regular
+248661897,highway,footway,regular
+248687472,source,bing,regular
+248687472,building,garage,regular
+248687673,source,bing,regular
+248687673,building,house,regular
+248687774,source,bing,regular
+248687774,building,house,regular
+248687897,source,bing,regular
+248687897,building,house,regular
+248688001,source,bing,regular
+248688001,building,house,regular
+248688103,source,bing,regular
+248688103,building,house,regular
+248688236,natural,wood,regular
+248740344,source,bing,regular
+248740344,building,house,regular
+248740487,natural,grassland,regular
+248792544,source,bing,regular
+248792544,building,house,regular
+248792645,source,bing,regular
+248792645,building,house,regular
+248792763,source,bing,regular
+248792763,building,house,regular
+248792868,natural,grassland,regular
+248872450,source,bing,regular
+248872450,building,house,regular
+248872578,source,bing,regular
+248872578,building,garage,regular
+248872689,source,bing,regular
+248872689,building,house,regular
+248872795,source,bing,regular
+248872795,building,house,regular
+248872933,source,bing,regular
+248872933,building,house,regular
+248873157,source,bing,regular
+248873157,building,garage,regular
+248873400,source,bing,regular
+248873400,building,house,regular
+248873702,source,bing,regular
+248873702,building,house,regular
+248931069,source,bing,regular
+248931069,building,house,regular
+248931171,source,bing,regular
+248931171,building,house,regular
+248976178,source,bing,regular
+248976178,building,garage,regular
+248976280,source,bing,regular
+248976280,building,house,regular
+248976381,source,bing,regular
+248976381,building,house,regular
+248983253,natural,wood,regular
+248991825,natural,wood,regular
+248997546,source,bing,regular
+248997546,building,house,regular
+249016855,landuse,farmland,regular
+249018655,source,bing,regular
+249018655,building,house,regular
+249106924,building,residential,regular
+249117117,source,bing,regular
+249117117,building,house,regular
+249117219,source,bing,regular
+249117219,building,house,regular
+249117322,natural,water,regular
+249250822,source,Bing,regular
+249250822,building,yes,regular
+249265250,source,Bing,regular
+249265250,building,house,regular
+249394861,source,bing,regular
+249394861,building,garage,regular
+249394994,source,bing,regular
+249394994,building,house,regular
+249395146,source,bing,regular
+249395146,building,house,regular
+249443228,highway,service,regular
+249443427,natural,water,regular
+249456248,landuse,farmland,regular
+249470733,source,bing,regular
+249470733,building,house,regular
+249470834,source,bing,regular
+249470834,building,house,regular
+249470935,source,bing,regular
+249470935,building,house,regular
+249471039,waterway,drain,regular
+249505161,source,bing,regular
+249505161,building,house,regular
+249505262,source,bing,regular
+249505262,building,house,regular
+249508991,source,bing,regular
+249508991,building,farm,regular
+249520206,source,bing,regular
+249520206,building,house,regular
+249554910,source,bing,regular
+249554910,building,house,regular
+249555025,source,bing,regular
+249555025,building,garage,regular
+249555126,source,bing,regular
+249555126,building,house,regular
+249591688,source,bing,regular
+249591688,building,house,regular
+249591789,source,bing,regular
+249591789,building,house,regular
+249591899,source,bing,regular
+249591899,building,house,regular
+249601806,building,yes,regular
+249675448,source,bing,regular
+249675448,building,house,regular
+249675557,source,bing,regular
+249675557,building,garage,regular
+249786947,source,bing,regular
+249786947,building,apartments,regular
+249786947,levels,3,building
+249787050,source,bing,regular
+249787050,building,house,regular
+249806621,name,Heatherside Cottages,regular
+249806621,building,house,regular
+249869989,source,bing,regular
+249869989,building,house,regular
+249870106,source,bing,regular
+249870106,building,house,regular
+249870206,source,bing,regular
+249870206,building,house,regular
+249870306,source,bing,regular
+249870306,building,house,regular
+249870412,amenity,parking,regular
+250091170,source,bing,regular
+250091170,building,house,regular
+250091170,street,Town Meadow Lane,addr
+250091170,postcode,CH46 7UQ,addr
+250091170,housenumber,30,addr
+250091392,source,bing,regular
+250091392,building,house,regular
+250131840,source,bing,regular
+250131840,building,house,regular
+250131840,street,Francis Avenue,addr
+250131840,postcode,CH46 6DH,addr
+250131840,housenumber,21,addr
+250131996,source,bing,regular
+250131996,building,house,regular
+250131996,street,St Michaels Grove,addr
+250131996,postcode,CH46 6DB,addr
+250131996,housenumber,8,addr
+250132100,source,bing,regular
+250132100,building,house,regular
+250132204,building,garage,regular
+250142135,barrier,fence,regular
+250202041,source,bing,regular
+250202041,building,house,regular
+250202041,street,Wingate Close,addr
+250202041,housenumber,2,addr
+250202169,source,bing,regular
+250202169,building,house,regular
+250202169,street,Ledsham Close,addr
+250202169,housenumber,4,addr
+250202272,source,bing,regular
+250202272,building,house,regular
+250202272,street,Pleasington Close,addr
+250202272,postcode,CH43 9HN,addr
+250202272,housenumber,7,addr
+250202415,source,bing,regular
+250202415,building,garage,regular
+250209588,building,house,regular
+250209588,street,St Peter's Mews,addr
+250209588,postcode,CH42 1RT,addr
+250209588,housenumber,77,addr
+250233325,building,house,regular
+250233325,city,Birkenhead,addr
+250233325,state,Merseyside,addr
+250233325,street,Oakwood Drive,addr
+250233325,country,GB,addr
+250233325,postcode,CH43 7NX,addr
+250233325,housenumber,7,addr
+250269879,source,bing,regular
+250269879,building,house,regular
+250269879,street,Bermuda Road,addr
+250269879,postcode,CH46 6AU,addr
+250271529,building,house,regular
+250271529,street,Macdonald Road,addr
+250271529,postcode,CH46 6BE,addr
+250271529,housenumber,13,addr
+250273914,source,bing,regular
+250273914,building,house,regular
+250292712,waterway,stream,regular
+250365641,building,garage,regular
+250513570,source,bing,regular
+250513570,building,house,regular
+250513570,street,Westcott Way,addr
+250513570,postcode,CH43 9YP,addr
+250513570,levels,2,building
+250513570,housenumber,11,addr
+250547932,source,bing,regular
+250547932,building,house,regular
+250547932,street,Wastdale Court,addr
+250547932,postcode,CH46 7UY,addr
+250547932,housenumber,10,addr
+250548140,source,bing,regular
+250548140,building,house,regular
+250548140,street,Eleanor Road,addr
+250548140,postcode,CH46 7SB,addr
+250548140,housenumber,17,addr
+250548273,source,bing,regular
+250548273,building,house,regular
+250548273,street,Heathmoor Road,addr
+250548273,postcode,CH46 7UN,addr
+250548273,housenumber,3,addr
+250548399,building,house,regular
+250548399,street,Glasier Road,addr
+250548399,postcode,CH46 7SD,addr
+250548399,housenumber,6,addr
+250548500,source,bing,regular
+250548500,building,house,regular
+250548500,street,Berrylands Road,addr
+250548500,postcode,CH46 7UA,addr
+250548500,housenumber,97,addr
+250572731,source,bing,regular
+250572731,building,house,regular
+250572731,street,Ford Drive,addr
+250572731,postcode,CH49 0TU,addr
+250572731,housenumber,3,addr
+250759920,building,house,regular
+250759920,street,Proctor Road,addr
+250759920,postcode,CH42 1PS,addr
+250759920,housenumber,18,addr
+250760035,building,house,regular
+250760035,street,The Dell,addr
+250760035,postcode,CH42 1PW,addr
+250760035,housenumber,83,addr
+250771913,source,bing,regular
+250771913,building,house,regular
+250771913,street,Naseby Close,addr
+250771913,postcode,CH43 9SU,addr
+250771913,housenumber,17,addr
+250772020,highway,footway,regular
+250794112,source,bing,regular
+250794112,building,house,regular
+250794257,source,bing,regular
+250794257,building,house,regular
+250794413,natural,grassland,regular
+250840844,building,house,regular
+250851048,source,bing,regular
+250851048,building,house,regular
+250851157,source,bing,regular
+250851157,building,house,regular
+250928293,building,garage,regular
+250928393,source,bing,regular
+250928393,building,house,regular
+250956110,ref,A5029,regular
+250956110,name,Exmouth Street,regular
+250956110,oneway,yes,regular
+250956110,highway,primary,regular
+250956110,name,NaPTAN,source
+250958617,source,bing,regular
+250958617,building,house,regular
+251040660,source,bing,regular
+251040660,building,house,regular
+251040660,street,Newark  Close,addr
+251040660,postcode,CH43 9AJ,addr
+251040660,housenumber,21,addr
+251040762,source,bing,regular
+251040762,building,house,regular
+251040762,street,Norfolk  Close,addr
+251040762,postcode,CH43 9SL,addr
+251040762,housenumber,8,addr
+251126679,source,bing,regular
+251126679,building,house,regular
+251126816,source,bing,regular
+251126816,building,house,regular
+251126917,source,bing,regular
+251126917,building,house,regular
+251127017,source,bing,regular
+251127017,building,garage,regular
+251127119,source,bing,regular
+251127119,building,house,regular
+251127225,source,bing,regular
+251127225,building,house,regular
+251225295,source,bing,regular
+251225295,building,house,regular
+251225396,source,bing,regular
+251225396,building,house,regular
+251225496,source,bing,regular
+251225496,building,house,regular
+251225733,source,bing,regular
+251225733,building,house,regular
+251254813,source,bing,regular
+251254813,building,house,regular
+251254913,source,bing,regular
+251254913,building,house,regular
+251255014,source,bing,regular
+251255014,building,house,regular
+251255132,source,bing,regular
+251255132,building,house,regular
+251255240,source,bing,regular
+251255240,building,house,regular
+251307714,name,Riverside Court,regular
+251307714,building,apartments,regular
+251307714,city,New Ferry,addr
+251307714,street,Thorburn Road,addr
+251307714,postcode,CH62 1EW,addr
+251307714,housename,Riverside Court,addr
+251307714,levels,3,building
+251307714,housenumber,20,addr
+251307815,source,bing,regular
+251307815,building,house,regular
+251307815,levels,2,building
+251307918,source,bing,regular
+251307918,building,garage,regular
+251307918,levels,1,building
+251418298,source,bing,regular
+251418298,building,house,regular
+251418298,street,Shorefields,addr
+251418298,postcode,CH62 1BX,addr
+251418298,levels,2,building
+251418298,housenumber,42,addr
+251418399,source,bing,regular
+251418399,building,house,regular
+251418399,levels,2,building
+251418502,source,bing,regular
+251418502,building,house,regular
+251418502,levels,2,building
+251418604,source,bing,regular
+251418604,building,house,regular
+251418604,levels,2,building
+251418705,source,bing,regular
+251418705,building,house,regular
+251418705,levels,2,building
+251418812,source,bing,regular
+251418812,building,house,regular
+251418812,levels,2,building
+251418912,source,bing,regular
+251418912,building,house,regular
+251418912,levels,2,building
+251419020,highway,service,regular
+251419020,service,alley,regular
+251459417,building,retail,regular
+251459417,levels,2,building
+251459650,source,bing,regular
+251459650,building,house,regular
+251459650,levels,2,building
+251459805,source,bing,regular
+251459805,building,house,regular
+251459805,levels,2,building
+251459906,landuse,residential,regular
+251476284,natural,wood,regular
+251480740,source,bing,regular
+251480740,building,house,regular
+251480740,levels,2,building
+251480857,building,retail,regular
+251480857,levels,2,building
+251613976,source,bing,regular
+251613976,building,house,regular
+251613976,levels,2,building
+251614080,source,bing,regular
+251614080,building,house,regular
+251614080,levels,2,building
+251614182,building,garage,regular
+251614182,levels,1,building
+251614284,natural,wood,regular
+251642169,building,house,regular
+251642169,levels,2,building
+251642277,landuse,residential,regular
+251654212,building,house,regular
+251654212,levels,2,building
+251735449,source,bing,regular
+251735449,building,house,regular
+251735549,natural,wood,regular
+251764557,source,bing,regular
+251764557,building,retail,regular
+251828078,source,bing,regular
+251828078,building,house,regular
+251836354,source,bing,regular
+251836354,building,house,regular
+251836354,levels,2,building
+251836582,source,bing,regular
+251836582,building,retail,regular
+251836582,levels,2,building
+251852183,source,bing,regular
+251852183,building,house,regular
+251852183,levels,2,building
+251852292,source,bing,regular
+251852292,building,house,regular
+251852292,levels,2,building
+251852463,source,bing,regular
+251852463,building,house,regular
+251852463,levels,2,building
+251913766,source,bing,regular
+251913766,building,garage,regular
+251913766,levels,1,building
+251913926,source,bing,regular
+251913926,building,house,regular
+251913926,levels,2,building
+252130226,source,bing,regular
+252130226,building,house,regular
+252130226,levels,2,building
+252250638,building,industrial,regular
+252250741,source,bing,regular
+252250741,building,house,regular
+252250741,levels,2,building
+252250846,natural,wood,regular
+252370453,building,house,regular
+252378222,building,house,regular
+252378222,state,Merseyside,addr
+252378222,street,Manor Place,addr
+252378222,postcode,CH62 4TU,addr
+252378222,housenumber,22,addr
+252378323,natural,wood,regular
+252417720,source,bing,regular
+252417720,building,house,regular
+252417720,levels,2,building
+252417942,natural,wood,regular
+252593615,source,bing,regular
+252593615,building,house,regular
+252593615,levels,2,building
+252593754,building,house,regular
+252593754,levels,2,building
+252593856,highway,footway,regular
+252593975,natural,grassland,regular
+252652811,source,bing,regular
+252652811,building,house,regular
+252652811,levels,2,building
+252652915,source,bing,regular
+252652915,building,house,regular
+252652915,levels,2,building
+252766621,source,bing,regular
+252766621,building,house,regular
+252766621,levels,2,building
+252796910,source,bing,regular
+252796910,building,industrial,regular
+252797093,source,bing,regular
+252797093,building,industrial,regular
+252797203,source,bing,regular
+252797203,building,industrial,regular
+252797310,landuse,industrial,regular
+252802221,source,Bing,regular
+252802221,building,retail,regular
+252802221,levels,2,building
+252817882,source,Bing,regular
+252817882,building,house,regular
+252817882,levels,2,building
+252817986,source,Bing,regular
+252817986,building,house,regular
+252817986,levels,2,building
+252818086,source,Bing,regular
+252818086,building,house,regular
+252818086,levels,2,building
+252818192,source,Bing,regular
+252818192,building,house,regular
+252818192,levels,2,building
+252818300,building,industrial,regular
+252828256,natural,wood,regular
+252832141,source,bing,regular
+252832141,building,garage,regular
+252832141,levels,1,building
+252832243,source,bing,regular
+252832243,building,house,regular
+252832381,source,bing,regular
+252832381,building,house,regular
+252855977,building,garage,regular
+252855977,levels,1,building
+252856077,source,Bing,regular
+252856077,building,house,regular
+252856077,levels,2,building
+252859107,source,Bing,regular
+252859107,building,house,regular
+252859316,source,Bing,regular
+252859316,building,house,regular
+252869187,source,Bing,regular
+252869187,building,house,regular
+252869288,building,yes,regular
+252871813,source,Bing,regular
+252871813,building,house,regular
+252887109,source,Bing,regular
+252887109,building,house,regular
+252887109,levels,2,building
+252910063,building,garage,regular
+252910223,wood,deciduous,regular
+252910223,natural,wood,regular
+252944181,source,bing,regular
+252944181,building,house,regular
+252944387,source,bing,regular
+252944387,building,house,regular
+253033802,source,bing,regular
+253033802,building,garage,regular
+253033802,levels,1,building
+253033902,source,bing,regular
+253033902,building,apartments,regular
+253034002,source,bing,regular
+253034002,building,house,regular
+253051450,source,bing,regular
+253051450,building,house,regular
+253051562,source,bing,regular
+253051562,building,house,regular
+253051663,source,bing,regular
+253051663,building,house,regular
+253051663,levels,2,building
+253051765,source,bing,regular
+253051765,building,house,regular
+253051884,barrier,fence,regular
+253062673,source,bing,regular
+253062673,building,house,regular
+253062789,source,bing,regular
+253062789,building,house,regular
+253078575,source,bing,regular
+253078575,building,house,regular
+253078675,source,bing,regular
+253078675,building,garage,regular
+253078675,levels,1,building
+253078777,source,bing,regular
+253078777,building,house,regular
+253078878,source,bing,regular
+253078878,building,house,regular
+253078979,source,bing,regular
+253078979,building,retail,regular
+253082121,source,bing,regular
+253082121,building,house,regular
+253119019,building,yes,regular
+253148995,source,bing,regular
+253148995,building,house,regular
+253148995,state,Merseyside,addr
+253148995,street,Queenswood Avenue,addr
+253148995,country,GB,addr
+253148995,postcode,CH63 8NY,addr
+253148995,housenumber,15,addr
+253149097,building,house,regular
+253149097,state,Merseyside,addr
+253149097,street,Woodfield Avenue,addr
+253149097,country,GB,addr
+253149097,postcode,CH63 8PA,addr
+253149097,housenumber,4,addr
+253149200,source,bing,regular
+253149200,building,house,regular
+253149200,street,Rosefield Avenue,addr
+253149200,postcode,CH63 5JW,addr
+253149200,housenumber,85,addr
+253149303,source,bing,regular
+253149303,building,house,regular
+253149406,source,bing,regular
+253149406,building,house,regular
+253149406,state,Merseyside,addr
+253149406,street,Sherwood Drive,addr
+253149406,country,GB,addr
+253149406,postcode,CH63 8LA,addr
+253149406,housenumber,6,addr
+253149506,source,bing,regular
+253149506,building,house,regular
+253149620,source,bing,regular
+253149620,building,house,regular
+253149722,source,bing,regular
+253149722,building,house,regular
+253161224,source,bing,regular
+253161224,building,house,regular
+253161224,state,Merseyside,addr
+253161224,street,Town Lane,addr
+253161224,country,GB,addr
+253161224,postcode,CH63 8LF,addr
+253161224,housenumber,134,addr
+253161329,source,bing,regular
+253161329,building,house,regular
+253161329,state,Merseyside,addr
+253161329,street,Arnot Way,addr
+253161329,country,GB,addr
+253161329,postcode,CH63 8LP,addr
+253161329,housenumber,22,addr
+253161429,building,house,regular
+253161429,state,Merseyside,addr
+253161429,street,Malpas Drive,addr
+253161429,country,GB,addr
+253161429,postcode,CH63 8LS,addr
+253161429,housenumber,47,addr
+253161530,building,garage,regular
+253170805,source,bing,regular
+253170805,building,house,regular
+253170805,city,Prenton,addr
+253170805,state,Merseyside,addr
+253170805,street,Storeton Road,addr
+253170805,country,GB,addr
+253170805,postcode,CH42 8LZ,addr
+253170805,housenumber,225,addr
+253170916,source,bing,regular
+253170916,building,house,regular
+253170916,city,Prenton,addr
+253170916,state,Merseyside,addr
+253170916,street,Mendip Road,addr
+253170916,country,GB,addr
+253170916,postcode,CH42 8NU,addr
+253170916,housenumber,96,addr
+253202004,source,bing,regular
+253202004,building,house,regular
+253202004,city,Birkenhead,addr
+253202004,state,Merseyside,addr
+253202004,street,Buttermere Avenue,addr
+253202004,country,GB,addr
+253202004,postcode,CH43 9RH,addr
+253202004,levels,2,building
+253202004,housenumber,1,addr
+253202130,source,bing,regular
+253202130,building,house,regular
+253202130,city,Birkenhead,addr
+253202130,state,Merseyside,addr
+253202130,street,Buttermere Avenue,addr
+253202130,country,GB,addr
+253202130,postcode,CH43 9RH,addr
+253202130,levels,2,building
+253202130,housenumber,23,addr
+253202317,building,house,regular
+253202317,city,Birkenhead,addr
+253202317,state,Merseyside,addr
+253202317,street,Wirral Way,addr
+253202317,country,GB,addr
+253202317,postcode,CH43 9SF,addr
+253202317,housenumber,7,addr
+253202507,building,garage,regular
+253202507,levels,1,building
+253498371,foot,yes,regular
+253498371,name,Roman Road,regular
+253498371,highway,bridleway,regular
+253498371,motor_vehicle,no,regular
+253515773,source,bing,regular
+253515773,building,house,regular
+253515876,source,bing,regular
+253515876,building,garage,regular
+253515876,levels,1,building
+253515977,source,bing,regular
+253515977,building,house,regular
+253516077,source,bing,regular
+253516077,building,garage,regular
+253516179,source,bing,regular
+253516179,building,garage,regular
+253516329,source,bing,regular
+253516329,building,house,regular
+253516434,source,bing,regular
+253516434,building,house,regular
+253516535,source,bing,regular
+253516535,building,garage,regular
+253516535,levels,1,building
+253516643,source,bing,regular
+253516643,building,house,regular
+253516755,source,bing,regular
+253516755,building,house,regular
+253516880,source,bing,regular
+253516880,building,house,regular
+253516984,source,bing,regular
+253516984,building,house,regular
+253517092,source,bing,regular
+253517092,building,house,regular
+253517092,levels,2,building
+253517239,source,bing,regular
+253517239,building,house,regular
+253517495,source,bing,regular
+253517495,building,house,regular
+253521108,natural,grassland,regular
+253526403,source,bing,regular
+253526403,building,house,regular
+253526403,levels,2,building
+253591385,source,bing,regular
+253591385,building,house,regular
+253591485,source,bing,regular
+253591485,building,house,regular
+253591588,source,bing,regular
+253591588,building,garage,regular
+253591697,source,bing,regular
+253591697,building,house,regular
+253591697,city,Bebington,addr
+253591697,state,Merseyside,addr
+253591697,street,Friars Close,addr
+253591697,country,GB,addr
+253591697,postcode,CH63 3HY,addr
+253591697,housenumber,14,addr
+253591812,source,bing,regular
+253591812,building,house,regular
+253591912,source,bing,regular
+253591912,building,house,regular
+253620966,building,house,regular
+253620966,street,Home Farm Road,addr
+253620966,postcode,CH49 7LG,addr
+253620966,housenumber,113,addr
+253621136,building,house,regular
+253621136,street,Home Farm Road,addr
+253621136,postcode,CH49 7LQ,addr
+253621136,housenumber,42,addr
+253621333,source,bing,regular
+253621333,building,garage,regular
+253621506,highway,footway,regular
+253641660,source,bing,regular
+253641660,building,house,regular
+253641760,source,bing,regular
+253641760,building,house,regular
+253641872,source,bing,regular
+253641872,building,house,regular
+253641872,city,Bebington,addr
+253641872,state,Merseyside,addr
+253641872,street,Highcroft Green,addr
+253641872,country,GB,addr
+253641872,postcode,CH63 3JX,addr
+253641872,housenumber,11,addr
+253641981,source,bing,regular
+253641981,building,house,regular
+253642100,source,bing,regular
+253642100,building,house,regular
+253642208,natural,grassland,regular
+253657519,source,bing,regular
+253657519,building,house,regular
+253670615,source,bing,regular
+253670615,building,house,regular
+253670720,source,bing,regular
+253670720,building,house,regular
+253803202,source,bing,regular
+253803202,building,house,regular
+253803202,city,Wirral,addr
+253803202,street,Wellington Road,addr
+253803202,postcode,CH63 7NF,addr
+253803202,housenumber,20,addr
+253823174,source,bing,regular
+253823174,building,house,regular
+253823348,source,bing,regular
+253823348,building,house,regular
+253823467,source,bing,regular
+253823467,building,house,regular
+253823568,source,bing,regular
+253823568,building,house,regular
+253972666,source,bing,regular
+253972666,building,garage,regular
+253972780,building,garage,regular
+253972780,levels,1,building
+253972880,source,bing,regular
+253972880,building,house,regular
+253972980,source,bing,regular
+253972980,building,house,regular
+253973080,highway,footway,regular
+254012412,building,house,regular
+254012412,state,Merseyside,addr
+254012412,street,Springfield Close,addr
+254012412,country,GB,addr
+254012412,postcode,CH49 7NJ,addr
+254012412,housenumber,6,addr
+254021054,source,bing,regular
+254021054,building,garage,regular
+254139709,source,bing,regular
+254139709,building,house,regular
+254139709,levels,2,building
+254139902,source,bing,regular
+254139902,building,house,regular
+254139902,levels,2,building
+254140169,source,bing,regular
+254140169,building,house,regular
+254140169,levels,2,building
+254371755,building,house,regular
+254371755,street,Blair Park,addr
+254371755,postcode,CH63 9FL,addr
+254371755,levels,2,building
+254371755,housenumber,5,addr
+254391656,building,house,regular
+254391656,state,Wirral,addr
+254391656,street,Lime Avenue,addr
+254391656,country,GB,addr
+254391656,postcode,CH63 2NZ,addr
+254391656,levels,2,building
+254391656,housenumber,20,addr
+254391759,building,house,regular
+254391759,street,Brackenwood Road,addr
+254391759,postcode,CH63 2LT,addr
+254391759,levels,2,building
+254391759,housenumber,89,addr
+254391871,highway,footway,regular
+254434838,name,The Green,regular
+254434838,highway,unclassified,regular
+254434838,postal_code,L13,regular
+254471513,building,house,regular
+254471513,state,Wirral,addr
+254471513,street,Langdale Road,addr
+254471513,country,GB,addr
+254471513,postcode,CH63 3AN,addr
+254471513,levels,2,building
+254471513,housenumber,15,addr
+254471628,source,bing,regular
+254471628,building,house,regular
+254471628,state,Wirral,addr
+254471628,street,Rowan Grove,addr
+254471628,country,GB,addr
+254471628,postcode,CH63 2NH,addr
+254471628,levels,2,building
+254471628,housenumber,38,addr
+254471755,source,bing,regular
+254471755,building,garage,regular
+254471755,levels,1,building
+254497678,building,house,regular
+254497678,state,Wirral,addr
+254497678,street,Stanton Road,addr
+254497678,country,GB,addr
+254497678,postcode,CH63 3AU,addr
+254497678,housenumber,118,addr
+254497783,source,bing,regular
+254497783,building,house,regular
+254497783,state,Wirral,addr
+254497783,street,Cross Lane,addr
+254497783,country,GB,addr
+254497783,postcode,CH63 3AL,addr
+254497783,housenumber,30,addr
+254497883,building,house,regular
+254497883,state,Wirral,addr
+254497883,street,Stanton Road,addr
+254497883,country,GB,addr
+254497883,postcode,CH63 3HW,addr
+254497883,housenumber,55,addr
+254497995,building,house,regular
+254497995,state,Wirral,addr
+254497995,street,Kirket Lane,addr
+254497995,country,GB,addr
+254497995,postcode,CH63 3BY,addr
+254497995,housenumber,83,addr
+254498096,source,bing,regular
+254498096,building,garage,regular
+254498096,levels,1,building
+254523432,building,house,regular
+254523432,city,Birkenhead,addr
+254523432,state,Merseyside,addr
+254523432,street,Whetstone Lane,addr
+254523432,country,GB,addr
+254523432,postcode,CH41 2TG,addr
+254523432,housenumber,100,addr
+254523535,building,house,regular
+254523535,city,Birkenhead,addr
+254523535,state,Merseyside,addr
+254523535,street,Willmer Road,addr
+254523535,country,GB,addr
+254523535,postcode,CH42 0JB,addr
+254523535,levels,2,building
+254523535,housenumber,47,addr
+254523689,natural,scrub,regular
+254539258,building,house,regular
+254539258,city,Birkenhead,addr
+254539258,state,Merseyside,addr
+254539258,street,Asquith Avenue,addr
+254539258,country,GB,addr
+254539258,postcode,CH41 8AT,addr
+254539258,housenumber,22,addr
+254539430,building,house,regular
+254539430,city,Birkenhead,addr
+254539430,state,Merseyside,addr
+254539430,street,Aspinall Street,addr
+254539430,country,GB,addr
+254539430,postcode,CH41 4HZ,addr
+254539430,levels,2,building
+254539430,housenumber,64,addr
+254554246,source,bing,regular
+254554246,building,office,regular
+254554246,colour,#454249,roof
+254554246,colour,#AA987A,building
+254554246,levels,4,building
+254554246,material,stone,building
+254807097,source,bing,regular
+254807097,building,house,regular
+254807097,city,Birkenhead,addr
+254807097,state,Merseyside,addr
+254807097,street,Water Street,addr
+254807097,country,GB,addr
+254807097,postcode,CH41 5ED,addr
+254807097,levels,2,building
+254807097,housenumber,3,addr
+254807255,building,retail,regular
+254807255,levels,2,building
+254815367,building,retail,regular
+254815367,levels,3,building
+254831451,source,bing,regular
+254831451,building,house,regular
+254831451,levels,2,building
+254831619,natural,scrub,regular
+254859589,building,house,regular
+254859589,city,Birkenhead,addr
+254859589,state,Merseyside,addr
+254859589,street,Beckwith Street,addr
+254859589,country,GB,addr
+254859589,postcode,CH41 4HL,addr
+254859589,housenumber,199,addr
+254859712,natural,scrub,regular
+254871409,building,house,regular
+254871409,city,Birkenhead,addr
+254871409,state,Merseyside,addr
+254871409,street,Arthur Street,addr
+254871409,country,GB,addr
+254871409,postcode,CH41 4JB,addr
+254871409,housenumber,75,addr
+254881880,source,bing,regular
+254881880,building,industrial,regular
+255041147,building,house,regular
+255041147,city,Bebington,addr
+255041147,state,Merseyside,addr
+255041147,street,Monks Way,addr
+255041147,country,GB,addr
+255041147,postcode,CH63 3HZ,addr
+255041147,housenumber,17,addr
+255041247,building,house,regular
+255041247,city,Bebington,addr
+255041247,state,Merseyside,addr
+255041247,street,Heathfield Road,addr
+255041247,country,GB,addr
+255041247,postcode,CH63 3BS,addr
+255041247,housenumber,44,addr
+255041359,source,bing,regular
+255041359,building,garage,regular
+255041359,levels,1,building
+255245216,building,house,regular
+255245216,city,Birkenhead,addr
+255245216,state,Merseyside,addr
+255245216,street,Dawson Avenue,addr
+255245216,country,GB,addr
+255245216,postcode,CH41 8ED,addr
+255245216,housenumber,10,addr
+255245372,source,bing,regular
+255245372,building,house,regular
+255245372,city,Birkenhead,addr
+255245372,state,Merseyside,addr
+255245372,street,Brassey Street,addr
+255245372,country,GB,addr
+255245372,postcode,CH41 8DA,addr
+255245372,housenumber,92,addr
+255382927,building,house,regular
+255382927,city,Birkenhead,addr
+255382927,state,Merseyside,addr
+255382927,street,Morley Avenue,addr
+255382927,country,GB,addr
+255382927,postcode,CH41 8AJ,addr
+255382927,levels,2,building
+255382927,housenumber,11,addr
+255383057,building,house,regular
+255383057,city,Birkenhead,addr
+255383057,state,Merseyside,addr
+255383057,street,Cavendish Street,addr
+255383057,country,GB,addr
+255383057,postcode,CH41 8AG,addr
+255383057,housenumber,36,addr
+255395838,building,house,regular
+255395838,city,Birkenhead,addr
+255395838,state,Merseyside,addr
+255395838,street,Laird Street,addr
+255395838,country,GB,addr
+255395838,postcode,CH41 8EN,addr
+255395838,levels,2,building
+255395838,housenumber,134,addr
+255395946,building,house,regular
+255395946,city,Birkenhead,addr
+255395946,state,Merseyside,addr
+255395946,street,Milner Street,addr
+255395946,country,GB,addr
+255395946,postcode,CH41 8HE,addr
+255395946,levels,2,building
+255395946,housenumber,29,addr
+255396047,building,house,regular
+255396047,city,Birkenhead,addr
+255396047,state,Merseyside,addr
+255396047,street,Patten Street,addr
+255396047,country,GB,addr
+255396047,postcode,CH41 8DN,addr
+255396047,housenumber,8,addr
+255398649,building,industrial,regular
+255432716,source,bing,regular
+255432716,building,house,regular
+255432716,city,Birkenhead,addr
+255432716,state,Merseyside,addr
+255432716,street,Corporation Road,addr
+255432716,country,GB,addr
+255432716,postcode,CH41 8JG,addr
+255432716,housenumber,102,addr
+255432887,building,house,regular
+255432887,city,Birkenhead,addr
+255432887,state,Merseyside,addr
+255432887,street,Laird Street,addr
+255432887,country,GB,addr
+255432887,postcode,CH41 7AL,addr
+255432887,levels,2,building
+255432887,housenumber,370,addr
+255442757,waterway,stream,regular
+255513957,building,house,regular
+255513957,city,Birkenhead,addr
+255513957,state,Merseyside,addr
+255513957,street,Mercer Road,addr
+255513957,country,GB,addr
+255513957,postcode,CH43 7SP,addr
+255513957,housenumber,16,addr
+255514208,building,house,regular
+255514208,city,Birkenhead,addr
+255514208,state,Merseyside,addr
+255514208,street,Arkle Road,addr
+255514208,country,GB,addr
+255514208,postcode,CH43 7RS,addr
+255514208,housenumber,33,addr
+255955796,layer,1,regular
+255955796,bridge,yes,regular
+255955796,source,Bing,regular
+255955796,railway,abandoned,regular
+256065504,building,yes,regular
+256356571,source,OS_OpenData_StreetView,regular
+256356571,railway,disused,regular
+256382768,building,yes,historic
+256683654,building,house,regular
+256683654,city,Bebington,addr
+256683654,state,Merseyside,addr
+256683654,street,Kirket Close,addr
+256683654,country,GB,addr
+256683654,postcode,CH63 3DL,addr
+256683654,housenumber,1,addr
+256694898,name,Benbow Close,regular
+256694898,source,Yahoo,regular
+256694898,highway,residential,regular
+256694898,name,OS OpenData Locator,source
+256695000,building,house,regular
+256695000,city,Birkenhead,addr
+256695000,state,Merseyside,addr
+256695000,street,Naylor Road,addr
+256695000,country,GB,addr
+256695000,postcode,CH43 7SN,addr
+256695000,housenumber,21,addr
+256695105,building,house,regular
+256695105,city,Birkenhead,addr
+256695105,state,Merseyside,addr
+256695105,street,Naylor Road,addr
+256695105,country,GB,addr
+256695105,postcode,CH43 7SW,addr
+256695105,housenumber,37,addr
+256695219,building,house,regular
+256695219,city,Birkenhead,addr
+256695219,state,Merseyside,addr
+256695219,street,Oakwood Drive,addr
+256695219,country,GB,addr
+256695219,postcode,CH43 7NX,addr
+256695219,housenumber,6,addr
+256711199,building,house,regular
+256711199,city,Birkenhead,addr
+256711199,state,Merseyside,addr
+256711199,street,Tollemache Road,addr
+256711199,country,GB,addr
+256711199,postcode,CH41 0DL,addr
+256711199,housenumber,106,addr
+256711329,building,house,regular
+256711329,city,Birkenhead,addr
+256711329,state,Merseyside,addr
+256711329,street,Bidston Avenue,addr
+256711329,country,GB,addr
+256711329,postcode,CH41 0DU,addr
+256711329,housenumber,166,addr
+256711431,building,house,regular
+256711431,city,Birkenhead,addr
+256711431,state,Merseyside,addr
+256711431,street,Thistleton Avenue,addr
+256711431,country,GB,addr
+256711431,postcode,CH41 0AU,addr
+256711431,levels,2,building
+256711431,housenumber,36,addr
+256711562,source,bing,regular
+256711562,building,house,regular
+256711562,city,Birkenhead,addr
+256711562,state,Merseyside,addr
+256711562,street,Sumner Road,addr
+256711562,country,GB,addr
+256711562,postcode,CH43 7RW,addr
+256711562,levels,2,building
+256711562,housenumber,75,addr
+256711682,highway,footway,regular
+256822615,tidal,yes,regular
+256822615,natural,mud,regular
+256859988,building,house,regular
+256859988,city,Birkenhead,addr
+256859988,state,Merseyside,addr
+256859988,street,Shamrock Road,addr
+256859988,country,GB,addr
+256859988,postcode,CH41 0EG,addr
+256859988,housenumber,17,addr
+256860096,building,house,regular
+256860096,city,Birkenhead,addr
+256860096,state,Merseyside,addr
+256860096,street,Boundary Road,addr
+256860096,country,GB,addr
+256860096,postcode,CH43 7PF,addr
+256860096,housenumber,26,addr
+256860209,building,house,regular
+256860209,city,Birkenhead,addr
+256860209,state,Merseyside,addr
+256860209,street,Woodsorrel Road,addr
+256860209,country,GB,addr
+256860209,postcode,CH41 0DN,addr
+256860209,housenumber,35,addr
+256860344,building,house,regular
+256860344,city,Birkenhead,addr
+256860344,state,Merseyside,addr
+256860344,street,Primrose Road,addr
+256860344,country,GB,addr
+256860344,postcode,CH41 0EF,addr
+256860344,housenumber,48,addr
+256860447,source,bing,regular
+256860447,building,house,regular
+256860447,city,Birkenhead,addr
+256860447,state,Merseyside,addr
+256860447,street,Tollemache Road,addr
+256860447,country,GB,addr
+256860447,postcode,CH41 0DQ,addr
+256860447,housenumber,70,addr
+256860548,source,bing,regular
+256860548,building,garage,regular
+256860548,levels,1,building
+256910168,note,"private according to sign, but everyone uses it - think the sign is just to prevent a right of way being established so that one day they can build on it!",regular
+256910168,access,private,regular
+256910168,highway,path,regular
+256986352,layer,1,regular
+256986352,bridge,yes,regular
+256986352,source,OS_OpenData_StreetView,regular
+256986352,railway,abandoned,regular
+257022973,railway,rail,regular
+257022973,service,spur,regular
+257106119,source,bing,regular
+257106119,building,house,regular
+257106119,city,Birkenhead,addr
+257106119,state,Merseyside,addr
+257106119,street,Cranbourne Avenue,addr
+257106119,country,GB,addr
+257106119,postcode,CH41 0BU,addr
+257106119,housenumber,26,addr
+257106486,building,house,regular
+257106486,city,Birkenhead,addr
+257106486,state,Merseyside,addr
+257106486,street,Park Road North,addr
+257106486,country,GB,addr
+257106486,postcode,CH41 0DB,addr
+257106486,housenumber,464,addr
+257130096,building,retail,regular
+257130096,city,West Kirby,addr
+257130096,state,Merseyside,addr
+257130096,street,Banks Road,addr
+257130096,country,GB,addr
+257130096,postcode,CH48 0RF,addr
+257130096,housenumber,132,addr
+257130235,building,house,regular
+257130235,city,West Kirby,addr
+257130235,state,Merseyside,addr
+257130235,street,Shrewsbury Road,addr
+257130235,country,GB,addr
+257130235,postcode,CH48 0QZ,addr
+257130235,housenumber,3,addr
+257130353,building,retail,regular
+257130353,city,West Kirby,addr
+257130353,state,Merseyside,addr
+257130353,street,Banks Road,addr
+257130353,country,GB,addr
+257130353,postcode,CH48 0RE,addr
+257130353,housenumber,78,addr
+257130457,building,garage,regular
+257130457,levels,1,building
+257130588,sport,bowls,regular
+257130588,leisure,pitch,regular
+257422606,building,house,regular
+257422606,city,Birkenhead,addr
+257422606,state,Merseyside,addr
+257422606,street,Mallaby Street,addr
+257422606,country,GB,addr
+257422606,postcode,CH41 8DE,addr
+257422606,levels,2,building
+257422606,housenumber,29,addr
+257422817,building,house,regular
+257422817,city,Birkenhead,addr
+257422817,state,Merseyside,addr
+257422817,shape,gabled,roof
+257422817,street,Elfet Street,addr
+257422817,colour,#A55D56,roof
+257422817,country,GB,addr
+257422817,postcode,CH41 0BA,addr
+257422817,levels,2,building
+257422817,housenumber,8,addr
+257436770,building,house,regular
+257436770,city,Birkenhead,addr
+257436770,state,Merseyside,addr
+257436770,street,Thornton Street,addr
+257436770,country,GB,addr
+257436770,postcode,CH41 0BE,addr
+257436770,levels,2,building
+257436770,housenumber,12,addr
+257436872,building,house,regular
+257436872,city,Birkenhead,addr
+257436872,state,Merseyside,addr
+257436872,street,Falkland Street,addr
+257436872,country,GB,addr
+257436872,postcode,CH41 0BD,addr
+257436872,levels,2,building
+257436872,housenumber,30,addr
+257436985,building,house,regular
+257436985,city,Birkenhead,addr
+257436985,state,Merseyside,addr
+257436985,shape,gabled,roof
+257436985,street,Clifford Street,addr
+257436985,colour,#A55D56,roof
+257436985,country,GB,addr
+257436985,postcode,CH41 0BJ,addr
+257436985,levels,2,building
+257436985,housenumber,51,addr
+257594857,building,house,regular
+257594857,city,Birkenhead,addr
+257594857,state,Merseyside,addr
+257594857,street,Gilbrook Square,addr
+257594857,country,GB,addr
+257594857,postcode,CH41 0AF,addr
+257594857,levels,2,building
+257594857,housenumber,16;17,addr
+257594992,building,house,regular
+257594992,city,Birkenhead,addr
+257594992,state,Merseyside,addr
+257594992,street,Lansdowne Road,addr
+257594992,country,GB,addr
+257594992,postcode,CH41 7AA,addr
+257594992,levels,2,building
+257594992,housenumber,75,addr
+257607666,building,house,regular
+257607666,city,Birkenhead,addr
+257607666,state,Merseyside,addr
+257607666,street,Danescourt Road,addr
+257607666,country,GB,addr
+257607666,postcode,CH41 8AH,addr
+257607666,housenumber,33,addr
+257827970,building,yes,regular
+258180155,highway,service,regular
+258360371,highway,service,regular
+258360371,service,parking_aisle,regular
+259596634,height,5.2,regular
+259596634,building,yes,regular
+259596634,landmark,tower,regular
+259596634,colour,#65443E,building
+259596634,levels,2,building
+259596634,material,brick,building
+262517625,name,Merseyrail Northern Line (Down Southport),regular
+262517625,gauge,1435,regular
+262517625,railway,rail,regular
+262517625,maxspeed,45 mph,regular
+262517625,electrified,rail,regular
+263976437,height,56,regular
+263976437,min_height,55,regular
+263976437,colour,white,roof
+263976437,part,yes,building
+264000946,height,17,regular
+264000946,building,part,regular
+264000946,min_height,11,regular
+264000946,shape,pyramidal,roof
+264000946,colour,white,roof
+264000946,height,3,roof
+264000946,material,glass,roof
+264000946,material,brick,building
+264244600,highway,footway,regular
+264388597,highway,path,regular
+267409183,building,house,regular
+267409183,city,Ellesmere Port,addr
+267409183,state,Cheshire,addr
+267409183,shape,gabled,roof
+267409183,street,Stanley Road,addr
+267409183,colour,grey,roof
+267409183,country,GB,addr
+267409183,postcode,CH65 2BB,addr
+267409183,levels,2,building
+267409183,housenumber,15,addr
+267409183,material,brick,building
+267409376,building,house,regular
+267409376,city,Ellesmere Port,addr
+267409376,state,Cheshire,addr
+267409376,shape,gabled,roof
+267409376,street,Stanley Road,addr
+267409376,colour,grey,roof
+267409376,country,GB,addr
+267409376,postcode,CH65 2BQ,addr
+267409376,colour,brown,building
+267409376,levels,2,building
+267409376,housenumber,47,addr
+267409376,material,brick,building
+267424381,building,house,regular
+267424381,city,Liverpool,addr
+267424381,state,Merseyside,addr
+267424381,shape,gabled,roof
+267424381,street,Petworth Close,addr
+267424381,colour,grey,roof
+267424381,country,GB,addr
+267424381,postcode,Invalid Zip Code,addr
+267424381,colour,#AD9970,building
+267424381,levels,2,building
+267424381,housenumber,1,addr
+267424381,material,brick,building
+267424532,building,house,regular
+267424532,city,Liverpool,addr
+267424532,state,Merseyside,addr
+267424532,shape,gabled,roof
+267424532,street,Colworth Road,addr
+267424532,colour,grey,roof
+267424532,country,GB,addr
+267424532,postcode,Invalid Zip Code,addr
+267424532,colour,#CDA58B,building
+267424532,levels,2,building
+267424532,housenumber,40,addr
+267731435,building,terrace,regular
+267731435,city,Liverpool,addr
+267731435,state,Merseyside,addr
+267731435,shape,gabled,roof
+267731435,street,School Way,addr
+267731435,country,GB,addr
+267731435,postcode,Invalid Zip Code,addr
+267731435,levels,2,building
+267731435,housenumber,100,addr
+267731549,building,terrace,regular
+267731549,city,Liverpool,addr
+267731549,state,Merseyside,addr
+267731549,shape,gabled,roof
+267731549,street,Rycot Road,addr
+267731549,country,GB,addr
+267731549,postcode,Invalid Zip Code,addr
+267731549,levels,2,building
+267731549,housenumber,151,addr
+267731653,building,terrace,regular
+267731653,city,Liverpool,addr
+267731653,state,Merseyside,addr
+267731653,shape,gabled,roof
+267731653,street,School Way,addr
+267731653,country,GB,addr
+267731653,postcode,Invalid Zip Code,addr
+267731653,levels,2,building
+267731653,housenumber,90,addr
+267746534,building,yes,regular
+268972556,building,yes,regular
+268977384,building,yes,regular
+269148940,building,yes,regular
+269150190,building,yes,regular
+269179979,highway,footway,regular
+269195794,access,private,regular
+269195794,highway,service,regular
+269195794,service,driveway,regular
+269224159,highway,service,regular
+269224159,service,parking_aisle,regular
+269332140,building,house,regular
+269332140,street,Hope Street,addr
+269332140,housenumber,58,addr
+269351807,building,yes,regular
+269931948,landuse,railway,regular
+270867181,building,yes,regular
+270872432,building,yes,regular
+270877939,building,yes,regular
+270883661,highway,service,regular
+270885050,building,yes,regular
+270893098,building,yes,regular
+271092395,building,yes,regular
+271093969,building,yes,regular
+271117436,building,yes,regular
+271120172,building,residential,regular
+271122167,building,yes,regular
+271154909,building,yes,regular
+271156533,building,yes,regular
+271165349,building,yes,regular
+271170255,building,yes,regular
+271175390,highway,service,regular
+271430372,building,house,regular
+271430372,city,Liverpool,addr
+271430372,street,Bedford Street South,addr
+271430372,geometry,Bing 2012,source
+271430372,housenumber,136,addr
+271727806,building,yes,regular
+271728792,building,yes,regular
+271737532,building,yes,regular
+271759726,name,Steble Fountain,regular
+271759726,amenity,fountain,regular
+271759726,natural,water,regular
+271759726,wikidata,Q7605557,regular
+271759726,wikipedia,en:Steble Fountain,regular
+272538874,building,yes,regular
+272759772,building,yes,regular
+273227000,building,house,regular
+273227000,city,Liverpool,addr
+273227000,state,Merseyside,addr
+273227000,street,Yeadon Walk,addr
+273227000,country,GB,addr
+273227000,postcode,Invalid Zip Code,addr
+273227000,housenumber,17,addr
+273227152,building,house,regular
+273227152,city,Liverpool,addr
+273227152,state,Merseyside,addr
+273227152,street,Yeadon Walk,addr
+273227152,country,GB,addr
+273227152,postcode,Invalid Zip Code,addr
+273227152,housenumber,5,addr
+273297570,name,The Paramount,regular
+273297570,landuse,construction,regular
+273314173,building,house,regular
+273314173,city,Liverpool,addr
+273314173,state,Merseyside,addr
+273314173,street,Ramsbrook Road,addr
+273314173,country,GB,addr
+273314173,postcode,Invalid Zip Code,addr
+273314173,levels,2,building
+273314173,housenumber,24,addr
+273314341,building,house,regular
+273314341,city,Liverpool,addr
+273314341,state,Merseyside,addr
+273314341,street,Greyhound Farm Road,addr
+273314341,country,GB,addr
+273314341,postcode,Invalid Zip Code,addr
+273314341,levels,2,building
+273314341,housenumber,41,addr
+273314533,building,house,regular
+273314533,city,Liverpool,addr
+273314533,state,Merseyside,addr
+273314533,street,Blackrod Avenue,addr
+273314533,country,GB,addr
+273314533,postcode,Invalid Zip Code,addr
+273314533,levels,2,building
+273314533,housenumber,70,addr
+273314754,natural,grassland,regular
+273325564,building,house,regular
+273325564,city,Liverpool,addr
+273325564,state,Merseyside,addr
+273325564,street,Bray Road,addr
+273325564,country,GB,addr
+273325564,postcode,Invalid Zip Code,addr
+273325564,levels,2,building
+273325564,housenumber,51,addr
+273325896,building,garage,regular
+273325896,levels,1,building
+273431327,building,house,regular
+273431327,city,Liverpool,addr
+273431327,state,Merseyside,addr
+273431327,street,East Damwood Road,addr
+273431327,country,GB,addr
+273431327,postcode,Invalid Zip Code,addr
+273431327,levels,2,building
+273431327,housenumber,59,addr
+273431453,building,garage,regular
+273431453,levels,1,building
+273431587,natural,grassland,regular
+274121615,building,industrial,regular
+274171441,building,industrial,regular
+274171441,city,Wallasey,addr
+274171441,state,Merseyside,addr
+274171441,street,Birkenhead Road,addr
+274171441,country,GB,addr
+274171441,postcode,CH44 7JN,addr
+274171441,housenumber,150,addr
+274171571,building,house,regular
+274171571,city,Wallasey,addr
+274171571,state,Merseyside,addr
+274171571,street,Vivian Avenue,addr
+274171571,country,GB,addr
+274171571,postcode,CH44 7BD,addr
+274171571,levels,2,building
+274171571,housenumber,3,addr
+274171674,building,house,regular
+274171674,city,Wallasey,addr
+274171674,state,Merseyside,addr
+274171674,street,Horseman Place,addr
+274171674,country,GB,addr
+274171674,postcode,CH44 7BL,addr
+274171674,levels,2,building
+274171674,housenumber,8,addr
+274171775,building,industrial,regular
+275403275,barrier,fence,regular
+275467407,building,terrace,regular
+276460790,building,house,regular
+276460790,state,Merseyside,addr
+276460790,street,Delves Avenue,addr
+276460790,country,GB,addr
+276460790,postcode,CH63 9YG,addr
+276460790,levels,2,building
+276460790,housenumber,1,addr
+276460925,building,house,regular
+276460925,state,Merseyside,addr
+276460925,street,Fulbrook Road,addr
+276460925,country,GB,addr
+276460925,postcode,CH63 9HT,addr
+276460925,levels,2,building
+276460925,housenumber,20,addr
+276461160,building,house,regular
+276461160,state,Merseyside,addr
+276461160,street,Brimstage Road,addr
+276461160,country,GB,addr
+276461160,postcode,CH63 3EW,addr
+276461160,levels,2,building
+276461160,housenumber,40,addr
+276461434,building,yes,regular
+276461434,levels,1,building
+276485856,building,house,regular
+276485856,state,Merseyside,addr
+276485856,street,Church Road,addr
+276485856,country,GB,addr
+276485856,postcode,CH63 3EF,addr
+276485856,housenumber,106,addr
+276485964,building,house,regular
+276485964,state,Merseyside,addr
+276485964,street,Brimstage Road,addr
+276485964,country,GB,addr
+276485964,postcode,CH63 3EW,addr
+276485964,levels,2,building
+276485964,housenumber,20,addr
+276486074,building,house,regular
+276486074,state,Merseyside,addr
+276486074,street,Firs Avenue,addr
+276486074,country,GB,addr
+276486074,postcode,CH63 3ET,addr
+276486074,levels,2,building
+276486074,housenumber,37,addr
+276486186,building,house,regular
+276486186,state,Merseyside,addr
+276486186,street,Wirral Gardens,addr
+276486186,country,GB,addr
+276486186,postcode,CH63 3BG,addr
+276486186,levels,2,building
+276486186,housenumber,91,addr
+276486290,building,yes,regular
+276486290,levels,1,building
+276486398,building,yes,regular
+276486398,levels,1,building
+276497513,building,house,regular
+276497513,state,Merseyside,addr
+276497513,street,Quarry Avenue,addr
+276497513,country,GB,addr
+276497513,postcode,CH63 3HE,addr
+276497513,levels,2,building
+276497513,housenumber,49,addr
+276689116,building,house,regular
+276689116,state,Merseyside,addr
+276689116,street,Broadstone Drive,addr
+276689116,country,GB,addr
+276689116,postcode,CH63 9HZ,addr
+276689116,levels,2,building
+276689116,housenumber,1,addr
+276689223,landuse,farmland,regular
+276956897,building,house,regular
+276956897,state,Merseyside,addr
+276956897,street,Buckland Drive,addr
+276956897,country,GB,addr
+276956897,postcode,CH63 9AA,addr
+276956897,housenumber,18,addr
+276956998,building,house,regular
+276956998,state,Merseyside,addr
+276956998,street,Inley Close,addr
+276956998,country,GB,addr
+276956998,postcode,CH63 9YT,addr
+276956998,housenumber,6,addr
+276957098,building,garage,regular
+276957098,levels,1,building
+276983177,building,garage,regular
+276983177,levels,1,building
+278072427,building,yes,regular
+279102692,name,Clatter Brook,regular
+279102692,waterway,stream,regular
+279102793,building,farm,regular
+279102905,landuse,farmland,regular
+279103014,tidal,yes,regular
+279103014,natural,sand,regular
+279103266,water,pond,regular
+279103266,natural,water,regular
+279379291,building,residential,regular
+279379291,housename,Tudor Lodge,addr
+279379391,building,residential,regular
+279379577,landuse,farmland,regular
+279379769,water,pond,regular
+279379769,natural,water,regular
+279397159,name,Bluecoat Chambers,regular
+279397159,website,http://www.thebluecoat.org.uk/,regular
+279397159,building,yes,regular
+279397159,wikidata,Q2409878,regular
+279397159,wikipedia,en:Bluecoat Chambers,regular
+279397159,year_of_construction,1716,regular
+279397266,building,yes,regular
+279418931,building,yes,regular
+279419041,landuse,farmland,regular
+279419319,waterway,drain,regular
+279578700,ref,A5050,regular
+279578700,name,St Domingo Road,regular
+279578700,lanes,2,regular
+279578700,source,bing,regular
+279578700,highway,primary,regular
+279578700,postal_code,L5,regular
+279578700,name,OS OpenData Locator,source
+279628807,building,garage,regular
+279628807,levels,1,building
+279628953,building,garage,regular
+279628953,levels,1,building
+279629099,building,house,regular
+279629236,building,house,regular
+279662663,building,yes,regular
+279662788,landuse,farmland,regular
+279662959,water,pond,regular
+279662959,natural,water,regular
+279815231,building,yes,regular
+279815335,water,pond,regular
+279815335,natural,water,regular
+279859563,landuse,farmland,regular
+279876478,building,house,regular
+279876478,state,Merseyside,addr
+279876478,street,Moseley Road,addr
+279876478,country,GB,addr
+279876478,postcode,CH63 9NT,addr
+279876478,housenumber,19,addr
+279876581,building,house,regular
+279907401,landuse,farmland,regular
+280019041,building,garage,regular
+280019041,levels,1,building
+280019144,building,house,regular
+280019276,building,house,regular
+280025447,building,house,regular
+280048995,landuse,farmland,regular
+280134117,building,yes,regular
+280134218,building,yes,regular
+280134325,landuse,farmland,regular
+280136596,landuse,farmland,regular
+280259884,building,house,regular
+280259984,building,yes,regular
+280272125,highway,footway,regular
+280288941,building,yes,regular
+280289047,water,pond,regular
+280289047,natural,water,regular
+280498514,building,yes,regular
+280498617,landuse,grass,regular
+283435885,water,pond,regular
+283435885,natural,water,regular
+283487434,water,pond,regular
+283487434,natural,water,regular
+283869584,building,residential,regular
+283869684,building,yes,regular
+283869785,building,residential,regular
+283878506,building,residential,regular
+283878606,building,residential,regular
+284784745,building,residential,regular
+284784845,building,residential,regular
+284784950,building,residential,regular
+284792778,building,yes,regular
+284792894,wood,deciduous,regular
+284792894,natural,wood,regular
+284833158,building,residential,regular
+284833264,building,residential,regular
+284833364,building,residential,regular
+284833364,levels,1,building
+284833466,building,residential,regular
+284833570,building,residential,regular
+284837101,building,residential,regular
+284863901,highway,footway,regular
+284924448,building,residential,regular
+284924552,building,residential,regular
+284924653,building,farm,regular
+284924762,building,residential,regular
+284924873,building,residential,regular
+284965817,building,residential,regular
+284965918,building,yes,regular
+284966022,building,residential,regular
+285015518,building,residential,regular
+285053945,building,residential,regular
+285054054,building,residential,regular
+285149718,building,residential,regular
+285149818,building,residential,regular
+285149918,building,residential,regular
+285187697,building,garage,regular
+285187697,levels,1,building
+285187809,building,residential,regular
+285187915,building,residential,regular
+285491045,building,residential,regular
+285491145,building,residential,regular
+285491245,building,residential,regular
+285491348,building,residential,regular
+285491448,building,yes,regular
+285564459,building,farm,regular
+285694029,waterway,drain,regular
+285714356,building,residential,regular
+285714459,building,residential,regular
+285714564,building,residential,regular
+285714687,building,residential,regular
+285714789,building,residential,regular
+285714889,building,residential,regular
+285715007,building,residential,regular
+285715114,building,residential,regular
+285715218,building,residential,regular
+285715324,building,residential,regular
+285733238,building,residential,regular
+285733342,building,house,regular
+285738448,building,residential,regular
+285746484,building,garage,regular
+285746484,levels,1,building
+285746637,building,residential,regular
+285746780,building,residential,regular
+285746961,building,residential,regular
+285814705,building,yes,regular
+285814868,building,residential,regular
+285815073,building,yes,regular
+285815378,building,residential,regular
+285815637,building,residential,regular
+285822162,building,residential,regular
+285862500,building,residential,regular
+285862603,building,residential,regular
+285862712,building,residential,regular
+285862812,building,residential,regular
+285908212,building,garage,regular
+285908212,levels,1,building
+285940755,building,yes,regular
+285940862,wood,deciduous,regular
+285940862,natural,wood,regular
+285999237,building,yes,regular
+286034949,building,residential,regular
+286035138,building,residential,regular
+286035279,building,residential,regular
+286035419,building,residential,regular
+286035560,building,yes,regular
+286035696,building,residential,regular
+286050400,building,residential,regular
+286059285,building,residential_home,regular
+286064303,building,residential,regular
+286142960,building,residential,regular
+286143069,building,residential,regular
+286213238,building,residential,regular
+286437276,building,yes,regular
+286437380,building,yes,regular
+286437480,landuse,farmyard,regular
+286437584,waterway,drain,regular
+286437689,natural,wood,regular
+288322893,building,residential,regular
+288322996,building,residential,regular
+288323098,building,residential,regular
+288323198,building,residential,regular
+288323298,building,residential,regular
+288362579,height,24,regular
+288362579,website,http://www.towerbuilding.co.uk/,regular
+288362579,building,yes,regular
+288362579,street,Water Street,addr
+288362579,colour,#6F7069,roof
+288362579,part,yes,building
+288362579,housename,Tower Building,addr
+288362579,colour,#F1E1BE,building
+288362579,material,stone,building
+288430288,building,residential,regular
+288430393,building,residential,regular
+288430498,building,residential,regular
+288430599,building,residential,regular
+288435438,highway,footway,regular
+288446752,building,garage,regular
+288446752,levels,1,building
+288446864,building,residential,regular
+288446965,building,residential,regular
+288447066,building,garage,regular
+288447066,levels,1,building
+288477350,building,residential,regular
+288477466,building,residential,regular
+288477566,building,residential,regular
+288477667,building,residential,regular
+288477863,building,residential,regular
+288477963,building,residential,regular
+288478067,building,residential,regular
+288478196,building,residential,regular
+288478306,building,residential,regular
+288478409,building,residential,regular
+288488019,building,residential,regular
+288488119,building,residential,regular
+288488223,building,residential,regular
+288488332,building,residential,regular
+288488464,building,residential,regular
+288488568,building,residential,regular
+288492801,name,Blakeley Brow,regular
+288492801,source,Bing,regular
+288492801,highway,residential,regular
+288613947,building,residential,regular
+288614050,building,residential,regular
+288614150,building,residential,regular
+288623871,building,residential,regular
+288624041,building,residential,regular
+288624205,building,residential,regular
+288624348,building,residential,regular
+288624495,building,residential,regular
+288676483,building,residential,regular
+288676586,building,residential,regular
+288676687,building,residential,regular
+288676799,building,residential,regular
+288676904,building,residential,regular
+288677008,building,residential,regular
+288677112,building,residential,regular
+288677212,building,residential,regular
+288808417,building,residential,regular
+288808520,building,residential,regular
+288808623,building,residential,regular
+288808723,building,residential,regular
+288808825,building,residential,regular
+288808937,building,residential,regular
+288809041,building,residential,regular
+288829160,landuse,farmland,regular
+289332169,building,residential,regular
+289332269,building,garage,regular
+289332269,levels,1,building
+289332371,building,garage,regular
+289332371,levels,1,building
+289332474,building,residential,regular
+289332575,building,garage,regular
+289332575,levels,1,building
+289332690,building,residential,regular
+289332856,building,residential,regular
+289332977,building,residential,regular
+289516104,building,residential,regular
+289516233,natural,scrub,regular
+289525137,building,residential,regular
+289525239,building,residential,regular
+289525339,building,residential,regular
+289533423,building,residential,regular
+289553888,building,residential,regular
+289553991,building,garage,regular
+289553991,levels,1,building
+289554097,building,garage,regular
+289554097,levels,1,building
+289554215,building,residential,regular
+289554317,building,residential,regular
+289554420,building,residential,regular
+289554531,building,residential,regular
+289554637,building,residential,regular
+289554743,building,residential,regular
+289565089,building,yes,regular
+289565198,building,residential,regular
+289565314,building,residential,regular
+289785713,natural,wood,regular
+289857625,natural,wood,regular
+289857789,natural,water,regular
+290000095,building,residential,regular
+290000202,building,residential,regular
+290000303,building,residential,regular
+290038911,building,residential,regular
+290039031,building,residential,regular
+290039131,building,garage,regular
+290039270,building,residential,regular
+290039383,building,residential,regular
+290039495,highway,footway,regular
+290071260,building,yes,regular
+290071394,building,yes,regular
+290071539,building,residential,regular
+290071685,building,yes,regular
+290071816,building,residential,regular
+290071942,building,terrace,regular
+290071942,levels,2,building
+290072073,building,terrace,regular
+290072073,levels,2,building
+290072220,building,terrace,regular
+290072220,levels,2,building
+290072364,building,terrace,regular
+290072364,levels,2,building
+290072578,building,terrace,regular
+290072578,levels,2,building
+290072724,building,terrace,regular
+290072724,levels,2,building
+290079205,building,residential,regular
+294214530,highway,unclassified,regular
+294588849,golf,bunker,regular
+294588849,natural,sand,regular
+295540428,bridge,yes,regular
+295540428,highway,tertiary,regular
+295540428,name,Lees Lane,regular
+295568310,highway,footway,regular
+295582160,landuse,farmland,regular
+295706944,water,pond,regular
+295706944,natural,water,regular
+295859038,highway,service,regular
+295859038,service,parking_aisle,regular
+295990444,amenity,parking,regular
+296027031,landuse,grass,regular
+296042427,natural,wood,regular
+296060218,landuse,retail,regular
+296067692,building,yes,regular
+296079092,building,yes,regular
+296084331,name,One Offs Ltd,regular
+296084331,building,yes,regular
+296084331,city,Liverpool,addr
+296084331,industrial,machine_shop,regular
+296084331,street,Forth Street,addr
+296084331,raw_material,metal,regular
+296084331,postcode,Invalid Zip Code,addr
+296084331,housenumber,40,addr
+296205879,highway,service,regular
+296205879,service,alley,regular
+298548852,building,apartments,regular
+298548852,colour,#514F50,roof
+298548852,material,concrete,roof
+298548852,colour,#FFFFE5,building
+298548852,levels,14,building
+298548852,material,concrete,building
+300314356,building,yes,regular
+300314549,building,residential,regular
+300442139,building,yes,regular
+300442239,building,yes,regular
+300442340,building,house,regular
+300442340,levels,2,building
+301045614,name,Aleo Plating Ltd,regular
+301045614,craft,electroplating;beadblasting,regular
+301045614,website,http://www.aleoplating.com,regular
+301045614,building,industrial,regular
+301045614,city,Liverpool,addr
+301045614,industrial,machine_shop,regular
+301045614,street,Vauxhall Road,addr
+301045614,raw_material,metal,regular
+301045614,postcode,Invalid Zip Code,addr
+301045614,housenumber,138,addr
+301368196,oneway,-1,regular
+301368196,highway,service,regular
+301389629,highway,service,regular
+301389629,service,alley,regular
+301401806,highway,service,regular
+301401806,service,alley,regular
+301405011,landuse,grass,regular
+301414321,building,yes,regular
+301416649,highway,track,regular
+301418149,building,yes,regular
+301418249,building,yes,regular
+301464511,building,yes,regular
+301559747,sport,soccer,regular
+301559747,leisure,pitch,regular
+305021632,building,yes,regular
+305021820,building,yes,regular
+305022024,building,yes,regular
+308906732,highway,service,regular
+310552502,landuse,meadow,regular
+310886745,building,yes,regular
+311651702,name,Clinical Sciences Building,regular
+311651702,building,hospital,regular
+311986602,name,Canterbury Street,regular
+311986602,highway,unclassified,regular
+311986602,postal_code,L3,regular
+311997236,landuse,industrial,regular
+313025881,amenity,school,regular
+313075547,building,yes,regular
+313278089,building,yes,regular
+313278211,building,yes,regular
+313688623,building,house,regular
+314051137,bicycle,yes,regular
+314051137,foot,yes,regular
+314051137,highway,cycleway,regular
+314051137,segregated,no,regular
+315950417,leisure,pitch,regular
+315950417,surface,grass,regular
+316402926,highway,footway,regular
+316443526,landuse,grass,regular
+318829667,highway,footway,regular
+320761751,highway,service,regular
+321225436,barrier,fence,regular
+321352989,gauge,1435,regular
+321352989,source,bing,regular
+321352989,railway,rail,regular
+321385297,name,Willaston Church of England Primary School,regular
+321385297,amenity,school,regular
+321661853,gauge,1435,regular
+321661853,railway,rail,regular
+321661853,service,crossover,regular
+321661853,maxspeed,15 mph,regular
+321661853,electrified,rail,regular
+323239109,name,Rake House Farm,regular
+323239109,landuse,farmyard,regular
+323239220,building,yes,regular
+323239324,building,yes,regular
+323239435,building,yes,regular
+323239574,building,yes,regular
+323239678,building,yes,regular
+323239783,building,yes,regular
+323239913,building,yes,regular
+323240017,building,yes,regular
+323240123,building,yes,regular
+323240225,building,yes,regular
+323240329,building,yes,regular
+323240462,building,yes,regular
+323240570,landuse,residential,regular
+323273814,building,yes,regular
+323273936,building,yes,regular
+323274042,building,yes,regular
+323274145,building,yes,regular
+323312350,building,yes,regular
+323312464,building,yes,regular
+323312602,building,yes,regular
+323312710,building,yes,regular
+323312817,building,yes,regular
+323312923,building,yes,regular
+323313023,building,yes,regular
+323313127,building,yes,regular
+323313232,building,yes,regular
+323313338,building,yes,regular
+323463211,natural,wood,regular
+323463311,building,yes,regular
+323463438,building,yes,regular
+323463660,building,yes,regular
+323463867,building,yes,regular
+323464018,building,yes,regular
+323464118,building,yes,regular
+323464224,building,yes,regular
+323464339,building,yes,regular
+323464439,building,yes,regular
+323464539,building,yes,regular
+323464648,building,yes,regular
+323491563,building,yes,regular
+323491663,building,yes,regular
+323491769,building,yes,regular
+323491872,building,garage,regular
+323491973,building,garage,regular
+323492105,building,yes,regular
+323492232,building,yes,regular
+323492335,building,yes,regular
+323492497,building,yes,regular
+323538088,natural,scrub,regular
+323538208,building,yes,regular
+323538320,building,yes,regular
+323538432,source,bing,regular
+323538432,building,garage,regular
+323538543,building,yes,regular
+323538656,building,yes,regular
+323538767,building,yes,regular
+323538880,building,yes,regular
+323538997,building,yes,regular
+323539132,source,bing,regular
+323539132,building,yes,regular
+323539278,building,yes,regular
+323539422,building,yes,regular
+323539607,source,bing,regular
+323539607,building,yes,regular
+323539843,source,bing,regular
+323539843,building,yes,regular
+323539843,street,Seaview,addr
+323539843,addr,survey,source
+323539843,housenumber,17,addr
+323540039,landuse,farmland,regular
+323631917,building,yes,regular
+323632018,building,yes,regular
+323632118,building,yes,regular
+323632218,building,yes,regular
+323632331,landuse,farmland,regular
+323668650,natural,grassland,regular
+323668753,building,yes,regular
+323668857,building,yes,regular
+323668960,building,yes,regular
+323669060,building,yes,regular
+323669160,building,yes,regular
+323669260,building,yes,regular
+323669364,building,yes,regular
+323669487,building,yes,regular
+323669591,building,yes,regular
+323669704,building,yes,regular
+323669820,building,yes,regular
+323977091,building,yes,regular
+323977193,building,yes,regular
+323977308,building,yes,regular
+323977408,building,yes,regular
+323977595,building,yes,regular
+323977805,building,yes,regular
+323977905,building,yes,regular
+323978006,building,yes,regular
+323978106,building,yes,regular
+323978206,building,yes,regular
+323978307,building,yes,regular
+323978408,building,yes,regular
+323978559,building,yes,regular
+324028127,water,pond,regular
+324028127,natural,water,regular
+324028231,building,yes,regular
+324028339,building,yes,regular
+324028440,building,yes,regular
+324028542,building,yes,regular
+324028644,building,yes,regular
+324028745,building,yes,regular
+324028849,building,yes,regular
+324044232,natural,wood,regular
+324044342,landuse,residential,regular
+324078826,building,house,regular
+324079122,building,house,regular
+324079298,building,yes,regular
+324079453,building,yes,regular
+324079592,building,house,regular
+324079692,building,yes,regular
+324079793,building,yes,regular
+324079895,building,house,regular
+324080001,building,house,regular
+324080102,building,yes,regular
+324080256,building,house,regular
+324080363,building,house,regular
+324080469,building,house,regular
+324219131,natural,grassland,regular
+324219261,building,yes,regular
+324219395,building,yes,regular
+324219504,building,yes,regular
+324219607,building,yes,regular
+324219732,building,yes,regular
+324219915,building,yes,regular
+324220020,building,yes,regular
+324248461,building,yes,regular
+324248603,building,yes,regular
+324248712,building,yes,regular
+324248812,building,yes,regular
+324248921,building,yes,regular
+324249027,building,yes,regular
+324249139,building,yes,regular
+324249248,building,yes,regular
+324249373,building,yes,regular
+324249487,building,yes,regular
+324249589,building,yes,regular
+324249716,building,yes,regular
+324249827,building,yes,regular
+324310302,water,pond,regular
+324310302,natural,water,regular
+324324421,building,yes,regular
+324324533,building,yes,regular
+324324633,building,yes,regular
+324347219,building,yes,regular
+324347319,building,yes,regular
+324347419,building,house,regular
+324347523,building,yes,regular
+324347623,building,yes,regular
+324347732,building,yes,regular
+324347858,building,yes,regular
+324347960,building,yes,regular
+324348077,building,house,regular
+324348177,building,yes,regular
+324461384,building,house,regular
+324461384,levels,2,building
+324461567,building,house,regular
+324461567,levels,2,building
+324461752,building,house,regular
+324461752,levels,2,building
+324462013,building,house,regular
+324462013,levels,2,building
+324462359,building,house,regular
+324462359,levels,2,building
+324462558,building,house,regular
+324462558,levels,2,building
+324462752,building,yes,regular
+324462950,building,yes,regular
+324463165,building,yes,regular
+324463296,building,house,regular
+324463296,levels,2,building
+324486291,building,house,regular
+324486291,levels,2,building
+324486402,building,house,regular
+324486536,building,house,regular
+324486536,levels,2,building
+324486640,building,yes,regular
+324486741,building,house,regular
+324486741,levels,2,building
+324486850,building,house,regular
+324486955,building,house,regular
+324486955,levels,2,building
+324487055,building,house,regular
+324487055,levels,2,building
+324487155,building,house,regular
+324487255,building,house,regular
+324487255,levels,2,building
+324487358,building,yes,regular
+324487462,building,yes,regular
+324487567,building,house,regular
+324487567,levels,2,building
+324487672,landuse,residential,regular
+324602720,building,garage,regular
+324602821,building,yes,regular
+324602922,building,yes,regular
+324603026,building,yes,regular
+324603127,building,yes,regular
+324603228,building,yes,regular
+324603333,building,yes,regular
+324603433,building,yes,regular
+324603533,building,yes,regular
+324603635,building,yes,regular
+324603744,building,house,regular
+324603845,building,house,regular
+324603953,building,yes,regular
+324705662,building,yes,regular
+324705763,building,yes,regular
+324705863,building,yes,regular
+324720743,building,yes,regular
+324720856,building,yes,regular
+324736269,building,yes,regular
+324736399,building,yes,regular
+324736506,building,yes,regular
+324757407,building,yes,regular
+324757562,building,yes,regular
+324757664,building,yes,regular
+324757768,building,yes,regular
+324757873,building,yes,regular
+324786383,building,yes,regular
+324786484,building,yes,regular
+324786586,building,yes,regular
+324800486,building,yes,regular
+324800618,building,yes,regular
+324800765,building,yes,regular
+324800937,building,yes,regular
+324812798,building,garage,regular
+324812909,building,yes,regular
+324813019,building,garage,regular
+324813133,building,yes,regular
+324819889,building,yes,regular
+324819989,building,yes,regular
+324820107,building,yes,regular
+324820217,building,yes,regular
+324833486,building,yes,regular
+324833590,building,yes,regular
+324833690,building,yes,regular
+324833793,building,yes,regular
+324833897,building,yes,regular
+324849399,natural,water,regular
+324849505,building,yes,regular
+324849610,building,yes,regular
+324849760,building,yes,regular
+324849863,waterway,drain,regular
+324983248,building,yes,regular
+324983348,building,yes,regular
+324983451,building,garage,regular
+324983552,building,yes,regular
+324983652,building,yes,regular
+324983760,building,yes,regular
+324983862,landuse,retail,regular
+324987453,building,yes,regular
+324993085,building,yes,regular
+325011605,building,yes,regular
+325011708,building,garage,regular
+325011809,building,yes,regular
+325011911,building,yes,regular
+325012014,building,yes,regular
+325012115,building,yes,regular
+325014716,highway,residential,regular
+325038725,building,yes,regular
+325038860,building,yes,regular
+325039015,building,yes,regular
+325039145,building,yes,regular
+325039245,building,yes,regular
+325039345,building,yes,regular
+325039445,building,yes,regular
+325039550,building,yes,regular
+325039673,building,yes,regular
+325039786,building,yes,regular
+325176656,water,pond,regular
+325176656,natural,water,regular
+325176804,building,yes,regular
+325176937,building,yes,regular
+325177067,building,garage,regular
+325177199,building,yes,regular
+325177361,building,yes,regular
+325177491,building,yes,regular
+325177621,building,yes,regular
+325177748,building,yes,regular
+325177878,building,yes,regular
+325178009,building,yes,regular
+325178138,building,yes,regular
+325178294,building,yes,regular
+325178552,building,yes,regular
+325178853,building,yes,regular
+325179263,building,yes,regular
+325257288,building,yes,regular
+325257396,building,yes,regular
+325257496,building,yes,regular
+325257600,building,yes,regular
+325296245,building,yes,regular
+325296386,building,yes,regular
+325296489,building,yes,regular
+325296593,building,house,regular
+325296693,building,yes,regular
+325296793,building,yes,regular
+325296896,building,yes,regular
+325296997,building,yes,regular
+325297099,building,yes,regular
+325420929,natural,wood,regular
+325421163,building,yes,regular
+325421370,building,yes,regular
+325421581,building,yes,regular
+325421858,building,yes,regular
+325422116,building,yes,regular
+325422540,building,yes,regular
+325422763,building,yes,regular
+325430123,building,yes,regular
+325444444,building,house,regular
+325774297,building,yes,regular
+325774399,building,yes,regular
+325774506,building,yes,regular
+325774634,building,yes,regular
+325774734,building,yes,regular
+325774834,building,yes,regular
+325786586,building,yes,regular
+325786741,building,yes,regular
+325786870,building,yes,regular
+325884039,building,yes,regular
+325884145,building,yes,regular
+325884252,building,yes,regular
+325884358,building,yes,regular
+325884464,building,yes,regular
+325884581,building,yes,regular
+325884746,building,yes,regular
+325884852,building,yes,regular
+325884989,building,yes,regular
+325885098,building,yes,regular
+325898905,name,Christie Close,regular
+325898905,highway,residential,regular
+325899007,building,yes,regular
+325899123,building,yes,regular
+325899223,building,yes,regular
+325938363,name,Meadowbank Drive,regular
+325938363,highway,residential,regular
+325938733,building,yes,regular
+325939079,building,yes,regular
+325939407,building,yes,regular
+325939745,building,yes,regular
+325939978,building,yes,regular
+325940204,building,yes,regular
+325940442,building,yes,regular
+325940596,building,yes,regular
+325940769,building,yes,regular
+325940894,building,yes,regular
+325941029,building,yes,regular
+326123312,name,Eagle Lane,regular
+326123312,highway,residential,regular
+326123439,building,yes,regular
+326123554,building,yes,regular
+326123655,building,yes,regular
+326123761,building,yes,regular
+326123866,building,yes,regular
+326123966,building,yes,regular
+326124069,building,yes,regular
+326124169,building,yes,regular
+326124302,building,yes,regular
+326124403,building,yes,regular
+326124590,building,yes,regular
+326141685,building,yes,regular
+326141786,building,yes,regular
+326141891,building,yes,regular
+326142018,building,yes,regular
+326142148,building,yes,regular
+326142253,building,yes,regular
+326142359,building,yes,regular
+326142463,landuse,grass,regular
+326195725,building,yes,regular
+326195827,source,OS OpenData,regular
+326195827,building,yes,regular
+326195951,building,yes,regular
+326196059,building,yes,regular
+326196162,building,yes,regular
+326241659,building,yes,regular
+326241760,building,yes,regular
+326241866,building,yes,regular
+326241968,building,yes,regular
+326242070,building,yes,regular
+326242173,building,yes,regular
+326242273,highway,footway,regular
+326268386,building,yes,regular
+326268592,building,yes,regular
+326268704,building,yes,regular
+326268848,building,yes,regular
+326268997,building,yes,regular
+326269131,building,yes,regular
+326269248,building,yes,regular
+326269405,building,yes,regular
+326269636,building,yes,regular
+326269798,building,yes,regular
+326269903,building,yes,regular
+326270003,building,yes,regular
+326270108,waterway,riverbank,regular
+326500937,building,yes,regular
+326562241,building,yes,regular
+326562784,building,yes,regular
+326563202,building,yes,regular
+326563746,building,yes,regular
+326564108,building,yes,regular
+326564529,building,yes,regular
+326817304,highway,path,regular
+327597501,natural,wood,regular
+327597619,building,yes,regular
+327597727,building,yes,regular
+327597845,building,yes,regular
+327597964,building,yes,regular
+327598071,building,yes,regular
+327598176,building,yes,regular
+327598280,building,yes,regular
+327598384,building,yes,regular
+327598490,building,yes,regular
+327598604,building,yes,regular
+327598736,building,yes,regular
+327598854,building,yes,regular
+327598958,building,yes,regular
+327599067,building,yes,regular
+327599172,building,yes,regular
+327599277,building,yes,regular
+328017675,building,house,regular
+332885604,building,residential,regular
+335336628,barrier,wall,regular
+337627169,name,Asda Fuel Station,regular
+337627169,amenity,fuel,regular
+337627169,building,roof,regular
+337627169,opening_hours,24/7,regular
+338548485,natural,wood,regular
+339017472,highway,service,regular
+339017472,service,parking_aisle,regular
+339537650,oneway,yes,regular
+339537650,highway,unclassified,regular
+340313998,name,Liberty Place,regular
+340313998,highway,residential,regular
+343911405,barrier,fence,regular
+343911405,landuse,grass,regular
+350446839,highway,residential,regular
+355151316,highway,footway,regular
+355463574,source,bing,regular
+355463574,building,house,regular
+355463574,levels,2,building
+355463675,building,garage,regular
+355463778,building,garage,regular
+355463878,building,yes,regular
+355464029,building,yes,regular
+356035692,building,yes,regular
+356035795,building,yes,regular
+356048055,building,yes,regular
+356048166,building,yes,regular
+356048325,building,yes,regular
+356048457,building,yes,regular
+356048580,building,yes,regular
+356048713,building,yes,regular
+356052793,building,yes,regular
+356052914,building,yes,regular
+356053015,building,yes,regular
+356068517,lit,yes,regular
+356068517,name,Stillington Road,regular
+356068517,highway,residential,regular
+356068517,surface,paved,regular
+356068517,postal_code,L8,regular
+356068618,building,yes,regular
+356068721,building,yes,regular
+356068821,building,yes,regular
+356068970,building,yes,regular
+356069070,building,yes,regular
+356069178,building,yes,regular
+356069281,building,yes,regular
+356069393,building,yes,regular
+356069498,building,yes,regular
+356084630,building,yes,regular
+356084741,building,yes,regular
+356084881,building,yes,regular
+356085027,building,yes,regular
+356085225,building,yes,regular
+356085353,building,yes,regular
+356085525,building,yes,regular
+356085677,building,yes,regular
+356085798,building,yes,regular
+356574338,building,yes,regular
+356574521,building,yes,regular
+356574636,building,yes,regular
+356574744,building,yes,regular
+356574872,building,yes,regular
+356574999,building,yes,regular
+356575101,building,yes,regular
+356597317,building,yes,regular
+356597423,building,yes,regular
+356597524,building,yes,regular
+356597627,building,yes,regular
+357124782,building,yes,regular
+357124907,building,yes,regular
+357125048,building,yes,regular
+357125181,building,yes,regular
+357125281,building,yes,regular
+357125399,building,yes,regular
+357125521,building,yes,regular
+357125633,building,yes,regular
+357125758,building,yes,regular
+357125859,building,yes,regular
+357125959,building,yes,regular
+357126061,building,yes,regular
+357126164,highway,service,regular
+357126164,service,alley,regular
+357224864,building,yes,regular
+357225031,building,yes,regular
+358505133,highway,footway,regular
+359229564,highway,service,regular
+361773802,landuse,farmland,regular
+362469296,area,yes,regular
+362469296,man_made,pier,regular
+362780079,building,house,regular
+362780079,city,Greasby,addr
+362780079,street,Eastway,addr
+362780079,country,GB,addr
+362780079,postcode,CH49 2NT,addr
+362780079,housenumber,40,addr
+364431529,landuse,retail,regular
+367873843,barrier,fence,regular
+370971143,landuse,grass,regular
+373650525,name,Wood Henge,regular
+373650525,landuse,recreation_ground,regular
+374586143,highway,service,regular
+374586143,service,alley,regular
+375356291,building,house,regular
+375356291,city,Liverpool,addr
+375356291,street,Field Lane,addr
+375356291,postcode,Invalid Zip Code,addr
+375356291,housename,Chantler Household,addr
+375356291,housenumber,46,addr
+376912194,leisure,park,regular
+379427951,highway,service,regular
+379427951,service,parking_aisle,regular
+386949550,highway,residential,regular
+389380866,name,Merseyrail Wirral Line (Up New Brighton),regular
+389380866,gauge,1435,regular
+389380866,railway,rail,regular
+389380866,maxspeed,15 mph,regular
+389380866,electrified,rail,regular
+391881119,highway,footway,regular
+392861347,natural,wood,regular
+392874628,highway,footway,regular
+393353691,highway,service,regular
+393353691,service,alley,regular
+396964138,name,Greasby Infant School,regular
+396964138,source,Bing,regular
+396964138,amenity,school,regular
+396964138,website,www.greasby-infant.eschools.co.uk,regular
+396964138,street,Barker Lane,addr
+396964138,edubase,105022,ref
+396964138,postcode,CH49 3NX,addr
+398750305,highway,service,regular
+398750305,service,driveway,regular
+400504053,name,Oxton St Saviour's CE (Aided) Primary School,regular
+400504053,source,Bing,regular
+400504053,amenity,school,regular
+400504053,website,www.oxtonstsavioursschool.com,regular
+400504053,street,Holm Lane,addr
+400504053,edubase,105066,ref
+400504053,postcode,CH43 2HT,addr
+401167261,landuse,residential,regular
+401775464,highway,service,regular
+401775464,service,alley,regular
+401847326,name,Canterbury Street,regular
+401847326,highway,unclassified,regular
+401847326,postal_code,L3,regular
+402172222,foot,no,regular
+402172222,bicycle,no,regular
+402172222,highway,service,regular
+402172222,surface,paved,regular
+402172222,motorcar,no,regular
+404262440,landuse,grass,regular
+407197826,barrier,hedge,regular
+408592769,building,house,regular
+408592769,street,Edward Manton Close,addr
+408592769,postcode,CH63 8PU,addr
+408592769,levels,2,building
+408592769,housenumber,3,addr
+409597631,highway,tertiary,regular
+409597631,maxspeed,30 mph,regular
+409597631,name,Melling Road,regular
+409597631,postal_code,L9,regular
+409597631,source,Yahoo+GPS,regular
+412440962,highway,footway,regular
+413379583,barrier,hedge,regular
+417301196,name,North Parade,regular
+417301196,fixme,possbly one way,regular
+417301196,highway,unclassified,regular
+417301196,maxspeed,30 mph,regular
+420089756,highway,footway,regular
+420402477,highway,service,regular
+420402477,service,alley,regular
+420411080,building,terrace,regular
+422432209,highway,residential,regular
+422432209,name,Berrydale Road,regular
+428245943,building,yes,regular
+432318454,building,house,regular
+432318454,city,Liverpool,addr
+432318454,street,Chatham Street,addr
+432318454,geometry,Bing 2012,source
+432318454,housenumber,148,addr
+432741679,name,Mostyn Place,regular
+432741679,building,school,regular
+432741679,old_name,Mostyn House School,regular
+432741679,use,residential,building
+435115317,highway,path,regular
+436057997,building,house,regular
+436057997,street,Hope Street,addr
+436057997,housenumber,60,addr
+436315411,highway,residential,regular
+437030136,building,yes,regular
+437030136,city,"Runcorn, Cheshire",addr
+437030136,street,Pimlico Road,addr
+437030136,postcode,Invalid Zip Code,addr
+437030136,housenumber,19,addr
+438193331,highway,residential,regular
+438193331,horse,no,regular
+438193331,name,Wallace Court,regular
+438858972,building,yes,regular
+438875701,building,yes,regular
+439021947,building,yes,regular
+439041406,sport,soccer,regular
+439041406,leisure,pitch,regular
+439074376,amenity,parking,regular
+439995145,building,yes,regular
+442861654,man_made,cutline,regular
+443804201,building,house,regular
+443804201,street,Weston Road,addr
+443804201,housenumber,35,addr
+444312359,building,yes,regular
+444319159,highway,steps,regular
+444327165,building,residential,regular
+444328639,building,residential,regular
+444329623,building,residential,regular
+444332591,building,yes,regular
+444332691,building,residential,regular
+444333963,building,residential,regular
+444340050,building,residential,regular
+444340150,building,yes,regular
+444457805,building,yes,regular
+444710999,building,yes,regular
+445583689,landuse,residential,regular
+445794889,highway,footway,regular
+445920956,landuse,residential,regular
+445974683,landuse,industrial,regular
+446360465,building,yes,regular
+446493713,building,yes,regular
+446528738,building,residential,regular
+446528838,highway,service,regular
+446528838,service,parking_aisle,regular
+446530320,building,residential,regular
+446565337,landuse,residential,regular
+446604640,landuse,residential,regular
+446729308,landuse,residential,regular
+446801447,highway,service,regular
+446963192,natural,tree_row,regular
+447582235,landuse,residential,regular
+448968474,building,yes,regular
+449062044,highway,footway,regular
+449081613,building,semidetached_house,regular
+449114658,building,yes,regular
+449242883,building,terrace,regular
+449246760,barrier,wall,regular
+449711561,footway,sidewalk,regular
+449711561,highway,footway,regular
+450063247,barrier,fence,regular
+450063347,barrier,fence,regular
+451119670,landuse,grass,regular
+453081822,natural,wood,regular
+453394539,building,yes,regular
+454049659,highway,unclassified,regular
+454264921,barrier,fence,regular
+454410922,natural,wood,regular
+454492642,landuse,grass,regular
+454925649,building,house,regular
+455335180,building,yes,regular
+455391534,building,house,regular
+455391658,building,house,regular
+455391770,building,house,regular
+455527133,building,house,regular
+455527233,building,house,regular
+455527333,building,house,regular
+455550721,building,yes,regular
+455752342,building,house,regular
+455957825,building,house,regular
+455999288,highway,residential,regular
+456182745,building,house,regular
+456645071,highway,residential,regular
+456680921,highway,footway,regular
+456825095,highway,footway,regular
+457628725,building,house,regular
+457633660,building,house,regular
+457719029,natural,wood,regular
+459088424,area,yes,regular
+459213255,landuse,residential,regular
+460323858,landuse,grass,regular
+460611035,building,yes,regular
+460611137,building,yes,regular
+460612989,building,yes,regular
+460623495,building,house,regular
+460623495,street,Brentwood Avenue,addr
+460623596,building,yes,regular
+460628027,building,yes,regular
+460628128,building,yes,regular
+460628228,building,yes,regular
+460638144,building,house,regular
+460638144,street,Ampthill Road,addr
+460638144,housenumber,17,addr
+460638246,building,house,regular
+460638246,street,Ashbourne Road,addr
+460638246,housenumber,26,addr
+460638347,building,house,regular
+460638347,street,Fulwood Road,addr
+460638347,housenumber,45,addr
+460638447,building,yes,regular
+460638547,building,house,regular
+460638547,street,Aigburth Road,addr
+460734440,building,yes,regular
+460796583,building,residential,regular
+460811514,building,house,regular
+460811514,street,Briarwood Road,addr
+460811514,housenumber,9,addr
+460812568,building,yes,regular
+460815726,building,yes,regular
+460815840,building,yes,regular
+460837128,building,house,regular
+460838894,building,yes,regular
+460919699,name,Kennel Plantation,regular
+460919699,natural,wood,regular
+461021432,building,yes,regular
+461121677,building,house,regular
+461608369,building,yes,regular
+461614214,building,yes,regular
+462380513,housenumber,8,addr
+462380513,street,Blenheim Drive,addr
+462380513,building,yes,regular
+462380619,building,house,regular
+462828225,name,Harrington Place,regular
+462828225,highway,residential,regular
+463420246,building,yes,regular
+463684868,natural,tree_row,regular
+464565485,name,Crosby Hall,regular
+464565485,building,yes,regular
+464784883,building,house,regular
+464785000,building,house,regular
+464969581,building,house,regular
+464969779,building,house,regular
+465437616,highway,footway,regular
+465446410,building,house,regular
+465446538,building,house,regular
+465464000,building,house,regular
+465464115,building,house,regular
+465486487,waterway,drain,regular
+465724376,highway,residential,regular
+465959661,highway,service,regular
+465959661,service,alley,regular
+467243811,leisure,common,regular
+467247938,building,house,regular
+467603254,street,Jermyn Street,addr
+467603254,building,yes,regular
+467603354,building,yes,regular
+467612863,highway,footway,regular
+467770111,bicycle,no,regular
+467770111,foot,yes,regular
+467770111,highway,footway,regular
+467770111,horse,no,regular
+467770111,lit,no,regular
+467770111,motor_vehicle,no,regular
+467770111,name,Gresford Close — Haslemere,regular
+468015747,building,semidetached_house,regular
+468015847,building,semidetached_house,regular
+468018322,building,semidetached_house,regular
+468025991,building,semidetached_house,regular
+468420545,building,house,regular
+468566803,natural,water,regular
+468566803,water,stream,regular
+468888998,building,house,regular
+469112707,building,semidetached_house,regular
+469115053,building,semidetached_house,regular
+469115165,building,semidetached_house,regular
+469119376,building,house,regular
+469213080,natural,water,regular
+469213080,water,reservoir,regular
+469507878,building,house,regular
+469666579,building,house,regular
+469714176,building,house,regular
+470005734,highway,service,regular
+471272698,highway,footway,regular
+472079794,building,house,regular
+472316274,amenity,clinic,regular
+472316274,building,yes,regular
+472316274,name,Nutgrove Villa Surgery,regular
+472377167,barrier,fence,regular
+472692824,building,house,regular
+473133511,highway,residential,regular
+473367797,amenity,restaurant,regular
+473367797,building,yes,regular
+473367797,name,The Navigator,regular
+473367899,building,house,regular
+474169089,landuse,grass,regular
+474380098,highway,residential,regular
+474380098,name,High Clere Crescent,regular
+474654675,highway,service,regular
+474671009,building,house,regular
+474684329,landuse,grass,regular
+474770767,highway,residential,regular
+474776342,building,house,regular
+474776465,landuse,grass,regular
+474787060,building,house,regular
+474787160,building,house,regular
+474908473,highway,service,regular
+475105580,barrier,fence,regular
+475122553,building,house,regular
+475597833,building,house,regular
+475599082,building,house,regular
+475599583,building,house,regular
+475874314,building,house,regular
+476090963,highway,footway,regular
+477936324,building,house,regular
+477949255,landuse,grass,regular
+478452438,highway,service,regular
+478600255,building,house,regular
+478603860,building,house,regular
+478942210,building,house,regular
+478942385,building,house,regular
+478946652,building,house,regular
+479162181,building,house,regular
+479165622,building,house,regular
+479166897,building,house,regular
+479534254,highway,residential,regular
+479534254,name,Helford Close,regular
+479606747,barrier,fence,regular
+479672699,highway,residential,regular
+479741319,building,house,regular
+479860947,highway,residential,regular
+479860947,name,Angelica Drive,regular
+481234809,highway,footway,regular
+481264752,natural,wood,regular
+481658850,bridge,yes,regular
+481658850,highway,footway,regular
+482847295,landuse,grass,regular
+483295699,highway,footway,regular
+484218902,building,house,regular
+484219041,building,house,regular
+484274085,building,house,regular
+484825723,building,house,regular
+484910831,barrier,fence,regular
+484953339,barrier,fence,regular
+484962629,barrier,fence,regular
+485356214,landuse,grass,regular
+485372078,barrier,fence,regular
+485513785,barrier,hedge,regular
+485705840,landuse,grass,regular
+485931121,landuse,grass,regular
+486163626,barrier,hedge,regular
+486793115,building,house,regular
+487067721,highway,footway,regular
+487161478,barrier,fence,regular
+487167824,area,yes,regular
+487167824,railway,platform,regular
+488054296,landuse,grass,regular
+488096990,barrier,fence,regular
+488489406,building,yes,regular
+488833431,natural,scrub,regular
+489382683,barrier,fence,regular
+489396794,building,house,regular
+489631173,landuse,grass,regular
+489638912,highway,service,regular
+489638912,service,parking_aisle,regular
+489860242,building,house,regular
+490168937,area,yes,regular
+490168937,highway,residential,regular
+490300010,barrier,fence,regular
+490332625,barrier,fence,regular
+490428249,barrier,fence,regular
+490480719,barrier,fence,regular
+490932740,highway,residential,regular
+490932740,name,Leyfield Road,regular
+490932740,name,NaPTAN,source
+491418632,bridge,yes,regular
+491418632,highway,footway,regular
+491769921,building,house,regular
+492614270,landuse,grass,regular
+492852876,highway,footway,regular
+493263157,barrier,fence,regular
+494269008,building,residential,regular
+494772270,landuse,grass,regular
+495010371,landuse,grass,regular
+495015580,building,house,regular
+495015717,building,house,regular
+495017218,building,house,regular
+495247447,building,house,regular
+495247547,building,house,regular
+495248219,building,house,regular
+496696054,barrier,fence,regular
+496700785,barrier,fence,regular
+499546037,highway,footway,regular
+499546037,surface,paved,regular
+499894886,barrier,fence,regular
+502751303,building,yes,regular
+503224205,building,house,regular
+503860760,highway,primary,regular
+503860760,name,Cronton Road,regular
+503860760,note,classification may have changed since npe,regular
+503860760,oneway,yes,regular
+503860760,ref,A5080,regular
+503860760,source,npe and existing segments,regular
+503860760,name,OS_OpenData_Locator,source
+505667966,highway,footway,regular
+507325969,amenity,place_of_worship,regular
+507325969,building,yes,regular
+507325969,name,St Edmund Of Canterbury Church,regular
+507325969,source,OS OpenMap Local,regular
+507330851,building,school,regular
+507330851,source,OS OpenMap Local,regular
+507330958,building,hospital,regular
+507330958,source,OS OpenMap Local,regular
+507331156,building,school,regular
+507331156,source,OS OpenMap Local,regular
+507335361,amenity,post_office,regular
+507335361,building,yes,regular
+507335361,source,OS OpenMap Local,regular
+507336689,amenity,police,regular
+507336689,building,yes,regular
+507336689,name,Allerton Police Station,regular
+507336689,opening_hours,Mo-Su 08:00-23:00,regular
+507336689,source,OS OpenMap Local,regular
+507336795,building,school,regular
+507336795,level,1,isced
+507336795,source,OS OpenMap Local,regular
+507343658,amenity,library,regular
+507343658,building,yes,regular
+507343658,source,OS OpenMap Local,regular
+507762889,highway,residential,regular
+507762889,name,Brakedale Close,regular
+507762889,source,DigitalGlobe-Standard,regular
+507762889,name,OS_OpenData_Locator,source
+508804280,highway,footway,regular
